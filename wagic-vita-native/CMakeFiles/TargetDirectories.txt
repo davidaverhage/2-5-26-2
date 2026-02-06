@@ -1,0 +1,6 @@
+/build/CMakeFiles/wagic-vita.dir
+/build/CMakeFiles/wagic-vita-velf.dir
+/build/CMakeFiles/wagic-vita.self-self.dir
+/build/CMakeFiles/wagic-vita.vpk-vpk.dir
+/build/CMakeFiles/edit_cache.dir
+/build/CMakeFiles/rebuild_cache.dir
