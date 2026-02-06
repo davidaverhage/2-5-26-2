@@ -1,0 +1,50 @@
+#NAME:Nightmare
+#DESC:'All evil is as a nightmare'
+#DESC:Thomas Carlyle
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Air Elemental (RV) (*) * 2
+Animate Dead (RV) (*) * 2
+Bad Moon (RV) (*) * 2
+Bog Wraith (RV) (*) * 2
+Cursed Land (RV) (*) * 1
+El-Hajjaj (RV) (*) * 2
+Fear (RV) (*) * 1
+Hypnotic Specter (RV) (*) * 2 
+# RV Islands
+1392
+1392
+1392
+1392
+1393
+1393
+1393
+1393
+1394
+1394
+1394
+1394
+Lifetap (RV) (*) * 2
+Lord of Atlantis (RV) (*) * 2
+Mahamoti Djinn (RV) (*) * 2
+Merfolk of the Pearl Trident (RV) (*) * 4
+Nightmare (RV) (*) * 4
+Obsianus Golem (RV) (*) * 2
+Scathe Zombies (RV) (*) * 3
+# RV Islands
+1373
+1373
+1373
+1373
+1374
+1374
+1374
+1374
+1375
+1375
+1375
+1375
+Unholy Strength (RV)(*) * 1
+Wall of Bone (RV) (*) * 1
+Zombie Master (RV) (*) * 1

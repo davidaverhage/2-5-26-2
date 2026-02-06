@@ -1,0 +1,66 @@
+[card]
+name=Benalish Infantry
+abilities=banding
+text=Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+mana={2}{W}
+type=Creature
+subtype=Human Soldier
+power=1
+toughness=3
+[/card]
+[card]
+name=Bone Dancer
+text=Whenever Bone Dancer attacks and isn't blocked, you may put the top creature card of defending player's graveyard onto the battlefield under your control. If you do, Bone Dancer assigns no combat damage this turn.
+mana={1}{B}{B}
+type=Creature
+subtype=Zombie
+power=2
+toughness=2
+[/card]
+[card]
+name=Kithkin Armor
+text=Enchant creature -- Enchanted creature can't be blocked by creatures with power 3 or greater. -- Sacrifice Kithkin Armor: The next time a source of your choice would deal damage to enchanted creature this turn, prevent that damage.
+mana={W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Volunteer Reserves
+abilities=banding
+text=Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) -- Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+mana={1}{W}
+type=Creature
+subtype=Human Soldier
+power=2
+toughness=4
+[/card]
+[card]
+name=Ertai's Familiar
+text=Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) -- When Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard. -- {U}: Until your next upkeep, Ertai's Familiar can't phase out.
+mana={1}{U}
+type=Creature
+subtype=Illusion
+power=2
+toughness=2
+[/card]
+[card]
+name=Liege of the Hollows
+text=When Liege of the Hollows dies, each player may pay any amount of mana. Then each player who paid mana this way puts that many 1/1 green Squirrel creature tokens onto the battlefield.
+mana={2}{G}{G}
+type=Creature
+subtype=Spirit
+power=3
+toughness=4
+[/card]
+[card]
+name=Desperate Gambit
+text=Choose a source you control and flip a coin. If you win the flip, the next time that source would deal damage this turn, it deals double that damage instead. If you lose the flip, the next time it would deal damage this turn, prevent that damage.
+mana={R}
+type=Instant
+[/card]
+[card]
+name=Mana Web
+text=Whenever a land an opponent controls is tapped for mana, tap all lands that player controls that could produce any type of mana that land could produce.
+mana={3}
+type=Artifact
+[/card]

@@ -1,0 +1,89 @@
+[card]
+name=Dermoplasm
+abilities=flying
+text=Flying -- Morph {2}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand.
+mana={2}{U}
+type=Creature
+subtype=Shapeshifter
+power=1
+toughness=1
+[/card]
+[card]
+name=Skirk Alarmist
+text=Haste -- {T}: Turn target face-down creature you control face up. At the beginning of the next end step, sacrifice it.
+mana={1}{R}
+type=Creature
+subtype=Human Wizard
+power=1
+toughness=2
+[/card]
+[card]
+name=Beacon of Destiny
+auto=@damaged(player) from(*|opponentbattlefield,opponentstack,opponentgraveyard,opponentlibrary,opponentexile]):{T}:prevent:thatmuch controller && damage:thatmuch target(this)
+text={T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to Beacon of Destiny instead.
+mana={1}{W}
+type=Creature
+subtype=Human Cleric
+power=1
+toughness=3
+[/card]
+[card]
+name=Master of the Veil
+text=Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Master of the Veil is turned face up, you may turn target creature with morph face down.
+mana={2}{U}{U}
+type=Creature
+subtype=Human Wizard
+power=2
+toughness=3
+[/card]
+[card]
+name=Wall of Deceit
+abilities=defender
+text=Defender (This creature can't attack.) -- {3}: Turn Wall of Deceit face down. -- Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+mana={1}{U}
+type=Creature
+subtype=Wall
+power=0
+toughness=5
+[/card]
+[card]
+name=Willbender
+facedown={3}
+autofacedown={1}{U}:morph
+autofaceup=name(Choose new targets) target(*[instant;sorcery]|stack) fizzle && activate castcard(copied noevent costx!:mytargx:! kicked!:mytargkicked:!)
+text=Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Willbender is turned face up, change the target of target spell or ability with a single target.
+mana={1}{U}
+type=Creature
+subtype=Human Wizard
+power=1
+toughness=2
+[/card]
+[card]
+name=Weaver of Lies
+facedown={3}
+autofacedown={4}{U}:morph
+text=Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Weaver of Lies is turned face up, turn any number of target creatures with morph other than Weaver of Lies face down.
+mana={5}{U}{U}
+type=Creature
+subtype=Beast
+power=4
+toughness=4
+[/card]
+[card]
+name=Chromeshell Crab
+text=Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.
+mana={4}{U}
+type=Creature
+subtype=Crab Beast
+power=3
+toughness=3
+[/card]
+[card]
+name=Whipgrass Entangler
+text={1}{W}: Until end of turn, target creature gains "This creature can't attack or block unless its controller pays {1} for each Cleric on the battlefield."
+mana={2}{W}
+type=Creature
+subtype=Human Cleric
+power=1
+toughness=3
+[/card]

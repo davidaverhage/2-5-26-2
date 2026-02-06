@@ -1,0 +1,36 @@
+[card]
+name=Pia's Revolution
+text=Whenever a nontoken artifact is put into your graveyard from the battlefield, return that card to your hand unless target opponent has Pia's Revolution deal 3 damage to him or her.
+mana={2}{R}
+type=Enchantment
+[/card]
+[card]
+name=Dark Intimations
+text=Each opponent sacrifices a creature or planeswalker, then discards a card. You return a creature or planeswalker card from your graveyard to your hand, then draw a card. -- When you cast a Bolas planeswalker spell, exile Dark Intimations from your graveyard. That planeswalker enters the battlefield with an additional loyalty counter on it.
+mana={2}{U}{B}{R}
+type=Sorcery
+[/card]
+[card]
+name=Crackdown Construct
+text=Whenever you activate an ability of an artifact or creature that isn't a mana ability, Crackdown Construct gets +1/+1 until end of turn.
+mana={4}
+type=Artifact Creature
+subtype=Construct
+power=2
+toughness=2
+[/card]
+[card]
+name=Inspiring Statuary
+text=Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+mana={3}
+type=Artifact
+[/card]
+[card]
+name=Baral, Chief of Compliance
+text=Instant and sorcery spells you cast cost {1} less to cast. -- Whenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card.
+mana={1}{U}
+type=Legendary Creature
+subtype=Human Wizard
+power=1
+toughness=3
+[/card]

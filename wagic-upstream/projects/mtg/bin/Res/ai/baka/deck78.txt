@@ -1,0 +1,18 @@
+#NAME:White Blades
+#DESC:Meet a complete army
+#DESC:of soldiers, knights, and guards.
+#DESC:
+#DESC:Can you stop them,
+#DESC:or will you just stand aside
+#DESC:and watch in awe?
+Steppe Lynx (ZEN)            * 3 #
+Akrasan Squire (ALA)         * 4 #
+Day of Judgment (ZEN)        * 3 #
+White Knight (M10)           * 4 #
+Elite Vanguard (M10)         * 4 #
+Pacifism (M10)               * 4 #
+Honor of the Pure (M10)      * 4 #
+Captain of the Watch (M10)   * 4 #
+Kazandu Blademaster (ZEN)    * 4 #
+Plains (ZEN)                 *23 #
+Conqueror's Pledge (ZEN)     * 3 #

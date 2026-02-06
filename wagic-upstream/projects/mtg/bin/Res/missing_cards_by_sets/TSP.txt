@@ -1,0 +1,105 @@
+[card]
+name=Thick-Skinned Goblin
+text=You may pay {0} rather than pay the echo cost for permanents you control. -- {R}: Thick-Skinned Goblin gains protection from red until end of turn.
+mana={1}{R}
+type=Creature
+subtype=Goblin Shaman
+power=2
+toughness=1
+[/card]
+[card]
+name=Trickbind
+text=Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.) -- Counter target activated or triggered ability. If a permanent's ability is countered this way, activated abilities of that permanent can't be activated this turn. (Mana abilities can't be targeted.)
+mana={1}{U}
+type=Instant
+[/card]
+[card]
+name=Weathered Bodyguards
+text=As long as Weathered Bodyguards is untapped, all combat damage that would be dealt to you by unblocked creatures is dealt to Weathered Bodyguards instead. -- Morph {3}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+mana={5}{W}
+type=Creature
+subtype=Human Soldier
+power=2
+toughness=5
+[/card]
+[card]
+name=Locket of Yesterdays
+text=Spells you cast cost {1} less to cast for each card with the same name as that spell in your graveyard.
+mana={1}
+type=Artifact
+[/card]
+[card]
+name=Ignite Memories
+text=Target player reveals a card at random from his or her hand. Ignite Memories deals damage to that player equal to that card's converted mana cost. -- Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+mana={4}{R}
+type=Sorcery
+[/card]
+[card]
+name=Outrider en-Kor
+abilities=flanking
+text=Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) -- {0}: The next 1 damage that would be dealt to Outrider en-Kor this turn is dealt to target creature you control instead.
+mana={2}{W}
+type=Creature
+subtype=Kor Rebel Knight
+power=2
+toughness=2
+[/card]
+[card]
+name=Vesuvan Shapeshifter
+text=As Vesuvan Shapeshifter enters the battlefield or is turned face up, you may choose another creature on the battlefield. If you do, until Vesuvan Shapeshifter is turned face down, it becomes a copy of that creature and gains "At the beginning of your upkeep, you may turn this creature face down." -- Morph {1}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+mana={3}{U}{U}
+type=Creature
+subtype=Shapeshifter
+power=0
+toughness=0
+[/card]
+[card]
+name=Ixidron
+text=As Ixidron enters the battlefield, turn all other nontoken creatures face down. (They're 2/2 creatures.) -- Ixidron's power and toughness are each equal to the number of face-down creatures on the battlefield.
+mana={3}{U}{U}
+type=Creature
+subtype=Illusion
+power=*
+toughness=*
+[/card]
+[card]
+name=Clockspinning
+text=Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) -- Choose a counter on target permanent or suspended card. Remove that counter from that permanent or card or put another of those counters on it.
+mana={U}
+type=Instant
+[/card]
+[card]
+name=Pardic Dragon
+abilities=flying
+text=Flying -- {R}: Pardic Dragon gets +1/+0 until end of turn. -- Suspend 2-{R}{R} -- Whenever an opponent casts a spell, if Pardic Dragon is suspended, that player may put a time counter on Pardic Dragon.
+mana={4}{R}{R}
+type=Creature
+subtype=Dragon
+power=4
+toughness=4
+[/card]
+[card]
+name=Voidmage Husher
+abilities=flash
+text=Flash (You may cast this spell any time you could cast an instant.) -- When Voidmage Husher enters the battlefield, counter target activated ability. (Mana abilities can't be targeted.) -- Whenever you cast a spell, you may return Voidmage Husher to its owner's hand.
+mana={3}{U}
+type=Creature
+subtype=Human Wizard
+power=2
+toughness=2
+[/card]
+[card]
+name=Dementia Sliver
+text=All Slivers have "{T}: Name a card. Target opponent reveals a card at random from his or her hand. If it's the named card, that player discards it. Activate this ability only during your turn."
+mana={3}{U}{B}
+type=Creature
+subtype=Sliver
+power=3
+toughness=3
+[/card]
+[card]
+name=Truth or Tale
+text=Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put a card from the chosen pile into your hand, then put all other cards revealed this way on the bottom of your library in any order.
+mana={1}{U}
+type=Instant
+[/card]

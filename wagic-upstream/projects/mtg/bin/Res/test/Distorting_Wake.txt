@@ -1,0 +1,24 @@
+#Testing Distorting Wake (X =3).
+#Test 1: 
+[INIT]
+FIRSTMAIN
+[PLAYER1]
+inplay:Mox Pearl,Ornithopter,Grizzly Bears
+hand:Distorting Wake
+manapool:{3}{U}{U}{U}
+[PLAYER2]
+[DO]
+Distorting Wake
+choice 3
+Mox Pearl
+Ornithopter
+Grizzly Bears
+Distorting Wake
+[ASSERT]
+FIRSTMAIN
+[PLAYER1]
+hand:Mox Pearl,Ornithopter,Grizzly Bears
+graveyard:Distorting Wake
+manapool:{0}
+[PLAYER2]
+[END]

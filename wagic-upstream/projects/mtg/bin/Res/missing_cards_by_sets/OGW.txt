@@ -1,0 +1,24 @@
+[card]
+name=Reflector Mage
+text=When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.
+mana={1}{W}{U}
+type=Creature
+subtype=Human Wizard
+power=2
+toughness=3
+[/card]
+[card]
+name=Nissa's Judgment
+text=Support 2. (Put a +1/+1 counter on each of up to two target creatures.) -- Choose up to one target creature an opponent controls. Each creature you control with a +1/+1 counter on it deals damage equal to its power to that creature.
+mana={4}{G}
+type=Sorcery
+[/card]
+[card]
+name=Deceiver of Form
+text=({C} represents colorless mana.) -- At the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library.
+mana={6}{C}
+type=Creature
+subtype=Eldrazi
+power=8
+toughness=8
+[/card]

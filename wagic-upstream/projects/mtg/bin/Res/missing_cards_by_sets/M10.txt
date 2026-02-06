@@ -1,0 +1,46 @@
+[card]
+name=Warp World
+text=Each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library.
+mana={5}{R}{R}{R}
+type=Sorcery
+[/card]
+[card]
+name=Harm's Way
+text=The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to target creature or player instead.
+mana={W}
+type=Instant
+[/card]
+[card]
+name=Mirror of Fate
+text={T}, Sacrifice Mirror of Fate: Choose up to seven face-up exiled cards you own. Exile all the cards from your library, then put the chosen cards on top of your library.
+mana={5}
+type=Artifact
+[/card]
+[card]
+name=Capricious Efreet
+text=At the beginning of your upkeep, choose target nonland permanent you control and up to two target nonland permanents you don't control. Destroy one of them at random.
+mana={4}{R}{R}
+type=Creature
+subtype=Efreet
+power=6
+toughness=4
+[/card]
+[card]
+name=Sphinx Ambassador
+abilities=flying
+text=Flying -- Whenever Sphinx Ambassador deals combat damage to a player, search that player's library for a card, then that player names a card. If you searched for a creature card that isn't the named card, you may put it onto the battlefield under your control. Then that player shuffles his or her library.
+mana={5}{U}{U}
+type=Creature
+subtype=Sphinx
+power=5
+toughness=5
+[/card]
+[card]
+name=Master of the Wild Hunt
+text=At the beginning of your upkeep, put a 2/2 green Wolf creature token onto the battlefield. -- {T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.
+mana={2}{G}{G}
+type=Creature
+subtype=Human Shaman
+power=3
+toughness=3
+[/card]

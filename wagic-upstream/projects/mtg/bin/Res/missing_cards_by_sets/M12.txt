@@ -1,0 +1,44 @@
+[card]
+name=Sutured Ghoul
+abilities=trample
+text=Trample -- As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard. -- Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.
+mana={4}{B}{B}{B}
+type=Creature
+subtype=Zombie
+power=*
+toughness=*
+[/card]
+[card]
+name=Doubling Chant
+text=For each creature you control, you may search your library for a creature card with the same name as that creature. Put those cards onto the battlefield, then shuffle your library.
+mana={5}{G}
+type=Sorcery
+[/card]
+[card]
+name=Autumn's Veil
+text=Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.
+mana={G}
+type=Instant
+[/card]
+[card]
+name=Sundial of the Infinite
+text={1}, {T}: End the turn. Activate this ability only during your turn. (Exile all spells and abilities on the stack. Discard down to your maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
+mana={2}
+type=Artifact
+[/card]
+[card]
+name=Sphinx of Uthuun
+abilities=flying
+text=Flying -- When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+mana={5}{U}{U}
+type=Creature
+subtype=Sphinx
+power=5
+toughness=6
+[/card]
+[card]
+name=Scrambleverse
+text=For each nonland permanent, choose a player at random. Then each player gains control of each permanent for which he or she was chosen. Untap those permanents.
+mana={6}{R}{R}
+type=Sorcery
+[/card]

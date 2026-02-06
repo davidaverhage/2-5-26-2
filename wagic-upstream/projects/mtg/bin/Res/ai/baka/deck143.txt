@@ -1,0 +1,23 @@
+#NAME:Ashenmoor
+#DESC:Deck for Wagic by Bob
+#HINT:combo hold(Demonic Tutor|myhand)^cast(Demonic Tutor|myhand) targeting(Ashenmoor Liege|mylibrary)^totalmananeeded({1}{B})
+#HINT:alwaysattackwith(Ashenmoor Gouger)
+#HINT:dontblockwith(Ashenmoor Liege)
+Ashenmoor Gouger (*) * 4
+Ashenmoor Liege (*) * 4
+Badlands (*) * 4
+Demonic Tutor (CMM) (*) * 2
+Dragonskull Summit (*) * 4
+Emberstrike Duo (*) * 4
+Footlight Fiend (*) * 4
+Glass of the Guildpact (*) * 4
+Goblin Outlander (*) * 2
+Mountain (DSK) (*) * 4
+Mountain (MKM) (*) * 2
+Rakdos Cackler (*) * 4
+Rakdos Shred-Freak (*) * 4
+Shivan Zombie (*) * 2
+Spike Jester (*) * 4
+Swamp (DSK) (*) * 4
+Swamp (MKM) (*) * 2
+Terminate (2X2) (*) * 2

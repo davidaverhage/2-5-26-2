@@ -1,0 +1,87 @@
+[card]
+name=Divine Deflection
+text=Prevent the next X damage that would be dealt to you and/or permanents you control this turn. If damage is prevented this way, Divine Deflection deals that much damage to target creature or player.
+mana={X}{W}
+type=Instant
+[/card]
+[card]
+name=Infinite Reflection
+text=Enchant creature -- When Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature. -- Nontoken creatures you control enter the battlefield as a copy of enchanted creature.
+mana={5}{U}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Stolen Goods
+text=Target opponent exiles cards from the top of his or her library until he or she exiles a nonland card. Until end of turn, you may cast that card without paying its mana cost.
+mana={3}{U}
+type=Sorcery
+[/card]
+[card]
+name=Flowering Lumberknot
+text=Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.
+mana={3}{G}
+type=Creature
+subtype=Treefolk
+power=5
+toughness=5
+[/card]
+[card]
+name=Tyrant of Discord
+text=When Tyrant of Discord enters the battlefield, target opponent chooses a permanent he or she controls at random and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process.
+mana={4}{R}{R}{R}
+type=Creature
+subtype=Elemental
+power=7
+toughness=7
+[/card]
+[card]
+name=Rite of Ruin
+text=Choose an order for artifacts, creatures, and lands. Each player sacrifices one permanent of the first type, sacrifices two of the second type, then sacrifices three of the third type.
+mana={5}{R}{R}
+type=Sorcery
+[/card]
+[card]
+name=Descent into Madness
+text=At the beginning of your upkeep, put a despair counter on Descent into Madness, then each player exiles X permanents he or she controls and/or cards from his or her hand, where X is the number of despair counters on Descent into Madness.
+mana={3}{B}{B}
+type=Enchantment
+[/card]
+[card]
+name=Gloom Surgeon
+text=If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.
+mana={1}{B}
+type=Creature
+subtype=Spirit
+power=2
+toughness=1
+[/card]
+[card]
+name=Dark Impostor
+text={4}{B}{B}: Exile target creature and put a +1/+1 counter on Dark Impostor. -- Dark Impostor has all activated abilities of all creature cards exiled with it.
+mana={2}{B}
+type=Creature
+subtype=Vampire Assassin
+power=2
+toughness=2
+[/card]
+[card]
+name=Gisela, Blade of Goldnight
+abilities=flying,first strike
+text=Flying, first strike -- If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead. -- If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.
+mana={4}{R}{W}{W}
+type=Legendary Creature
+subtype=Angel
+power=5
+toughness=5
+[/card]
+[card]
+name=Sigarda, Host of Herons
+abilities=flying,opponentshroud
+text=Flying, hexproof -- Spells and abilities your opponents control can't cause you to sacrifice permanents.
+mana={2}{G}{W}{W}
+type=Legendary Creature
+subtype=Angel
+power=5
+toughness=5
+[/card]

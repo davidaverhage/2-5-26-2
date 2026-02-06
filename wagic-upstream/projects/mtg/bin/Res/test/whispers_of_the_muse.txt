@@ -1,0 +1,18 @@
+#Testing Whispers of the Muse chosing not to pay its buyback cost.
+[INIT]
+FIRSTMAIN
+[PLAYER1]
+hand:Whispers of the Muse
+library:Plains
+manapool:{5}{U}
+[PLAYER2]
+[DO]
+Whispers of the Muse
+choice 1
+[ASSERT]
+FIRSTMAIN
+[PLAYER1]
+hand:Plains,Whispers of the Muse
+manapool{5}
+[PLAYER2]
+[END]

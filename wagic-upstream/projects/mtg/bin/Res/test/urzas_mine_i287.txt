@@ -1,0 +1,18 @@
+#DESC: See http://code.google.com/p/wagic/issues/detail?id=287
+[INIT]
+FIRSTMAIN
+[PLAYER1]
+inplay:Urza's Mine,1090,Urza's Power Plant
+hand:1091
+[PLAYER2]
+[DO]
+1091
+Urza's Mine
+[ASSERT]
+FIRSTMAIN
+[PLAYER1]
+inplay:Urza's Mine,1090,Urza's Power Plant,1091
+#changed to {c} since all colorless produced are now {c}
+manapool:{c}{c}
+[PLAYER2]
+[END]

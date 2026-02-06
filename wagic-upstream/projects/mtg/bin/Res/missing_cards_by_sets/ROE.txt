@@ -1,0 +1,46 @@
+[card]
+name=Tajuru Preserver
+text=Spells and abilities your opponents control can't cause you to sacrifice permanents.
+mana={1}{G}
+type=Creature
+subtype=Elf Shaman
+power=2
+toughness=1
+[/card]
+[card]
+name=Hedron-Field Purists
+text=Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.) -- LEVEL 1-4 -- 1/4 -- If a source would deal damage to you or a creature you control, prevent 1 of that damage. -- LEVEL 5+ -- 2/5 -- If a source would deal damage to you or a creature you control, prevent 2 of that damage.
+mana={2}{W}
+type=Creature
+subtype=Human Cleric
+power=0
+toughness=3
+[/card]
+[card]
+name=Umbra Mystic
+text=Auras attached to permanents you control have totem armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)
+mana={2}{W}
+type=Creature
+subtype=Human Wizard
+power=2
+toughness=2
+[/card]
+[card]
+name=Realms Uncharted
+text=Search your library for four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+mana={2}{G}
+type=Instant
+[/card]
+[card]
+name=Not of This World
+text=Counter target spell or ability that targets a permanent you control. -- Not of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.
+mana={7}
+type=Tribal Instant
+subtype=Eldrazi
+[/card]
+[card]
+name=Training Grounds
+text=Activated abilities of creatures you control cost up to {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+mana={U}
+type=Enchantment
+[/card]

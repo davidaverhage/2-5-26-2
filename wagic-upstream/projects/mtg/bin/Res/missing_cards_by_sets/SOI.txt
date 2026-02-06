@@ -1,0 +1,42 @@
+[card]
+name=Epiphany at the Drownyard
+text=Reveal the top X plus one cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+mana={X}{U}
+type=Instant
+[/card]
+[card]
+name=Falkenrath Gorger
+text=Each Vampire creature card you own that isn't on the battlefield has madness. The madness cost is equal to its mana cost. (If you discard a card with madness, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+mana={R}
+type=Creature
+subtype=Vampire Berserker
+power=2
+toughness=1
+[/card]
+[card]
+name=Creeping Dread
+text=At the beginning of your upkeep, each player discards a card. Each opponent who discarded a card that shares a card type with the card you discarded loses 3 life. (Players reveal the discarded cards simultaneously.)
+mana={3}{B}
+type=Enchantment
+[/card]
+[card]
+name=Accursed Witch
+text=Spells your opponents cast that target Accursed Witch cost {1} less to cast. -- When Accursed Witch dies, return it to the battlefield transformed under your control attached to target opponent.
+mana={3}{B}
+type=Creature
+subtype=Human Shaman
+power=4
+toughness=2
+[/card]
+[card]
+name=Welcome to the Fold
+text=Madness {X}{U}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.) -- Gain control of target creature if its toughness is 2 or less. If Welcome to the Fold's madness cost was paid, instead gain control of that creature if its toughness is X or less.
+mana={2}{U}{U}
+type=Sorcery
+[/card]
+[card]
+name=Moonlight Hunt
+text=Choose target creature you don't control. Each creature you control that's a Wolf or a Werewolf deals damage equal to its power to that creature.
+mana={1}{G}
+type=Instant
+[/card]

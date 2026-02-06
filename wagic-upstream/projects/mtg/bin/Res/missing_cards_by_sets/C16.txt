@@ -1,0 +1,98 @@
+[card]
+name=Chain of Vapor
+text=Return target nonland permanent to its owner's hand. Then that permanent's controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.
+mana={U}
+type=Instant
+[/card]
+[card]
+name=Minds Aglow
+text=Join forces - Starting with you, each player may pay any amount of mana. Each player draws X cards, where X is the total amount of mana paid this way.
+mana={U}
+type=Sorcery
+[/card]
+[card]
+name=Collective Voyage
+text=Join forces - Starting with you, each player may pay any amount of mana. Each player searches his or her library for up to X basic land cards, where X is the total amount of mana paid this way, puts them onto the battlefield tapped, then shuffles his or her library.
+mana={G}
+type=Sorcery
+[/card]
+[card]
+name=Oath of Druids
+text=At the beginning of each player's upkeep, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player may reveal cards from the top of his or her library until he or she reveals a creature card. If he or she does, that player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.
+mana={1}{G}
+type=Enchantment
+[/card]
+[card]
+name=Tempt with Discovery
+text=Tempting offer - Search your library for a land card and put it onto the battlefield. Each opponent may search his or her library for a land card and put it onto the battlefield. For each opponent who searches a library this way, search your library for a land card and put it onto the battlefield. Then each player who searched a library this way shuffles it.
+mana={3}{G}
+type=Sorcery
+[/card]
+[card]
+name=Ghastly Conscription
+text=Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+mana={5}{B}{B}
+type=Sorcery
+[/card]
+[card]
+name=Zedruu the Greathearted
+text=At the beginning of your upkeep, you gain X life and draw X cards, where X is the number of permanents you own that your opponents control. -- {R}{W}{U}: Target opponent gains control of target permanent you control.
+mana={1}{R}{W}{U}
+type=Legendary Creature
+subtype=Minotaur Monk
+power=2
+toughness=4
+[/card]
+[card]
+name=Whispering Madness
+text=Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={2}{U}{B}
+type=Sorcery
+[/card]
+[card]
+name=Mirrorweave
+text=Each other creature becomes a copy of target nonlegendary creature until end of turn.
+mana={2}{WU}{WU}
+type=Instant
+[/card]
+[card]
+name=Assault Suit
+text=Equipped creature gets +2/+2, has haste, can't attack you or a planeswalker you control, and can't be sacrificed. -- At the beginning of each opponent's upkeep, you may have that player gain control of equipped creature until end of turn. If you do, untap it. -- Equip {3}
+mana={4}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Selfless Squire
+abilities=flash
+text=Flash -- When Selfless Squire enters the battlefield, prevent all damage that would be dealt to you this turn. -- Whenever damage that would be dealt to you is prevented, put that many +1/+1 counters on Selfless Squire.
+mana={3}{W}
+type=Creature
+subtype=Human Soldier
+power=1
+toughness=1
+[/card]
+[card]
+name=Cruel Entertainment
+text=Choose target player and another target player. The first player controls the second player during the second player's next turn, and the second player controls the first player during the first player's next turn.
+mana={6}{B}
+type=Sorcery
+[/card]
+[card]
+name=Manifold Insights
+text=Reveal the top ten cards of your library. Starting with the next opponent in turn order, each opponent chooses a different nonland card from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.
+mana={2}{U}
+type=Sorcery
+[/card]
+[card]
+name=Whims of the Fates
+text=Starting with you, each player separates all permanents he or she controls into three piles. Then each player chooses one of his or her piles at random and sacrifices those permanents. (Piles can be empty.)
+mana={5}{R}
+type=Sorcery
+[/card]
+[card]
+name=Divergent Transformations
+text=Undaunted (This spell costs {1} less to cast for each opponent.) -- Exile two target creatures. For each of those creatures, its controller reveals cards from the top of his or her library until he or she reveals a creature card, puts that card onto the battlefield, then shuffles the rest into his or her library.
+mana={6}{R}
+type=Instant
+[/card]

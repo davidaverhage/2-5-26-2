@@ -1,0 +1,99 @@
+[card]
+name=Shah of Naar Isle
+abilities=trample
+text=Trample -- Echo {0} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) -- When Shah of Naar Isle's echo cost is paid, each opponent may draw up to three cards.
+mana={3}{R}
+type=Creature
+subtype=Efreet
+power=6
+toughness=6
+[/card]
+[card]
+name=Epochrasite
+text=Epochrasite enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand. -- When Epochrasite dies, exile it with three time counters on it and it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last is removed, cast this card without paying its mana cost. It has haste.)
+mana={2}
+type=Artifact Creature
+subtype=Construct
+power=1
+toughness=1
+[/card]
+[card]
+name=Phosphorescent Feast
+text=Chroma - Reveal any number of cards in your hand. You gain 2 life for each green mana symbol in those cards' mana costs.
+mana={2}{G}{G}{G}
+type=Sorcery
+[/card]
+[card]
+name=Intervention Pact
+text=The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way. -- At the beginning of your next upkeep, pay {1}{W}{W}. If you don't, you lose the game.
+mana={0}
+type=Instant
+[/card]
+[card]
+name=Nix
+text=Counter target spell if no mana was spent to cast it.
+mana={U}
+type=Instant
+[/card]
+[card]
+name=Delay
+text=Counter target spell. If the spell is countered this way, exile it with three time counters on it instead of putting it into its owner's graveyard. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, remove a counter from that card. When the last is removed, the player plays it without paying its mana cost. If it's a creature, it has haste.)
+mana={1}{U}
+type=Instant
+[/card]
+[card]
+name=Spellweaver Volute
+text=Enchant instant card in a graveyard -- Whenever you cast a sorcery spell, copy the enchanted instant card. You may cast the copy without paying its mana cost. If you do, exile the enchanted card and attach Spellweaver Volute to another instant card in a graveyard.
+mana={3}{U}{U}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Muraganda Petroglyphs
+text=Creatures with no abilities get +2/+2.
+mana={3}{G}
+type=Enchantment
+[/card]
+[card]
+name=Reality Strobe
+text=Return target permanent to its owner's hand. Exile Reality Strobe with three time counters on it. -- Suspend 3-{2}{U} (Rather than cast this card from your hand, you may pay {2}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+mana={4}{U}{U}
+type=Sorcery
+[/card]
+[card]
+name=Bitter Ordeal
+text=Search target player's library for a card and exile it. Then that player shuffles his or her library. -- Gravestorm (When you cast this spell, copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)
+mana={2}{B}
+type=Sorcery
+[/card]
+[card]
+name=Nacatl War-Pride
+text=Nacatl War-Pride must be blocked by exactly one creature if able. -- Whenever Nacatl War-Pride attacks, put X tokens that are copies of Nacatl War-Pride onto the battlefield tapped and attacking, where X is the number of creatures defending player controls. Exile the tokens at the beginning of the next end step.
+mana={3}{G}{G}{G}
+type=Creature
+subtype=Cat Warrior
+power=3
+toughness=3
+[/card]
+[card]
+name=Arcanum Wings
+text=Enchant creature -- Enchanted creature has flying. -- Aura swap {2}{U} ({2}{U}: Exchange this Aura with an Aura card in your hand.)
+mana={1}{U}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Shapeshifter's Marrow
+text=At the beginning of each opponent's upkeep, that player reveals the top card of his or her library. If it's a creature card, the player puts the card into his or her graveyard and Shapeshifter's Marrow becomes a copy of that card. (If it does, it loses this ability.)
+mana={2}{U}{U}
+type=Enchantment
+[/card]
+[card]
+name=Linessa, Zephyr Mage
+text={X}{U}{U}, {T}: Return target creature with converted mana cost X to its owner's hand. -- Grandeur - Discard another card named Linessa, Zephyr Mage: Target player returns a creature he or she controls to its owner's hand, then repeats this process for an artifact, an enchantment, and a land.
+mana={3}{U}
+type=Legendary Creature
+subtype=Human Wizard
+power=3
+toughness=3
+[/card]

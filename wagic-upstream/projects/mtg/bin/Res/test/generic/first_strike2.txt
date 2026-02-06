@@ -1,0 +1,24 @@
+#Testing First Strike : white knight against Fire Elemental : the white knight souldn't survive
+[INIT]
+COMBATATTACKERS
+[PLAYER1]
+inplay:white knight
+[PLAYER2]
+inplay:fire elemental
+[DO]
+white knight
+next
+fire elemental
+next
+#combat damage first strike
+next
+#combat damage
+next
+#ocombat end
+[ASSERT]
+COMBATEND
+[PLAYER1]
+graveyard:white knight
+[PLAYER2]
+inplay:fire elemental
+[END]

@@ -1,0 +1,109 @@
+[card]
+name=Salt Road Ambushers
+text=Whenever another permanent you control is turned face up, if it's a creature, put two +1/+1 counters on it. -- Megamorph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+mana={3}{G}
+type=Creature
+subtype=Dog Warrior
+power=3
+toughness=3
+[/card]
+[card]
+name=Dromoka's Command
+text=Choose two -- Prevent all damage target instant or sorcery spell would deal this turn. -- Target player sacrifices an enchantment. -- Put a +1/+1 counter on target creature. -- Target creature you control fights target creature you don't control.
+mana={G}{W}
+type=Instant
+[/card]
+[card]
+name=Deathmist Raptor
+abilities=deathtouch
+text=Deathtouch -- Whenever a permanent you control is turned face up, you may return Deathmist Raptor from your graveyard to the battlefield face up or face down. -- Megamorph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+mana={1}{G}{G}
+type=Creature
+subtype=Lizard Beast
+power=3
+toughness=3
+[/card]
+[card]
+name=Revealing Wind
+text=Prevent all combat damage that would be dealt this turn. You may look at each face-down creature that's attacking or blocking.
+mana={2}{G}
+type=Instant
+[/card]
+[card]
+name=Hedonist's Trove
+text=When Hedonist's Trove enters the battlefield, exile all cards from target opponent's graveyard. -- You may play land cards exiled with Hedonist's Trove. -- You may cast nonland cards exiled with Hedonist's Trove. You can't cast more than one spell this way each turn.
+mana={5}{B}{B}
+type=Enchantment
+[/card]
+[card]
+name=Icefall Regent
+abilities=flying
+text=Flying -- When Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Icefall Regent.  -- Spells your opponents cast that target Icefall Regent cost {2} more to cast.
+mana={3}{U}{U}
+type=Creature
+subtype=Dragon
+power=4
+toughness=3
+[/card]
+[card]
+name=Illusory Gains
+text=Enchant creature -- You control enchanted creature. -- Whenever a creature enters the battlefield under an opponent's control, attach Illusory Gains to that creature.
+mana={3}{U}{U}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Shorecrasher Elemental
+text={U}: Exile Shorecrasher Elemental, then return it to the battlefield face down under its owner's control. -- {1}: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn.  -- Megamorph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+mana={U}{U}{U}
+type=Creature
+subtype=Elemental
+power=3
+toughness=3
+[/card]
+[card]
+name=Foul Renewal
+text=Return target creature card from your graveyard to your hand. Target creature gets -X/-X until end of turn, where X is the toughness of the card returned this way.
+mana={3}{B}
+type=Instant
+[/card]
+[card]
+name=Gleam of Authority
+text=Enchant creature -- Enchanted creature gets +1/+1 for each +1/+1 counter on other creatures you control. -- Enchanted creature has vigilance and "{W}, {T}: Bolster 1." (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+mana={1}{W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Keeper of the Lens
+text=You may look at face-down creatures you don't control. (You may do this at any time.)
+mana={1}
+type=Artifact Creature
+subtype=Golem
+power=1
+toughness=2
+[/card]
+[card]
+name=Obscuring Aether
+text=Face-down creature spells you cast cost {1} less to cast. -- {1}{G}: Turn Obscuring Aether face down. (It becomes a 2/2 creature.)
+mana={G}
+type=Enchantment
+[/card]
+[card]
+name=Living Lore
+text=As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard. -- Living Lore's power and toughness are each equal to the exiled card's converted mana cost. -- Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost.
+mana={3}{U}
+type=Creature
+subtype=Avatar
+power=*
+toughness=*
+[/card]
+[card]
+name=Warbringer
+text=Dash costs you pay cost {2} less (as long as this creature is on the battlefield). -- Dash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+mana={3}{R}
+type=Creature
+subtype=Orc Berserker
+power=3
+toughness=3
+[/card]

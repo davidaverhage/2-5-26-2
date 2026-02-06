@@ -1,0 +1,21 @@
+[card]
+name=Knowledge Pool
+text=Imprint - When Knowledge Pool enters the battlefield, each player exiles the top three cards of his or her library. -- Whenever a player casts a spell from his or her hand, that player exiles it. If the player does, he or she may cast another nonland card exiled with Knowledge Pool without paying that card's mana cost.
+mana={6}
+type=Artifact
+[/card]
+[card]
+name=Myr Welder
+text=Imprint - {T}: Exile target artifact card from a graveyard. -- Myr Welder has all activated abilities of all cards exiled with it.
+mana={3}
+type=Artifact Creature
+subtype=Myr
+power=1
+toughness=4
+[/card]
+[card]
+name=Distant Memories
+text=Search your library for a card, exile it, then shuffle your library. Any opponent may have you put that card into your hand. If no player does, you draw three cards.
+mana={2}{U}{U}
+type=Sorcery
+[/card]

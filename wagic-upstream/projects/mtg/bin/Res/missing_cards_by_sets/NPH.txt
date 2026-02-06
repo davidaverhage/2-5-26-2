@@ -1,0 +1,42 @@
+[card]
+name=Spellskite
+text={PU}: Change a target of target spell or ability to Spellskite. ({PU} can be paid with either {U} or 2 life.)
+mana={2}
+type=Artifact Creature
+subtype=Horror
+power=0
+toughness=4
+[/card]
+[card]
+name=Norn's Annex
+text=({PW} can be paid with either {W} or 2 life.) -- Creatures can't attack you or a planeswalker you control unless their controller pays {PW} for each of those creatures.
+mana={3}{PW}{PW}
+type=Artifact
+[/card]
+[card]
+name=Bludgeon Brawl
+text=Each noncreature, non-Equipment artifact is an Equipment with equip {X} and "Equipped creature gets +X/+0," where X is that artifact's converted mana cost.
+mana={2}{R}
+type=Enchantment
+[/card]
+[card]
+name=Omen Machine
+text=Players can't draw cards. -- At the beginning of each player's draw step, that player exiles the top card of his or her library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.
+mana={6}
+type=Artifact
+[/card]
+[card]
+name=Rage Extractor
+text=({PR} can be paid with either {R} or 2 life.) -- Whenever you cast a spell with Phyrexian in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to target creature or player.
+mana={4}{PR}
+type=Artifact
+[/card]
+[card]
+name=Myr Superion
+text=Spend only mana produced by creatures to cast Myr Superion.
+mana={2}
+type=Artifact Creature
+subtype=Myr
+power=5
+toughness=6
+[/card]

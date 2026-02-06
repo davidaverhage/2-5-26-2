@@ -1,0 +1,138 @@
+[card]
+name=Mindslaver
+text={4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)
+mana={6}
+type=Legendary Artifact
+[/card]
+[card]
+name=Mirror Golem
+text=Imprint - When Mirror Golem enters the battlefield, you may exile target card from a graveyard. -- Mirror Golem has protection from each of the exiled card's card types. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)
+mana={6}
+type=Artifact Creature
+subtype=Golem
+power=3
+toughness=4
+[/card]
+[card]
+name=Fatespinner
+text=At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn.
+mana={1}{U}{U}
+type=Creature
+subtype=Human Wizard
+power=1
+toughness=2
+[/card]
+[card]
+name=Quicksilver Fountain
+text=At the beginning of each player's upkeep, that player puts a flood counter on target non-Island land he or she controls of his or her choice. That land is an Island for as long as it has a flood counter on it. -- At the beginning of each end step, if all lands on the battlefield are Islands, remove all flood counters from them.
+mana={3}
+type=Artifact
+[/card]
+[card]
+name=Goblin Charbelcher
+text={3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to target creature or player. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order.
+mana={4}
+type=Artifact
+[/card]
+[card]
+name=Confusion in the Ranks
+text=Whenever an artifact, creature, or enchantment enters the battlefield, its controller chooses target permanent another player controls that shares a card type with it. Exchange control of those permanents.
+mana={3}{R}{R}
+type=Enchantment
+[/card]
+[card]
+name=Shared Fate
+text=If a player would draw a card, that player exiles the top card of an opponent's library face down instead. -- Each player may look at and play cards he or she exiled with Shared Fate.
+mana={4}{U}
+type=Enchantment
+[/card]
+[card]
+name=Sphere of Purity
+text=If an artifact would deal damage to you, prevent 1 of that damage.
+mana={3}{W}
+type=Enchantment
+[/card]
+[card]
+name=Grim Reminder
+text=Search your library for a nonland card and reveal it. Each opponent who cast a card this turn with the same name as that card loses 6 life. Then shuffle your library.  -- {B}{B}: Return Grim Reminder from your graveyard to your hand. Activate this ability only during your upkeep.
+mana={2}{B}
+type=Instant
+[/card]
+[card]
+name=Brown Ouphe
+text={1}{G}, {T}: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)
+mana={G}
+type=Creature
+subtype=Ouphe
+power=1
+toughness=1
+[/card]
+[card]
+name=Timesifter
+text=At the beginning of each upkeep, each player exiles the top card of his or her library. The player who exiled the card with the highest converted mana cost takes an extra turn after this one. If two or more players' cards are tied for highest cost, the tied players repeat this process until the tie is broken.
+mana={5}
+type=Artifact
+[/card]
+[card]
+name=Spoils of the Vault
+text=Name a card. Reveal cards from the top of your library until you reveal the named card, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards.
+mana={B}
+type=Instant
+[/card]
+[card]
+name=Fiery Gambit
+text=Flip a coin until you lose a flip or choose to stop flipping. If you lose a flip, Fiery Gambit has no effect. If you win one or more flips, Fiery Gambit deals 3 damage to target creature. If you win two or more flips, Fiery Gambit deals 6 damage to each opponent. If you win three or more flips, draw nine cards and untap all lands you control.
+mana={2}{R}
+type=Sorcery
+[/card]
+[card]
+name=Awe Strike
+text=The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way.
+mana={W}
+type=Instant
+[/card]
+[card]
+name=Quicksilver Elemental
+text={U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.) -- You may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities.
+mana={3}{U}{U}
+type=Creature
+subtype=Elemental
+power=3
+toughness=4
+[/card]
+[card]
+name=Spellweaver Helix
+text=Imprint - When Spellweaver Helix enters the battlefield, you may exile two target sorcery cards from a single graveyard.  -- Whenever a player casts a card, if it has the same name as one of the cards exiled with Spellweaver Helix, you may copy the other. If you do, you may cast the copy without paying its mana cost.
+mana={3}
+type=Artifact
+[/card]
+[card]
+name=Disarm
+text=Unattach all Equipment from target creature.
+mana={U}
+type=Instant
+[/card]
+[card]
+name=Krark's Thumb
+text=If you would flip a coin, instead flip two coins and ignore one.
+mana={2}
+type=Legendary Artifact
+[/card]
+[card]
+name=Mourner's Shield
+text=Imprint - When Mourner's Shield enters the battlefield, you may exile target card from a graveyard. -- {2}, {T}: Prevent all damage that would be dealt this turn by a source of your choice that shares a color with the exiled card.
+mana={4}
+type=Artifact
+[/card]
+[card]
+name=Liar's Pendulum
+text={2}, {T}: Name a card. Target opponent guesses whether a card with that name is in your hand. You may reveal your hand. If you do and your opponent guessed wrong, draw a card.
+mana={1}
+type=Artifact
+[/card]
+[card]
+name=Thought Prison
+text=Imprint - When Thought Prison enters the battlefield, you may have target player reveal his or her hand. If you do, choose a nonland card from it and exile that card. -- Whenever a player casts a spell that shares a color or converted mana cost with the exiled card, Thought Prison deals 2 damage to that player.
+mana={5}
+type=Artifact
+[/card]

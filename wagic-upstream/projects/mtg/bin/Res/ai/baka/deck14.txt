@@ -1,0 +1,25 @@
+#NAME:Deep Blue
+#DESC:'Here have we war for war, 
+#DESC:and blood for blood, 
+#DESC:Controlment for controlment'
+#DESC:William Shakespeare
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Air Elemental (10E) * 2
+Boomerang (10E) * 4
+Control Magic (RV) * 4
+Coral Merfolk (M10) * 3
+Counsel of the Soratami (10E) * 4
+Gravelgill Axeshark (SHM) * 4
+Island (10E) * 4
+Island (4ED) * 4
+Island (6ED) * 4
+Island (9ED) * 4
+Island (M10) * 4
+Island (RV) * 4
+Lord of Atlantis (RV) * 4
+Mahamoti Djinn (10E) * 2
+Merfolk of the Pearl Trident (RV) * 3
+Persuasion (10E) * 2
+Unsummon (10E) * 4

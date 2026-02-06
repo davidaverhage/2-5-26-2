@@ -1,0 +1,32 @@
+#NAME: Double-Kudzu crash test
+#DESC: Bug: Game crashes if a land with
+#DESC: two Kudzus in it is tapped.
+#DESC: See: http://code.google.com/p/wagic/issues/detail?id=168
+#TODO Update this code with 2 different kudzus to make the test more reliable
+[INIT]
+firstmain
+[PLAYER1]
+inplay:Swamp
+hand:Kudzu,Kudzu
+manapool:{G}{G}{G}{G}{G}{G}
+[PLAYER2]
+inplay:Mountain
+[DO]
+Kudzu
+Swamp
+Kudzu
+Swamp
+Swamp
+choice 0
+next
+choice 0
+Mountain
+[ASSERT]
+firstmain
+[PLAYER1]
+inplay:*
+graveyard:Swamp
+manapool:{B}
+[PLAYER2]
+inplay:Mountain,*
+[END]

@@ -1,0 +1,24 @@
+[INIT]
+UNTAP
+[PLAYER1]
+#1924 is thallid, we use the id to be sure to match the token in the end
+inplay:1924
+[PLAYER2]
+[DO]
+eot
+eot
+eot
+eot
+eot
+eot
+next
+next
+next
+1924
+1924
+[ASSERT]
+FIRSTMAIN
+[PLAYER1]
+inplay:1924,-1924
+[PLAYER2]
+[END]

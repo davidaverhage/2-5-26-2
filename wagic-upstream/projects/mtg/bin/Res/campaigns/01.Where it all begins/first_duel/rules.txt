@@ -1,0 +1,3 @@
+include classic.txt
+[INIT]
+mode=mtg

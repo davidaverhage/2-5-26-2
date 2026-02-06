@@ -1,0 +1,29 @@
+#Testing Counter unless pay {X} mechanic
+#P1 casts Think Twice with {5} left in his mana pool and P2 counters with Syncopate using X = 3. P1 chooses to pay {3} and Think Twice resolves with {2} left in his mana pool.
+[INIT]
+firstmain
+[PLAYER1]
+hand:think twice
+manapool:{1}{U}{5}
+library:counterspell
+[PLAYER2]
+hand:syncopate
+manapool:{3}{U}
+[DO]
+think twice
+no
+yes
+syncopate
+choice 3
+think twice
+syncopate
+choice 0
+[ASSERT]
+firstmain
+[PLAYER1]
+hand:counterspell
+graveyard:think twice
+manapool:{2}
+[PLAYER2]
+graveyard:syncopate
+[END]

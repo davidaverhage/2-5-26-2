@@ -1,0 +1,81 @@
+[card]
+name=Charisma
+text=Enchant creature -- Whenever enchanted creature deals damage to a creature, gain control of the other creature for as long as Charisma remains on the battlefield.
+mana={U}{U}{U}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Common Cause
+text=Nonartifact creatures get +2/+2 as long as they all share a color.
+mana={2}{W}
+type=Enchantment
+[/card]
+[card]
+name=Righteous Aura
+text={W}, Pay 2 life: The next time a source of your choice would deal damage to you this turn, prevent that damage.
+mana={1}{W}
+type=Enchantment
+[/card]
+[card]
+name=Cho-Arrim Alchemist
+auto=preventalldamage to(controller) ueot
+auto=life:pdcount controller ueot
+text={1}{W}{W}, {T}, Discard a card: The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+mana={W}
+type=Creature
+subtype=Human Spellshaper
+power=1
+toughness=1
+[/card]
+[card]
+name=Wishmonger
+text={2}: Target creature gains protection from the color of its controller's choice until end of turn. Any player may activate this ability.
+mana={3}{W}
+type=Creature
+subtype=Unicorn Monger
+power=3
+toughness=3
+[/card]
+[card]
+name=Game Preserve
+text=At the beginning of your upkeep, each player reveals the top card of his or her library. If all cards revealed this way are creature cards, put those cards onto the battlefield under their owners' control.
+mana={2}{G}
+type=Enchantment
+[/card]
+[card]
+name=Venomous Breath
+text=Choose target creature. At end of combat, destroy all creatures that blocked or were blocked by it this turn.
+mana={3}{G}
+type=Instant
+[/card]
+[card]
+name=Story Circle
+text=As Story Circle enters the battlefield, choose a color. -- {W}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.
+mana={1}{W}{W}
+type=Enchantment
+[/card]
+[card]
+name=Crumbling Sanctuary
+text=If damage would be dealt to a player, that player exiles that many cards from the top of his or her library instead.
+mana={5}
+type=Artifact
+[/card]
+[card]
+name=General's Regalia
+text={3}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to target creature you control instead.
+mana={3}
+type=Artifact
+[/card]
+[card]
+name=Crooked Scales
+text={4}, {T}: Flip a coin. If you win the flip, destroy target creature an opponent controls. If you lose the flip, destroy target creature you control unless you pay {3} and repeat this process.
+mana={4}
+type=Artifact
+[/card]
+[card]
+name=Thieves' Auction
+text=Exile all nontoken permanents. Starting with you, each player chooses one of the exiled cards and puts it onto the battlefield tapped under his or her control. Repeat this process until all cards exiled this way have been chosen.
+mana={4}{R}{R}{R}
+type=Sorcery
+[/card]

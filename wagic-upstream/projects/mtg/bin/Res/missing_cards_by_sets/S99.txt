@@ -1,0 +1,6 @@
+[card]
+name=Piracy
+text=Until end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.
+mana={U}{U}
+type=Sorcery
+[/card]

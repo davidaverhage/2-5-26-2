@@ -1,0 +1,48 @@
+[card]
+name=Acolyte's Reward
+text=Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to target creature or player. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+mana={1}{W}
+type=Instant
+[/card]
+[card]
+name=Whims of the Fates
+text=Starting with you, each player separates all permanents he or she controls into three piles. Then each player chooses one of his or her piles at random and sacrifices those permanents. (Piles can be empty.)
+mana={5}{R}
+type=Sorcery
+[/card]
+[card]
+name=Tromokratis
+text=Tromokratis has hexproof unless it's attacking or blocking. -- Tromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)
+mana={5}{U}{U}
+type=Legendary Creature
+subtype=Kraken
+power=8
+toughness=8
+[/card]
+[card]
+name=Vortex Elemental
+text={U}: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries. -- {3}{U}{U}: Target creature blocks Vortex Elemental this turn if able.
+mana={U}
+type=Creature
+subtype=Elemental
+power=0
+toughness=1
+[/card]
+[card]
+name=Mindreaver
+text=Heroic - Whenever you cast a spell that targets Mindreaver, exile the top three cards of target player's library. -- {U}{U}, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver.
+mana={U}{U}
+type=Creature
+subtype=Human Wizard
+power=2
+toughness=1
+[/card]
+[card]
+name=Perplexing Chimera
+text=Whenever an opponent casts a spell, you may exchange control of Perplexing Chimera and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)
+mana={4}{U}
+type=Enchantment Creature
+subtype=Chimera
+power=3
+toughness=3
+[/card]

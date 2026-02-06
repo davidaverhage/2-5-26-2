@@ -1,0 +1,23 @@
+#NAME:Wraith's Feast
+#DESC:The wraiths consume the
+#DESC:spirit as the swamps
+#DESC:submerge the flesh
+#HINT:castpriority(instant,*)
+#HINT:dontblockwith(Crypt Ghast)
+#HINT:combo hold(Drain Life|myhand)^cast(Drain Life|myhand)~totalmananeeded({6}{B})
+Corrupt (SHM) * 4
+Crypt Ghast (GTC) * 4
+Drain Life (RV) * 4
+Go for the Throat (MBS) * 4
+Murder (EMN) * 3
+Nightmare (10E) * 4
+Squelching Leeches (JOU) * 4
+Swamp (10E) * 4
+Swamp (9ED) * 4
+Swamp (ALA) * 3
+Swamp (M10) * 4
+Swamp (M11) * 4
+Swamp (RAV) * 4
+Swamp (SHM) * 3
+Tendrils of Corruption (M10) * 4
+Terror (10E) * 3

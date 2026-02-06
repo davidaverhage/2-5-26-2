@@ -1,0 +1,70 @@
+[card]
+name=Squee's Revenge
+text=Choose a number. Flip a coin that many times or until you lose a flip, whichever comes first. If you win all the flips, draw two cards for each flip.
+mana={1}{U}{R}
+type=Sorcery
+[/card]
+[card]
+name=Coalition Flag
+text=Enchant creature you control -- Enchanted creature is a Flagbearer. -- While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.
+mana={W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Suppress
+text=Target player exiles all cards from his or her hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to his or her hand.
+mana={2}{B}
+type=Sorcery
+[/card]
+[card]
+name=Coalition Honor Guard
+text=While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.
+mana={3}{W}
+type=Creature
+subtype=Human Flagbearer
+power=2
+toughness=4
+[/card]
+[card]
+name=Emblazoned Golem
+text=Kicker {X} (You may pay an additional {X} as you cast this spell.) -- Spend only colored mana on X. No more than one mana of each color may be spent this way. -- If Emblazoned Golem was kicked, it enters the battlefield with X +1/+1 counters on it.
+mana={2}
+type=Artifact Creature
+subtype=Golem
+power=1
+toughness=2
+[/card]
+[card]
+name=Standard Bearer
+text=While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.
+mana={1}{W}
+type=Creature
+subtype=Human Flagbearer
+power=1
+toughness=1
+[/card]
+[card]
+name=False Dawn
+text=Until end of turn, spells and abilities you control that would add colored mana to your mana pool add that much white mana instead. Until end of turn, you may spend white mana as though it were mana of any color. --  -- Draw a card.
+mana={1}{W}
+type=Sorcery
+[/card]
+[card]
+name=Mind Extraction
+text=As an additional cost to cast Mind Extraction, sacrifice a creature. -- Target player reveals his or her hand and discards all cards of each of the sacrificed creature's colors.
+mana={2}{B}
+type=Sorcery
+[/card]
+[card]
+name=Ice Cave
+text=Whenever a player casts a spell, any other player may pay that spell's mana cost. If a player does, counter the spell. (Mana cost includes color.)
+mana={3}{U}{U}
+type=Enchantment
+[/card]
+[card]
+name=Tahngarth's Glare
+text=Look at the top three cards of target opponent's library, then put them back in any order. That player looks at the top three cards of your library, then puts them back in any order.
+mana={R}
+type=Sorcery
+[/card]

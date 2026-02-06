@@ -1,0 +1,27 @@
+#NAME:Undead Infiltrator
+#DESC:The dead rise up from 
+#DESC:the darkest depths
+#DESC: 
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Deepchannel Mentor (SHM) * 1
+Glen Elendra Liege (SHM) * 4
+Inkfathom Infiltrator (SHM) * 2
+Island (10E) * 4
+Island (RV) * 4
+Island (SHM) * 2
+Lord of Atlantis (RV) * 4
+Lord of the Undead (10E) * 4
+Marauding Knight (INV) * 2
+Metathran Zombie (INV) * 2
+Oona's Gatewarden (SHM) * 4
+Sanguine Guard (USG) * 2
+Swamp (10E) * 4
+Swamp (RV) * 4
+Swamp (SHM) * 2
+Underground Sea (RV) * 2
+Vodalian Zombie (INV) * 4
+Walking Dead (LEG) * 2
+Wasp Lancer (SHM) * 1
+Zombie Master (RV) * 2
+Zombie Outlander (CRX) * 4

@@ -1,0 +1,89 @@
+#NAME:Atarka Commander
+#DESC:Savage and ferocious, Atarka
+#DESC:is universally feared
+#DESC: 
+#DESC:Win Wagic duels to unlock
+#DESC:more Commander opponents
+#DESC:
+#DESC:Draconic Destruction 
+#DESC:Precon deck, 2022
+#DESC:Refined for Wagic by Bob
+#HINT:castpriority(commander,*)
+Akoum Hellkite (*) * 1
+Arcane Signet (*) * 1
+Atarka Monument (*) * 1
+Beast Within (*) * 1
+Bower Passage (*) * 1
+Bristling Backwoods (*) * 1
+Chain Reaction (*) * 1
+Cinder Glade (*) * 1
+Command Tower (*) * 1
+Commander's Sphere (*) * 1
+Crucible of Fire (ALA) (*) * 1
+Cultivate (*) * 1
+Demanding Dragon (*) * 1
+Draconic Disciple (*) * 1
+Dragon Mage (*) * 1
+Dragon Tempest (*) * 1
+Dragon's Hoard (*) * 1
+Dragonkin Berserker (*) * 1
+Dragonlord's Servant (*) * 1
+Dragonmaster Outcast (*) * 1
+Dragonspeaker Shaman (*) * 1
+Drakuseth, Maw of Flames (*) * 1
+Drumhunter (*) * 1
+Elemental Bond (*) * 1
+Fervor (*) * 1
+Flameblast Dragon (ALA) (*) * 1
+Foe-Razer Regent (*) * 1
+Forest (BLB) (*) * 4
+Forest (MKM) (*) * 4
+Forest (LCI) (*) * 4
+Furnace Whelp (10E) (*) * 1
+Game Trail (*) * 1
+Garruk's Uprising (*) * 1
+Harbinger of the Hunt (*) * 1
+Harmonize (*) * 1
+Hoard-Smelter Dragon (*) * 1
+Hunter's Insight (*) * 1
+Hunter's Prowess (*) * 1
+Kazandu Refuge (*) * 1
+Kodama's Reach (CHK) (*) * 1
+Lathliss, Dragon Queen (*) * 1
+Lightning Bolt (*) * 1
+Llanowar Elves (*) * 1
+Magmaquake (C14) (*) * 1
+Mordant Dragon (*) * 1
+Mountain (BLB) (*) * 4
+Mountain (MKM) (*) * 4
+Mountain (LCI) (*) * 4
+Mountain (WOE) (*) * 4
+Mountain (LTR) (*) * 2
+Primal Might (*) * 1
+Rapacious Dragon (*) * 1
+Return to Nature (*) * 1
+Rugged Highlands (*) * 1
+Runehorn Hellkite (*) * 1
+Sakura-Tribe Elder (*) * 1
+Sarkhan, the Dragonspeaker (*) * 1
+Savage Ventmaw (*) * 1
+Scourge of Valkas (*) * 1
+Shamanic Revelation (*) * 1
+Shivan Devastator (*) * 1
+Shivan Oasis (*) * 1
+Sol Ring (*) * 1
+Spit Flame (*) * 1
+Steel Hellkite (*) * 1
+Sweltering Suns (*) * 1
+Swiftfoot Boots (*) * 1
+Talisman of Impulse (*) * 1
+Temple of Abandon (*) * 1
+Thunderbreak Regent (*) * 1
+Thundermaw Hellkite (*) * 1
+Timber Gorge (*) * 1
+Tyrant's Familiar (*) * 1
+Unleash Fury (*) * 1
+Vandalblast (*) * 1
+Verix Bladewing (*) * 1
+Wooded Ridgeline (*) * 1
+#CMD:Atarka, World Render (*) * 1

@@ -1,0 +1,27 @@
+#NAME:Enchanted Coatl
+#DESC:The ancient serpents did not
+#DESC:suspect that beautiful 
+#DESC:enchantresses would bind
+#DESC:them to eternal servitude.
+Ancestral Mask (MRQ) * 4
+Argothian Enchantress (USG) * 4
+Enchantress's Presence (ONS) * 4
+Fastbond (RV) * 1
+Fists of Ironwood (RAV) * 1
+Flight (RV) * 2
+Forest (MIR) * 4
+Forest (RV) * 1
+Forest (MRQ) * 4
+Forest (USG) * 4
+Ground Seal (ODY) * 1
+Howling Mine (10E) * 4
+Instill Energy (RV) * 1
+Island (MIR) * 4
+Island (MRQ) * 1
+Island (USG) * 4
+Lorescale Coatl (ARB)  * 4
+Primal Frenzy (ODY) * 2
+Serra's Sanctum (USG) * 1
+Verduran Enchantress (RV) * 4
+Web (RV) * 1
+Yavimaya Enchantress (10E) * 4

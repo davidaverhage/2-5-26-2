@@ -1,0 +1,22 @@
+#Testing Indestructible: Darksteel Myr (0/1) gets -1/-1 from Blister Beetle
+#Result: Darksteel Myr should be dead
+[INIT]
+FIRSTMAIN
+[PLAYER1]
+inplay:Darksteel Myr
+hand:Blister Beetle
+manapool:{1}{B}
+[PLAYER2]
+inplay:Runeclaw Bear
+[DO]
+Blister Beetle
+choice 0
+Darksteel Myr
+[ASSERT]
+FIRSTMAIN
+[PLAYER1]
+inplay:Blister Beetle
+graveyard:Darksteel Myr
+[PLAYER2]
+inplay:Runeclaw Bear
+[END]

@@ -1,0 +1,30 @@
+#NAME: Brass Man untapping
+#DESC: Brass Man can untap outside of Upkeep.
+[INIT]
+combatattackers
+[PLAYER1]
+inplay:Brass Man,Swamp,Plains,Forest
+hand:Assassinate
+[PLAYER2]
+life:20
+[DO]
+Brass Man
+next
+next
+next
+next
+Swamp
+Brass Man
+choice 0
+Plains
+Forest
+Assassinate
+Brass Man
+[ASSERT]
+secondmain
+[PLAYER1]
+inplay:Swamp,Plains,Forest
+graveyard:Brass Man,Assassinate
+[PLAYER2]
+life:19
+[END]

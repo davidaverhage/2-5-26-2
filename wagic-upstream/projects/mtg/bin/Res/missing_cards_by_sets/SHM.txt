@@ -1,0 +1,89 @@
+[card]
+name=Wild Swing
+text=Choose three target nonenchantment permanents. Destroy one of them at random.
+mana={3}{R}
+type=Sorcery
+[/card]
+[card]
+name=Strip Bare
+text=Destroy all Auras and Equipment attached to target creature.
+mana={W}
+type=Instant
+[/card]
+[card]
+name=Mine Excavation
+text=Return target artifact or enchantment card from a graveyard to its owner's hand. -- Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)
+mana={1}{W}
+type=Sorcery
+[/card]
+[card]
+name=Leech Bonder
+text=Leech Bonder enters the battlefield with two -1/-1 counters on it. -- {U}, {Q}: Move a counter from target creature onto another target creature. ({Q} is the untap symbol.)
+mana={2}{U}
+type=Creature
+subtype=Merfolk Soldier
+power=3
+toughness=3
+[/card]
+[card]
+name=Fate Transfer
+text=Move all counters from target creature onto another target creature.
+mana={1}{UB}
+type=Instant
+[/card]
+[card]
+name=Runed Halo
+text=As Runed Halo enters the battlefield, name a card. -- You have protection from the chosen name. (You can't be targeted, dealt damage, or enchanted by anything with that name.)
+mana={W}{W}
+type=Enchantment
+[/card]
+[card]
+name=Glamer Spinners
+abilities=flash,flying
+text=Flash -- Flying -- When Glamer Spinners enters the battlefield, attach all Auras enchanting target permanent to another permanent with the same controller.
+mana={4}{WU}
+type=Creature
+subtype=Faerie Wizard
+power=2
+toughness=4
+[/card]
+[card]
+name=Mirrorweave
+text=Each other creature becomes a copy of target nonlegendary creature until end of turn.
+mana={2}{WU}{WU}
+type=Instant
+[/card]
+[card]
+name=Puca's Mischief
+text=At the beginning of your upkeep, you may exchange control of target nonland permanent you control and target nonland permanent an opponent controls with an equal or lesser converted mana cost.
+mana={3}{U}
+type=Enchantment
+[/card]
+[card]
+name=Mossbridge Troll
+text=If Mossbridge Troll would be destroyed, regenerate it. -- Tap any number of untapped creatures you control other than Mossbridge Troll with total power 10 or greater: Mossbridge Troll gets +20/+20 until end of turn.
+mana={5}{G}{G}
+type=Creature
+subtype=Troll
+power=5
+toughness=5
+[/card]
+[card]
+name=Knacksaw Clique
+abilities=flying
+text=Flying -- {1}{U}, {Q}: Target opponent exiles the top card of his or her library. Until end of turn, you may play that card. ({Q} is the untap symbol.)
+mana={3}{U}
+type=Creature
+subtype=Faerie Rogue
+power=1
+toughness=4
+[/card]
+[card]
+name=Wort, the Raidmother
+text=When Wort, the Raidmother enters the battlefield, put two 1/1 red and green Goblin Warrior creature tokens onto the battlefield. -- Each red or green instant or sorcery spell you cast has conspire. (As you cast the spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose new targets for the copy.)
+mana={4}{RG}{RG}
+type=Legendary Creature
+subtype=Goblin Shaman
+power=3
+toughness=3
+[/card]

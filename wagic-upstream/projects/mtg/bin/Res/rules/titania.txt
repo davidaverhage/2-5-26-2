@@ -1,0 +1,20 @@
+include mtg.txt
+name=Titania
+unlock=prx_titania
+[INIT]
+mode=mtg
+
+[PLAYERS]
+life:25
+auto=shuffle
+auto=draw:6
+
+auto=maxPlay(land)+1
+auto=create(Llanowar Elves)
+auto=create(Magus of the Vineyard)
+
+auto=@each myupkeep:draw:1
+auto=@each myupkeep:life:-1
+
+auto=@movedTo(creature|mystack):create(Tukatongue Thallid)
+auto=@movedTo(*[instant;sorcery;enchantment]|mystack):create(Dryad Arbor)

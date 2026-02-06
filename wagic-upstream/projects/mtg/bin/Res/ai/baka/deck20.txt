@@ -1,0 +1,25 @@
+#NAME:Bad Moon
+#DESC:'Happiness never flourishes
+#DESC:by the light of the moon.'
+#DESC:Friedrich Schiller 
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+#HINT:alwaysattackwith(Erg Raiders)
+Ascendant Evincar (10E) * 2
+Bad Moon (RV) * 4
+Black Knight (RV) * 4
+Erg Raiders (RV) * 4
+Eyeblight's Ending (LRW) * 2
+Glen Elendra Liege (SHM) * 4
+Hypnotic Specter (10E) * 4
+Nyxathid (CFX) * 4
+Oona's Gatewarden (SHM) * 4
+Swamp (10E) * 4
+Swamp (M10) * 4
+Swamp (LRW) * 4
+Swamp (RV) * 4
+Swamp (SHM) * 4
+Terror (10E) * 2
+Unholy Strength (10E) * 4
+Wasp Lancer (SHM) * 2

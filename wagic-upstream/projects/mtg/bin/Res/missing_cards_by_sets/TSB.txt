@@ -1,0 +1,56 @@
+[card]
+name=Willbender
+facedown={3}
+autofacedown={1}{U}:morph
+autofaceup=name(Choose new targets) target(*[instant;sorcery]|stack) fizzle && activate castcard(copied noevent costx!:mytargx:! kicked!:mytargkicked:!)
+text=Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Willbender is turned face up, change the target of target spell or ability with a single target.
+mana={1}{U}
+type=Creature
+subtype=Human Wizard
+power=1
+toughness=2
+[/card]
+[card]
+name=Spitting Slug
+text=Whenever Spitting Slug blocks or becomes blocked, you may pay {1}{G}. If you do, Spitting Slug gains first strike until end of turn. Otherwise, each creature blocking or blocked by Spitting Slug gains first strike until end of turn.
+mana={1}{G}{G}
+type=Creature
+subtype=Slug
+power=2
+toughness=4
+[/card]
+[card]
+name=Giant Oyster
+text=You may choose not to untap Giant Oyster during your untap step. -- {T}: For as long as Giant Oyster remains tapped, target tapped creature doesn't untap during its controller's untap step, and at the beginning of each of your draw steps, put a -1/-1 counter on that creature. When Giant Oyster leaves the battlefield or becomes untapped, remove all -1/-1 counters from the creature.
+mana={2}{U}{U}
+type=Creature
+subtype=Oyster
+power=0
+toughness=3
+[/card]
+[card]
+name=Celestial Dawn
+text=Lands you control are Plains. -- Nonland cards you own that aren't on the battlefield, spells you control, and nonland permanents you control are white. -- You may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.
+mana={1}{W}{W}
+type=Enchantment
+[/card]
+[card]
+name=Honorable Passage
+text=The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source's controller.
+mana={1}{W}
+type=Instant
+[/card]
+[card]
+name=Gaea's Liege
+text=As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. -- {T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+mana={3}{G}{G}{G}
+type=Creature
+subtype=Avatar
+power=*
+toughness=*
+[/card]
+[card]
+name=Arena
+text={3}, {T}: Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. (Each deals damage equal to its power to the other.)
+type=Land
+[/card]

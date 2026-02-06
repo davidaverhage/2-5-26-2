@@ -1,0 +1,29 @@
+#NAME:Dark Elves
+#DESC:The elves who wandered
+#DESC:too deeply in the forest
+#DESC:were unable to escape
+#DESC:its shadows.
+#DESC: 
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+#DESC:
+#DESC:Original deck concept by
+#DESC:Nakano, deck refined by Bob 
+Drider (AFR) * 2
+Elderfang Disciple (KHM) * 4
+Eyeblight Cullers (CMR) * 2
+Eyeblight's Ending (LRW) * 4
+Infestation Sage (FDN) * 4
+Nadier, Agent of the Duskenel (CMR) * 2
+Nadier's Nightblade (CMR) * 4
+Prowess of the Fair (LRW) * 4
+Ruthless Winnower (KHC) * 2
+Swamp (CLB) * 4
+Swamp (ELD) * 2
+Swamp (FDN) * 4
+Swamp (KHM) * 4
+Swamp (LRW) * 4
+Swamp (MKM) * 4
+Thornbow Archer (MB1) * 4
+Unscrupulous Agent (MKM) * 4
+Viconia, Drow Apostate (CLB) * 2

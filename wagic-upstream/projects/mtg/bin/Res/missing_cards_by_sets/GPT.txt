@@ -1,0 +1,51 @@
+[card]
+name=Ink-Treader Nephilim
+text=Whenever a player casts an instant or sorcery spell, if Ink-Treader Nephilim is the only target of that spell, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.
+mana={R}{G}{W}{U}
+type=Creature
+subtype=Nephilim
+power=3
+toughness=3
+[/card]
+[card]
+name=Djinn Illuminatus
+text=({UR} can be paid with either {U} or {R}.) -- Flying -- Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+mana={5}{UR}{UR}
+type=Creature
+subtype=Djinn
+power=3
+toughness=5
+[/card]
+[card]
+name=Mizzium Transreliquat
+text={3}: Mizzium Transreliquat becomes a copy of target artifact until end of turn. -- {1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.
+mana={3}
+type=Artifact
+[/card]
+[card]
+name=Bioplasm
+text=Whenever Bioplasm attacks, exile the top card of your library. If it's a creature card, Bioplasm gets +X/+Y until end of turn, where X is the exiled creature card's power and Y is its toughness.
+mana={3}{G}{G}
+type=Creature
+subtype=Ooze
+power=4
+toughness=4
+[/card]
+[card]
+name=Aetherplasm
+text=Whenever Aetherplasm blocks a creature, you may return Aetherplasm to its owner's hand. If you do, you may put a creature card from your hand onto the battlefield blocking that creature.
+mana={2}{U}{U}
+type=Creature
+subtype=Illusion
+power=1
+toughness=1
+[/card]
+[card]
+name=Burning-Tree Shaman
+text=Whenever a player activates an ability that isn't a mana ability, Burning-Tree Shaman deals 1 damage to that player.
+mana={1}{R}{G}
+type=Creature
+subtype=Centaur Shaman
+power=3
+toughness=4
+[/card]

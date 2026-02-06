@@ -1,0 +1,26 @@
+#NAME:Noble Predators
+#DESC:'Dangerous it is to rouse
+#DESC:the lion, fatal is the
+#DESC:tiger's tooth'
+#DESC:Friedrich Schiller 
+Beastmaster Ascension (ZEN) *4
+Cave Tiger (UZS) *2
+Forest (10E) *4
+Forest (INV) *3
+Forest (M10) *4
+Forest (POR) *4 
+Grizzled Leotau (ARB) *2
+Horned Cheetah (INV) *2
+King of the Pride (MH1) *4
+Loam Lion (WWK) *3
+Mist Leopard (M10) *2 
+Noble Panther (INV)  *2
+Plains (10E) *4
+Plains (M10) *1
+Plains (POR) *4
+Pouncing Cheetah (AKH) *2
+Pouncing Jaguar (USG) * 3
+Predatory Hunger (EXO) *4
+Savannah Lions (FDN) *2
+Silvercoat Lion (M10) *2
+Slashing Tiger (PTK) * 2

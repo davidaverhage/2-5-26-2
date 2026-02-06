@@ -1,0 +1,51 @@
+#NAME:Plateau
+#DESC:There are no hiding places
+#DESC:on the high steppes beyond
+#DESC:the mountain passes
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Boros Recruit (RAV) * 4
+Bull Cerodon (ALA) * 3
+Castle (RV) * 2
+Cerodon Yearling (ARB) * 2
+Crusade (RV) * 1
+Fire Elemental (RV) * 2
+Goblin King (10E) * 2
+Hearthfire Hobgoblin (EVE) * 2
+Hill Giant (RV) * 1
+Keldon Warlord (RV) * 1
+Lightning Helix (RAV) * 4
+Mons's Goblin Raiders (RV) * 1
+# RV Mountains
+1389
+1389
+1389
+1389
+1390
+1390
+1390
+1390
+1391
+1391
+1391
+1391
+Nobilis of War (EVE) * 2
+Orcish Oriflamme (RV) * 1
+# RV Plains
+1395
+1395
+1395
+1395
+1396
+1396
+1396
+1396
+1397
+1397
+1397
+1397
+Serra Angel (RV) * 2
+Skyknight Legionnaire (RAV) * 2
+Wall of Swords (RV) * 2 
+White knight (RV) * 2

@@ -1,0 +1,28 @@
+#NAME:Depletion
+#DESC:The cruellest fate for a  
+#DESC:spellcaster is to stand
+#DESC:helpless as your power
+#DESC:drains away.
+#DESC: 
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Animate Dead (RV) * 4
+Control Magic (RV) * 2
+Dreamborn Muse (10E) * 2
+Forced Fruition (LRW) * 2
+Glen Elendra Liege (SHM) * 2
+Glimpse the Unthinkable (RAV) * 4
+Howling Mine (10E) * 2
+Island (10E) * 4
+Island (LRW) * 4
+Island (SHM) * 4
+Memory Erosion (ALA) * 2
+Mortivore (10E) * 2
+Oona's Gatewarden (SHM) * 4
+Swamp (10E) * 4
+Swamp (LRW) * 4
+Swamp (SHM) * 4
+Terror (10E) * 2
+Tome Scour (M10) * 4
+Traumatize (10E) * 3
+Underground Sea (RV) * 1

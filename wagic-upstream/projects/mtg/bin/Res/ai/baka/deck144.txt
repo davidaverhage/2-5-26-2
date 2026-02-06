@@ -1,0 +1,22 @@
+#NAME:Goblin Spike
+#DESC:Deck for Wagic by Bob
+#HINT:castpriority(creature,sorcery)
+#HINT:combo hold(Lava Spike|myhand)^cast(Lava Spike|myhand)^restriction{turn:5}^totalmananeeded({R})
+#HINT:combo hold(Goblin War Strike|myhand)^cast(Goblin War Strike|myhand)^restriction{turn:7}^totalmananeeded({R})
+Foundry Street Denizen (*) * 4
+Goblin Chieftain (*) * 4
+Goblin Lackey (*) * 4
+Goblin Piledriver (*) * 4
+Goblin Rabblemaster (*) * 4
+Goblin Ringleader (*) * 2
+Goblin Warchief (*) * 2
+Goblin War Strike (*) * 2
+Lava Spike (*) * 4
+Legion Loyalist (*) * 4
+Mountain (OTJ) (*) * 4
+Mountain (BLB) (*) * 4
+Mountain (WOE) (*) * 4
+Mountain (DSK) (*) * 4
+Mountain (LCI) (*) * 4
+Mountain (MKM) (*) * 2
+Muxus, Goblin Grandee (*) * 4

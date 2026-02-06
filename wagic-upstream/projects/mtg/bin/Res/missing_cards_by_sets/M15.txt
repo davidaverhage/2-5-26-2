@@ -1,0 +1,48 @@
+[card]
+name=The Chain Veil
+text=At the beginning of your end step, if you didn't activate a loyalty ability of a planeswalker this turn, you lose 2 life. -- {4}, {T}: For each planeswalker you control, you may activate one of its loyalty abilities once this turn as though none of its loyalty abilities have been activated this turn.
+mana={4}
+type=Legendary Artifact
+[/card]
+[card]
+name=Might Makes Right
+text=At the beginning of combat on your turn, if you control each creature on the battlefield with the greatest power, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+mana={5}{R}
+type=Enchantment
+[/card]
+[card]
+name=Master of Predicaments
+abilities=flying
+text=Flying -- Whenever Master of Predicaments deals combat damage to a player, choose a card in your hand. That player guesses whether the card's converted mana cost is greater than 4. If the player guessed wrong, you may cast the card without paying its mana cost.
+mana={3}{U}{U}
+type=Creature
+subtype=Sphinx
+power=4
+toughness=4
+[/card]
+[card]
+name=Oppressive Rays
+text=Enchant creature -- Enchanted creature can't attack or block unless its controller pays {3}. -- Activated abilities of enchanted creature cost {3} more to activate.
+mana={W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Ob Nixilis, Unshackled
+abilities=flying,trample
+text=Flying, trample -- Whenever an opponent searches his or her library, that player sacrifices a creature and loses 10 life. -- Whenever another creature dies, put a +1/+1 counter on Ob Nixilis, Unshackled.
+mana={4}{B}{B}
+type=Legendary Creature
+subtype=Demon
+power=4
+toughness=4
+[/card]
+[card]
+name=Kurkesh, Onakke Ancient
+text=Whenever you activate an ability of an artifact, if it isn't a mana ability, you may pay {R}. If you do, copy that ability. You may choose new targets for the copy.
+mana={2}{R}{R}
+type=Legendary Creature
+subtype=Ogre Spirit
+power=4
+toughness=3
+[/card]

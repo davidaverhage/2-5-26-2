@@ -1,0 +1,22 @@
+#NAME: Throne of Bone
+#DESC: Checks whether Throne of Bone can
+#DESC: correctly give 1 life
+[INIT]
+firstmain
+[PLAYER1]
+hand:Bad Moon
+manapool:{B}{B}
+[PLAYER2]
+inplay:Throne of Bone,Swamp
+[DO]
+Bad Moon
+choice 0
+Swamp
+[ASSERT]
+firstmain
+[PLAYER1]
+inplay:Bad Moon
+[PLAYER2]
+inplay:Throne of Bone,Swamp
+life:21
+[END]

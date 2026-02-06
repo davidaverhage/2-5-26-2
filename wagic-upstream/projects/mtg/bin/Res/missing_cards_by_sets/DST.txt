@@ -1,0 +1,55 @@
+[card]
+name=Turn the Tables
+text=All combat damage that would be dealt to you this turn is dealt to target attacking creature instead.
+mana={3}{W}{W}
+type=Instant
+[/card]
+[card]
+name=Surestrike Trident
+text=Equipped creature has first strike and "{T}, Unattach Surestrike Trident: This creature deals damage equal to its power to target player." -- Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+mana={2}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Carry Away
+text=Enchant Equipment -- When Carry Away enters the battlefield, unattach enchanted Equipment. -- You control enchanted Equipment.
+mana={U}{U}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Death-Mask Duplicant
+text=Imprint - {1}: Exile target creature card from your graveyard. -- As long as a card exiled with Death-Mask Duplicant has flying, Death-Mask Duplicant has flying. The same is true for fear, first strike, double strike, haste, landwalk, protection, and trample.
+mana={7}
+type=Artifact Creature
+subtype=Shapeshifter
+power=5
+toughness=5
+[/card]
+[card]
+name=Dismantle
+target=artifact
+auto=destroy
+text=Destroy target artifact. If that artifact had counters on it, put that many +1/+1 counters or charge counters on an artifact you control.
+mana={2}{R}
+type=Sorcery
+[/card]
+[card]
+name=Hallow
+text=Prevent all damage target spell would deal this turn. You gain life equal to the damage prevented this way.
+mana={W}
+type=Instant
+[/card]
+[card]
+name=Thought Dissector
+text={X}, {T}: Target opponent reveals cards from the top of his or her library until an artifact card or X cards are revealed, whichever comes first. If an artifact card is revealed this way, put it onto the battlefield under your control and sacrifice Thought Dissector. Put the rest of the revealed cards into that player's graveyard.
+mana={4}
+type=Artifact
+[/card]
+[card]
+name=Murderous Spoils
+text=Destroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that was attached to it. (This effect lasts indefinitely.)
+mana={5}{B}
+type=Instant
+[/card]

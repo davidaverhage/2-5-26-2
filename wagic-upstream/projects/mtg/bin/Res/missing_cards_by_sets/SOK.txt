@@ -1,0 +1,110 @@
+[card]
+name=Shifting Borders
+text=Exchange control of two target lands. -- Splice onto Arcane {3}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={3}{U}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Choice of Damnations
+text=Target opponent chooses a number. You may have that player lose that much life. If you don't, that player sacrifices all but that many permanents.
+mana={5}{B}
+type=Sorcery
+subtype=Arcane
+[/card]
+[card]
+name=Sakashima the Impostor
+text=You may have Sakashima the Impostor enter the battlefield as a copy of any creature on the battlefield, except its name is still Sakashima the Impostor, it's legendary in addition to its other types, and it gains "{2}{U}{U}: Return Sakashima the Impostor to its owner's hand at the beginning of the next end step."
+mana={2}{U}{U}
+type=Legendary Creature
+subtype=Human Rogue
+power=3
+toughness=1
+[/card]
+[card]
+name=Rally the Horde
+text=Exile the top card of your library. Exile the top card of your library. Exile the top card of your library. If the last card exiled isn't a land, repeat this process. Put a 1/1 red Warrior creature token onto the battlefield for each nonland card exiled this way.
+mana={5}{R}
+type=Sorcery
+[/card]
+[card]
+name=Infernal Kirin
+abilities=flying
+text=Flying -- Whenever you cast a Spirit or Arcane spell, target player reveals his or her hand and discards all cards with that spell's converted mana cost.
+mana={2}{B}{B}
+type=Legendary Creature
+subtype=Kirin Spirit
+power=3
+toughness=3
+[/card]
+[card]
+name=Cowed by Wisdom
+text=Enchant creature -- Enchanted creature can't attack or block unless its controller pays {1} for each card in your hand.
+mana={W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Pain's Reward
+text=Each player may bid life. You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and draws four cards.
+mana={2}{B}
+type=Sorcery
+[/card]
+[card]
+name=Spiritual Visit
+text=Put a 1/1 colorless Spirit creature token onto the battlefield. -- Splice onto Arcane {W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={W}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Shape Stealer
+text=Whenever Shape Stealer blocks or becomes blocked by a creature, change Shape Stealer's power and toughness to that creature's power and toughness until end of turn.
+mana={U}{U}
+type=Creature
+subtype=Shapeshifter Spirit
+power=1
+toughness=1
+[/card]
+[card]
+name=Pure Intentions
+text=Whenever a spell or ability an opponent controls causes you to discard cards this turn, return those cards from your graveyard to your hand. -- When a spell or ability an opponent controls causes you to discard Pure Intentions, return Pure Intentions from your graveyard to your hand at the beginning of the next end step.
+mana={W}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Murmurs from Beyond
+text=Reveal the top three cards of your library. An opponent chooses one of them. Put that card into your graveyard and the rest into your hand.
+mana={2}{U}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Evermind
+text=(Nonexistent mana costs can't be paid.) -- Draw a card. -- Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Curtain of Light
+text=Cast Curtain of Light only during combat after blockers are declared. -- Target unblocked attacking creature becomes blocked. (This spell works on unblockable creatures.) -- Draw a card.
+mana={1}{W}
+type=Instant
+[/card]
+[card]
+name=Into the Fray
+text=Target creature attacks this turn if able. -- Splice onto Arcane {R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={R}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Burning-Eye Zubera
+text=When Burning-Eye Zubera dies, if 4 or more damage was dealt to it this turn, Burning-Eye Zubera deals 3 damage to target creature or player.
+mana={2}{R}{R}
+type=Creature
+subtype=Zubera Spirit
+power=3
+toughness=3
+[/card]

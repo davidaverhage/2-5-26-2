@@ -1,0 +1,9 @@
+include mtg.txt
+name=Random 2 Colors
+unlock=prx_rnddeck
+[INIT]
+mode=random2
+
+[PLAYERS]
+auto=shuffle
+auto=draw:7

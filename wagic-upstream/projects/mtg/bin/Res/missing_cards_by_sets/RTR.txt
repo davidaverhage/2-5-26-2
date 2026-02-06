@@ -1,0 +1,30 @@
+[card]
+name=Conjured Currency
+text=At the beginning of your upkeep, you may exchange control of Conjured Currency and target permanent you neither own nor control.
+mana={5}{U}
+type=Enchantment
+[/card]
+[card]
+name=Epic Experiment
+text=Exile the top X cards of your library. For each instant and sorcery card with converted mana cost X or less among them, you may cast that card without paying its mana cost. Then put all cards exiled this way that weren't cast into your graveyard.
+mana={X}{U}{R}
+type=Sorcery
+[/card]
+[card]
+name=Search the City
+text=When Search the City enters the battlefield, exile the top five cards of your library. -- Whenever you play a card with the same name as one of the exiled cards, you may put one of those cards with that name into its owner's hand. Then if there are no cards exiled with Search the City, sacrifice it. If you do, take an extra turn after this one.
+mana={4}{U}
+type=Enchantment
+[/card]
+[card]
+name=Guild Feud
+text=At the beginning of your upkeep, target opponent reveals the top three cards of his or her library, may put a creature card from among them onto the battlefield, then puts the rest into his or her graveyard. You do the same with the top three cards of your library. If two creatures are put onto the battlefield this way, those creatures fight each other.
+mana={5}{R}
+type=Enchantment
+[/card]
+[card]
+name=Tablet of the Guilds
+text=As Tablet of the Guilds enters the battlefield, choose two colors. -- Whenever you cast a spell, if it's at least one of the chosen colors, you gain 1 life for each of the chosen colors it is.
+mana={2}
+type=Artifact
+[/card]

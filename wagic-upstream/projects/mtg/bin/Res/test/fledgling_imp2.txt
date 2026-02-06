@@ -1,0 +1,31 @@
+#Bug: fledgling imp ability doesn't work
+# text={B}, Discard a card from your hand: Fledgling Imp gains flying until end of turn. 
+[INIT]
+COMBATATTACKERS
+[PLAYER1]
+inplay:air elemental
+[PLAYER2]
+inplay:fledgling imp,swamp
+hand:grizzly bears
+[DO]
+air elemental
+next
+#blockers
+swamp
+fledgling imp
+choice 1
+grizzly bears
+fledgling imp
+next
+#combat damage
+next
+#combat end
+[ASSERT]
+COMBATEND
+[PLAYER1]
+inplay:air elemental
+[PLAYER2]
+graveyard:grizzly bears,fledgling imp
+inplay:swamp
+manapool:{0}
+[END]

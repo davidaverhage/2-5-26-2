@@ -1,0 +1,22 @@
+#NAME:Silver Blade
+#DESC:Don't worry -
+#DESC:it will not hurt ... much.
+#DESC:
+#DESC:Hounds and spirits,
+#DESC:lynx and soldiers
+#DESC:will have ripped you apart
+#DESC:before you even noticed
+#DESC:their presence.
+Crusade (RV)                 * 4 #
+Swords to Plowshares (RV)    * 4 #
+Karakas (LEG)                * 1 #
+Snow-Covered Plains (ICE)    *20 #
+Leonin Skyhunter (MRD)       * 3 #
+Isamaru, Hound of Konda (CHK) * 2 #
+Knight of Meadowgrain (LRW)  * 4 #
+Spectral Procession (SHM)    * 4 #
+Nobilis of War (EVE)         * 2 #
+Steppe Lynx (ZEN)            * 4 #
+Elite Vanguard (M10)         * 4 #
+Honor of the Pure (M10)      * 4 #
+Kazandu Blademaster (ZEN)    * 4 #

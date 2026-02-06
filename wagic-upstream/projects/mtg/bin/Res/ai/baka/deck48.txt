@@ -1,0 +1,22 @@
+#NAME:Treefolk
+#DESC:In the most ancient forests
+#DESC:the trees need no protectors.
+#DESC:They defend themselves.
+Ambassador Oak (MOR) *2 
+Blanchwood Armor (USG) *2
+Dauntless Dourbark (LRW) *4
+Dungrove Elder (M12) *2
+Essence Warden (PLC) *4
+Forest (10E) *4
+Forest (CHK) *4
+Forest (LRW) *4
+Forest (M10) *4
+Forest (M12) *4
+Forest (USG) *4
+Gaea's Anthem (PLC) *4 
+Imperious Perfect (LRW) *2
+Llanowar Elves (M10) *4
+Skyshroud Ranger (10E) *2
+Thornweald Archer (FUT) *4
+Timber Protector (LRW) *4
+Treefolk Seedlings (USG) *2

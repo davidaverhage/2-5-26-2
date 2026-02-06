@@ -1,0 +1,832 @@
+[meta]
+author=Wagic Team
+name=Portal Second Age
+orderindex=BEG-2.P02
+year=1998-06-24
+total=165
+[/meta]
+[card]
+primitive=Abyssal Nightstalker
+id=6567
+rarity=U
+[/card]
+[card]
+primitive=Air Elemental
+id=6536
+rarity=U
+[/card]
+[card]
+primitive=Alaborn Cavalier
+id=6506
+rarity=U
+[/card]
+[card]
+primitive=Alaborn Grenadier
+id=6508
+rarity=C
+[/card]
+[card]
+primitive=Alaborn Musketeer
+id=6499
+rarity=C
+[/card]
+[card]
+primitive=Alaborn Trooper
+id=6493
+rarity=C
+[/card]
+[card]
+primitive=Alaborn Veteran
+id=6516
+rarity=R
+[/card]
+[card]
+primitive=Alaborn Zealot
+id=6492
+rarity=U
+[/card]
+[card]
+primitive=Alluring Scent
+id=6639
+rarity=R
+[/card]
+[card]
+primitive=Ancient Craving
+id=6579
+rarity=R
+[/card]
+[card]
+primitive=Angel of Fury
+id=6515
+rarity=R
+[/card]
+[card]
+primitive=Angel of Mercy
+id=6505
+rarity=U
+[/card]
+[card]
+primitive=Angelic Blessing
+id=6500
+rarity=C
+[/card]
+[card]
+primitive=Angelic Wall
+id=6498
+rarity=C
+[/card]
+[card]
+primitive=Apprentice Sorcerer
+id=6535
+rarity=U
+[/card]
+[card]
+primitive=Archangel
+id=6514
+rarity=R
+[/card]
+[card]
+primitive=Armageddon
+id=6520
+rarity=R
+[/card]
+[card]
+primitive=Armored Galleon
+id=6537
+rarity=U
+[/card]
+[card]
+primitive=Armored Griffin
+id=6509
+rarity=U
+[/card]
+[card]
+primitive=Barbtooth Wurm
+id=6627
+rarity=C
+[/card]
+[card]
+primitive=Bargain
+id=6510
+rarity=U
+[/card]
+[card]
+primitive=Bear Cub
+id=6613
+rarity=C
+[/card]
+[card]
+primitive=Bee Sting
+id=6633
+rarity=U
+[/card]
+[card]
+primitive=Blaze
+id=6600
+rarity=U
+[/card]
+[card]
+primitive=Bloodcurdling Scream
+id=6573
+rarity=U
+[/card]
+[card]
+primitive=Breath of Life
+id=6501
+rarity=C
+[/card]
+[card]
+primitive=Brimstone Dragon
+id=6605
+rarity=R
+[/card]
+[card]
+primitive=Brutal Nightstalker
+id=6566
+rarity=U
+[/card]
+[card]
+primitive=Chorus of Woe
+id=6564
+rarity=C
+[/card]
+[card]
+primitive=Coastal Wizard
+id=6544
+rarity=R
+[/card]
+[card]
+primitive=Coercion
+id=6570
+rarity=U
+[/card]
+[card]
+primitive=Cruel Edict
+id=6561
+rarity=C
+[/card]
+[card]
+primitive=Cunning Giant
+id=6606
+rarity=R
+[/card]
+[card]
+primitive=Deja Vu
+id=6528
+rarity=C
+[/card]
+[card]
+primitive=Dakmor Bat
+id=6553
+rarity=C
+[/card]
+[card]
+primitive=Dakmor Plague
+id=6571
+rarity=U
+[/card]
+[card]
+primitive=Dakmor Scorpion
+id=6552
+rarity=C
+[/card]
+[card]
+primitive=Dakmor Sorceress
+id=6576
+rarity=R
+[/card]
+[card]
+primitive=Dark Offering
+id=6569
+rarity=U
+[/card]
+[card]
+primitive=Deathcoil Wurm
+id=6637
+rarity=R
+[/card]
+[card]
+primitive=Deep Wood
+id=6631
+rarity=U
+[/card]
+[card]
+primitive=Denizen of the Deep
+id=6546
+rarity=R
+[/card]
+[card]
+primitive=Earthquake
+id=6609
+rarity=R
+[/card]
+[card]
+primitive=Exhaustion
+id=6549
+rarity=R
+[/card]
+[card]
+primitive=Extinguish
+id=6534
+rarity=C
+[/card]
+[card]
+primitive=Eye Spy
+id=6538
+rarity=U
+[/card]
+[card]
+primitive=False Summoning
+id=6533
+rarity=C
+[/card]
+[card]
+primitive=Festival of Trokin
+id=6504
+rarity=C
+[/card]
+[card]
+primitive=Forest
+id=8408
+rarity=L
+[/card]
+[card]
+primitive=Forest
+id=8409
+rarity=L
+[/card]
+[card]
+primitive=Forest
+id=8410
+rarity=L
+[/card]
+[card]
+primitive=Foul Spirit
+id=6568
+rarity=U
+[/card]
+[card]
+primitive=Goblin Cavaliers
+id=6587
+rarity=C
+[/card]
+[card]
+primitive=Goblin Firestarter
+id=6598
+rarity=U
+[/card]
+[card]
+primitive=Goblin General
+id=6604
+rarity=R
+[/card]
+[card]
+primitive=Goblin Glider
+id=6584
+rarity=C
+[/card]
+[card]
+primitive=Goblin Lore
+id=6602
+rarity=U
+[/card]
+[card]
+primitive=Goblin Matron
+id=6596
+rarity=U
+[/card]
+[card]
+primitive=Goblin Mountaineer
+id=6585
+rarity=C
+[/card]
+[card]
+primitive=Goblin Piker
+id=6582
+rarity=C
+[/card]
+[card]
+primitive=Goblin Raider
+id=6583
+rarity=C
+[/card]
+[card]
+primitive=Goblin War Cry
+id=6603
+rarity=U
+[/card]
+[card]
+primitive=Goblin War Strike
+id=6594
+rarity=C
+[/card]
+[card]
+primitive=Golden Bear
+id=6616
+rarity=C
+[/card]
+[card]
+primitive=Hand of Death
+id=6563
+rarity=C
+[/card]
+[card]
+primitive=Harmony of Nature
+id=6632
+rarity=U
+[/card]
+[card]
+primitive=Hidden Horror
+id=6574
+rarity=R
+[/card]
+[card]
+primitive=Hurricane
+id=6640
+rarity=R
+[/card]
+[card]
+primitive=Ironhoof Ox
+id=6628
+rarity=U
+[/card]
+[card]
+primitive=Island
+id=8387
+rarity=L
+[/card]
+[card]
+primitive=Island
+id=8390
+rarity=L
+[/card]
+[card]
+primitive=Island
+id=8391
+rarity=L
+[/card]
+[card]
+primitive=Jagged Lightning
+id=6601
+rarity=U
+[/card]
+[card]
+primitive=Just Fate
+id=6519
+rarity=R
+[/card]
+[card]
+primitive=Kiss of Death
+id=6572
+rarity=U
+[/card]
+[card]
+primitive=Lava Axe
+id=6591
+rarity=C
+[/card]
+[card]
+primitive=Lone Wolf
+id=6614
+rarity=U
+[/card]
+[card]
+primitive=Lurking Nightstalker
+id=6557
+rarity=C
+[/card]
+[card]
+primitive=Lynx
+id=6611
+rarity=C
+[/card]
+[card]
+primitive=Magma Giant
+id=6607
+rarity=R
+[/card]
+[card]
+primitive=Mind Rot
+id=6562
+rarity=C
+[/card]
+[card]
+primitive=Moaning Spirit
+id=6554
+rarity=C
+[/card]
+[card]
+primitive=Monstrous Growth
+id=6621
+rarity=C
+[/card]
+[card]
+primitive=Mountain
+id=8395
+rarity=L
+[/card]
+[card]
+primitive=Mountain
+id=8406
+rarity=L
+[/card]
+[card]
+primitive=Mountain
+id=8407
+rarity=L
+[/card]
+[card]
+primitive=Muck Rats
+id=6551
+rarity=C
+[/card]
+[card]
+primitive=Mystic Denial
+id=6542
+rarity=U
+[/card]
+[card]
+primitive=Natural Spring
+id=6624
+rarity=C
+[/card]
+[card]
+primitive=Nature's Lore
+id=6623
+rarity=C
+[/card]
+[card]
+primitive=Nightstalker Engine
+id=6577
+rarity=R
+[/card]
+[card]
+primitive=Norwood Archers
+id=6618
+rarity=C
+[/card]
+[card]
+primitive=Norwood Priestess
+id=6634
+rarity=R
+[/card]
+[card]
+primitive=Norwood Ranger
+id=6636
+rarity=C
+[/card]
+[card]
+primitive=Norwood Riders
+id=6615
+rarity=C
+[/card]
+[card]
+primitive=Norwood Warrior
+id=6620
+rarity=C
+[/card]
+[card]
+primitive=Obsidian Giant
+id=6599
+rarity=U
+[/card]
+[card]
+primitive=Ogre Arsonist
+id=6595
+rarity=U
+[/card]
+[card]
+primitive=Ogre Berserker
+id=6586
+rarity=C
+[/card]
+[card]
+primitive=Ogre Taskmaster
+id=6588
+rarity=U
+[/card]
+[card]
+primitive=Ogre Warrior
+id=6597
+rarity=C
+[/card]
+[card]
+primitive=Path of Peace
+id=6502
+rarity=C
+[/card]
+[card]
+primitive=Piracy
+id=6550
+rarity=R
+[/card]
+[card]
+primitive=Plains
+id=8354
+rarity=L
+[/card]
+[card]
+primitive=Plains
+id=8374
+rarity=L
+[/card]
+[card]
+primitive=Plains
+id=8380
+rarity=L
+[/card]
+[card]
+primitive=Plated Wurm
+id=6617
+rarity=C
+[/card]
+[card]
+primitive=Predatory Nightstalker
+id=6565
+rarity=U
+[/card]
+[card]
+primitive=Prowling Nightstalker
+id=6556
+rarity=C
+[/card]
+[card]
+primitive=Raging Goblin
+id=6581
+rarity=C
+[/card]
+[card]
+primitive=Raiding Nightstalker
+id=6558
+rarity=C
+[/card]
+[card]
+primitive=Rain of Daggers
+id=6580
+rarity=R
+[/card]
+[card]
+primitive=Raise Dead
+id=6560
+rarity=C
+[/card]
+[card]
+primitive=Rally the Troops
+id=6511
+rarity=U
+[/card]
+[card]
+primitive=Ravenous Rats
+id=6559
+rarity=C
+[/card]
+[card]
+primitive=Razorclaw Bear
+id=6638
+rarity=R
+[/card]
+[card]
+primitive=Relentless Assault
+id=6608
+rarity=R
+[/card]
+[card]
+primitive=Remove
+id=6541
+rarity=U
+[/card]
+[card]
+primitive=Renewing Touch
+id=6629
+rarity=U
+[/card]
+[card]
+primitive=Return of the Nightstalkers
+id=6578
+rarity=R
+[/card]
+[card]
+primitive=Righteous Charge
+id=6503
+rarity=C
+[/card]
+[card]
+primitive=Righteous Fury
+id=6518
+rarity=R
+[/card]
+[card]
+primitive=River Bear
+id=6626
+rarity=U
+[/card]
+[card]
+primitive=Salvage
+id=6622
+rarity=C
+[/card]
+[card]
+primitive=Screeching Drake
+id=6523
+rarity=C
+[/card]
+[card]
+primitive=Sea Drake
+id=6539
+rarity=U
+[/card]
+[card]
+primitive=Sleight of Hand
+id=6529
+rarity=C
+[/card]
+[card]
+primitive=Spitting Earth
+id=6589
+rarity=C
+[/card]
+[card]
+primitive=Steam Catapult
+id=6517
+rarity=R
+[/card]
+[card]
+primitive=Steam Frigate
+id=6526
+rarity=C
+[/card]
+[card]
+primitive=Stone Rain
+id=6590
+rarity=C
+[/card]
+[card]
+primitive=Swamp
+id=8392
+rarity=L
+[/card]
+[card]
+primitive=Swamp
+id=8393
+rarity=L
+[/card]
+[card]
+primitive=Swamp
+id=8394
+rarity=L
+[/card]
+[card]
+primitive=Swarm of Rats
+id=6555
+rarity=C
+[/card]
+[card]
+primitive=Sylvan Basilisk
+id=8905
+rarity=R
+[/card]
+[card]
+primitive=Sylvan Yeti
+id=6635
+rarity=R
+[/card]
+[card]
+primitive=Talas Air Ship
+id=6524
+rarity=C
+[/card]
+[card]
+primitive=Talas Explorer
+id=6522
+rarity=C
+[/card]
+[card]
+primitive=Talas Merchant
+id=6525
+rarity=C
+[/card]
+[card]
+primitive=Talas Researcher
+id=6547
+rarity=R
+[/card]
+[card]
+primitive=Talas Scout
+id=6521
+rarity=C
+[/card]
+[card]
+primitive=Talas Warrior
+id=6545
+rarity=R
+[/card]
+[card]
+primitive=Temple Acolyte
+id=6495
+rarity=C
+[/card]
+[card]
+primitive=Temple Elder
+id=6507
+rarity=U
+[/card]
+[card]
+primitive=Temporal Manipulation
+id=6548
+rarity=R
+[/card]
+[card]
+primitive=Theft of Dreams
+id=6543
+rarity=U
+[/card]
+[card]
+primitive=Tidal Surge
+id=6531
+rarity=C
+[/card]
+[card]
+primitive=Time Ebb
+id=6532
+rarity=C
+[/card]
+[card]
+primitive=Touch of Brilliance
+id=6527
+rarity=C
+[/card]
+[card]
+primitive=Town Sentry
+id=6494
+rarity=C
+[/card]
+[card]
+primitive=Tree Monkey
+id=6619
+rarity=C
+[/card]
+[card]
+primitive=Tremor
+id=6592
+rarity=C
+[/card]
+[card]
+primitive=Trokin High Guard
+id=6496
+rarity=C
+[/card]
+[card]
+primitive=Undo
+id=6540
+rarity=U
+[/card]
+[card]
+primitive=Untamed Wilds
+id=6630
+rarity=U
+[/card]
+[card]
+primitive=Vampiric Spirit
+id=6575
+rarity=R
+[/card]
+[card]
+primitive=Vengeance
+id=6513
+rarity=U
+[/card]
+[card]
+primitive=Volcanic Hammer
+id=6593
+rarity=C
+[/card]
+[card]
+primitive=Volunteer Militia
+id=6491
+rarity=C
+[/card]
+[card]
+primitive=Warrior's Stand
+id=6512
+rarity=U
+[/card]
+[card]
+primitive=Wild Griffin
+id=6497
+rarity=C
+[/card]
+[card]
+primitive=Wild Ox
+id=6625
+rarity=U
+[/card]
+[card]
+primitive=Wildfire
+id=6610
+rarity=R
+[/card]
+[card]
+primitive=Wind Sail
+id=6530
+rarity=C
+[/card]

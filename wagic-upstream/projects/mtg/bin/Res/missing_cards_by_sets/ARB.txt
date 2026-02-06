@@ -1,0 +1,15 @@
+[card]
+name=Thought Hemorrhage
+text=Name a nonland card. Target player reveals his or her hand. Thought Hemorrhage deals 3 damage to that player for each card with that name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.
+mana={2}{B}{R}
+type=Sorcery
+[/card]
+[card]
+name=Singe-Mind Ogre
+text=When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.
+mana={2}{B}{R}
+type=Creature
+subtype=Ogre Mutant
+power=3
+toughness=2
+[/card]

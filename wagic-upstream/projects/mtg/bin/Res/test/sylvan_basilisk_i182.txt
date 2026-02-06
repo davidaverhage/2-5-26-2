@@ -1,0 +1,59 @@
+#NAME: Sylvan Basilisk
+#DESC: Sylvan Basilisk should *only* destroy
+#DESC: creatures blocking it (not creatures
+#DESC: blocked *by* it), and it should destroy
+#DESC: these at the end of the "Declare Blockers"
+#DESC: step, so it never takes any damage from
+#DESC: them. Nevertheless it should not deal
+#DESC: damage to the opponent if it had been
+#DESC: blocked at some point (unless it has
+#DESC: Trample).
+#DESC: In the script, the Sylvan Basilisk blocks
+#DESC: a Giant Spider (which should survive),
+#DESC: then gets blocked by Gosta Dirk (who
+#DESC: should be destroyed without having a
+#DESC: chance to kill the Sylvan Basilisk), and
+#DESC: then the Sylvan Basilisk should not deal
+#DESC: any damage to player 0.
+#DESC: See http://code.google.com/p/wagic/issues/detail?id=182
+[INIT]
+combatattackers
+[PLAYER1]
+inplay:Giant Spider,Gosta Dirk
+[PLAYER2]
+inplay:Sylvan Basilisk
+library:Forest
+[DO]
+Giant Spider
+next
+Sylvan Basilisk
+eot
+#untap
+next
+#upkeep
+next
+#draw
+next
+#main
+next
+#begins
+next
+#attackers
+Sylvan Basilisk
+next
+#blockers
+Gosta Dirk
+next
+#first strike damage, Gosta Dirk gets destroyed
+#Weirdness happens here, we get directly to combat end
+next
+#main 2
+[ASSERT]
+secondmain
+[PLAYER1]
+inplay:Giant Spider
+graveyard:Gosta Dirk
+[PLAYER2]
+inplay:Sylvan Basilisk
+hand:Forest
+[END]
