@@ -1,0 +1,838 @@
+[meta]
+author=Wagic Team
+name=Fifth Dawn
+block=Mirrodin
+orderindex=EXP-X.5DN
+year=2004-06-04
+total=166
+[/meta]
+[card]
+primitive=Abuna's Chant
+id=50164
+rarity=C
+[/card]
+[card]
+primitive=Acquire
+id=51088
+rarity=R
+[/card]
+[card]
+primitive=Advanced Hoverguard
+id=50144
+rarity=C
+[/card]
+[card]
+primitive=All Suns' Dawn
+id=51221
+rarity=R
+[/card]
+[card]
+primitive=Anodet Lurker
+id=51119
+rarity=C
+[/card]
+[card]
+primitive=Arachnoid
+id=51230
+rarity=U
+[/card]
+[card]
+primitive=Arcbound Wanderer
+id=72720
+rarity=U
+[/card]
+[card]
+primitive=Armed Response
+id=73566
+rarity=C
+[/card]
+[card]
+primitive=Artificer's Intuition
+id=50172
+rarity=R
+[/card]
+[card]
+primitive=Auriok Champion
+id=72921
+rarity=R
+[/card]
+[card]
+primitive=Auriok Salvagers
+id=51166
+rarity=U
+[/card]
+[card]
+primitive=Auriok Windwalker
+id=46175
+rarity=R
+[/card]
+[card]
+primitive=Avarice Totem
+id=39667
+rarity=U
+[/card]
+[card]
+primitive=Baton of Courage
+id=51375
+rarity=C
+[/card]
+[card]
+primitive=Battered Golem
+id=73932
+rarity=C
+[/card]
+[card]
+primitive=Beacon of Creation
+id=51613
+rarity=R
+[/card]
+[card]
+primitive=Beacon of Destruction
+id=51612
+rarity=R
+[/card]
+[card]
+primitive=Beacon of Immortality
+id=50141
+rarity=R
+[/card]
+[card]
+primitive=Beacon of Tomorrows
+id=51610
+rarity=R
+[/card]
+[card]
+primitive=Beacon of Unrest
+id=51611
+rarity=R
+[/card]
+[card]
+primitive=Blasting Station
+id=51131
+rarity=U
+[/card]
+[card]
+primitive=Blind Creeper
+id=50212
+rarity=C
+[/card]
+[card]
+primitive=Blinkmoth Infusion
+id=51634
+rarity=R
+[/card]
+[card]
+primitive=Bringer of the Black Dawn
+id=73555
+rarity=R
+[/card]
+[card]
+primitive=Bringer of the Blue Dawn
+id=73554
+rarity=R
+[/card]
+[card]
+primitive=Bringer of the Green Dawn
+id=73552
+rarity=R
+[/card]
+[card]
+primitive=Bringer of the Red Dawn
+id=73553
+rarity=R
+[/card]
+[card]
+primitive=Bringer of the White Dawn
+id=73556
+rarity=R
+[/card]
+[card]
+primitive=Cackling Imp
+id=73597
+rarity=C
+[/card]
+[card]
+primitive=Channel the Suns
+id=73565
+rarity=U
+[/card]
+[card]
+primitive=Chimeric Coils
+id=50156
+rarity=U
+[/card]
+[card]
+primitive=Circle of Protection: Artifacts
+id=73561
+rarity=U
+[/card]
+[card]
+primitive=Clearwater Goblet
+id=50198
+rarity=R
+[/card]
+[card]
+primitive=Clock of Omens
+id=51129
+rarity=U
+[/card]
+[card]
+primitive=Composite Golem
+id=73557
+rarity=U
+[/card]
+[card]
+primitive=Condescend
+id=51223
+rarity=C
+[/card]
+[card]
+primitive=Conjurer's Bauble
+id=50159
+rarity=C
+[/card]
+[card]
+primitive=Cosmic Larva
+id=43529
+rarity=R
+[/card]
+[card]
+primitive=Cranial Plating
+id=51184
+rarity=C
+[/card]
+[card]
+primitive=Crucible of Worlds
+id=51133
+rarity=R
+[/card]
+[card]
+primitive=Dawn's Reflection
+id=51222
+rarity=C
+[/card]
+[card]
+primitive=Desecration Elemental
+id=50204
+rarity=R
+[/card]
+[card]
+primitive=Devour in Shadow
+id=50210
+rarity=U
+[/card]
+[card]
+primitive=Disruption Aura
+id=76971
+rarity=U
+[/card]
+[card]
+primitive=Door to Nothingness
+id=73559
+rarity=R
+[/card]
+[card]
+primitive=Doubling Cube
+id=51135
+rarity=R
+[/card]
+[card]
+primitive=Dross Crocodile
+id=51189
+rarity=C
+[/card]
+[card]
+primitive=Early Frost
+id=73571
+rarity=C
+[/card]
+[card]
+primitive=Ebon Drake
+id=51095
+rarity=U
+[/card]
+[card]
+primitive=Endless Whispers
+id=50129
+rarity=R
+[/card]
+[card]
+primitive=Energy Chamber
+id=47438
+rarity=U
+[/card]
+[card]
+primitive=Engineered Explosives
+id=50139
+rarity=R
+[/card]
+[card]
+primitive=Ensouled Scimitar
+id=51115
+rarity=U
+[/card]
+[card]
+primitive=Eon Hub
+id=51160
+rarity=R
+[/card]
+[card]
+primitive=Etched Oracle
+id=72725
+rarity=U
+[/card]
+[card]
+primitive=Eternal Witness
+id=51628
+rarity=U
+[/card]
+[card]
+primitive=Eyes of the Watcher
+id=73925
+rarity=U
+[/card]
+[card]
+primitive=Fangren Pathcutter
+id=50171
+rarity=U
+[/card]
+[card]
+primitive=Feedback Bolt
+id=46108
+rarity=U
+[/card]
+[card]
+primitive=Ferocious Charge
+id=51617
+rarity=C
+[/card]
+[card]
+primitive=Ferropede
+id=51113
+rarity=U
+[/card]
+[card]
+primitive=Fill with Fright
+id=46159
+rarity=C
+[/card]
+[card]
+primitive=Fist of Suns
+id=50117
+rarity=R
+[/card]
+[card]
+primitive=Fleshgrafter
+id=50209
+rarity=C
+[/card]
+[card]
+primitive=Fold into Aether
+id=51631
+rarity=U
+[/card]
+[card]
+primitive=Furnace Whelp
+id=73578
+rarity=U
+[/card]
+[card]
+primitive=Gemstone Array
+id=50150
+rarity=U
+[/card]
+[card]
+primitive=Goblin Brawler
+id=51170
+rarity=C
+[/card]
+[card]
+primitive=Goblin Cannon
+id=48215
+rarity=U
+[/card]
+[card]
+primitive=Grafted Wargear
+id=50927
+rarity=U
+[/card]
+[card]
+primitive=Granulate
+id=72721
+rarity=R
+[/card]
+[card]
+primitive=Grinding Station
+id=51229
+rarity=U
+[/card]
+[card]
+primitive=Guardian Idol
+id=51138
+rarity=U
+[/card]
+[card]
+primitive=Healer's Headdress
+id=51182
+rarity=C
+[/card]
+[card]
+primitive=Heliophial
+id=50192
+rarity=C
+[/card]
+[card]
+primitive=Helm of Kaldra
+id=47449
+rarity=R
+[/card]
+[card]
+primitive=Horned Helm
+id=51186
+rarity=C
+[/card]
+[card]
+primitive=Hoverguard Sweepers
+id=51086
+rarity=R
+[/card]
+[card]
+primitive=Infused Arrows
+id=51146
+rarity=U
+[/card]
+[card]
+primitive=Into Thin Air
+id=50147
+rarity=C
+[/card]
+[card]
+primitive=Ion Storm
+id=72925
+rarity=R
+[/card]
+[card]
+primitive=Iron-Barb Hellion
+id=44608
+rarity=U
+[/card]
+[card]
+primitive=Joiner Adept
+id=72928
+rarity=R
+[/card]
+[card]
+primitive=Kaldra
+id=-47449
+rarity=T
+[/card]
+[card]
+primitive=Krark-Clan Engineers
+id=50201
+rarity=U
+[/card]
+[card]
+primitive=Krark-Clan Ironworks
+id=51633
+rarity=U
+[/card]
+[card]
+primitive=Krark-Clan Ogre
+id=51097
+rarity=C
+[/card]
+[card]
+primitive=Lantern of Insight
+id=73927
+rarity=U
+[/card]
+[card]
+primitive=Leonin Squire
+id=72722
+rarity=C
+[/card]
+[card]
+primitive=Lose Hope
+id=50207
+rarity=C
+[/card]
+[card]
+primitive=Loxodon Anchorite
+id=50137
+rarity=C
+[/card]
+[card]
+primitive=Loxodon Stalwart
+id=73567
+rarity=U
+[/card]
+[card]
+primitive=Lunar Avenger
+id=72862
+rarity=U
+[/card]
+[card]
+primitive=Magma Giant
+id=51102
+rarity=R
+[/card]
+[card]
+primitive=Magma Jet
+id=51180
+rarity=U
+[/card]
+[card]
+primitive=Magnetic Theft
+id=51101
+rarity=U
+[/card]
+[card]
+primitive=Mana Geyser
+id=72727
+rarity=C
+[/card]
+[card]
+primitive=Mephidross Vampire
+id=50211
+rarity=R
+[/card]
+[card]
+primitive=Moriok Rigger
+id=51091
+rarity=R
+[/card]
+[card]
+primitive=Mycosynth Golem
+id=51136
+rarity=R
+[/card]
+[card]
+primitive=Myr Quadropod
+id=50176
+rarity=C
+[/card]
+[card]
+primitive=Myr Servitor
+id=50179
+rarity=C
+[/card]
+[card]
+primitive=Neurok Stealthsuit
+id=51183
+rarity=C
+[/card]
+[card]
+primitive=Night's Whisper
+id=51178
+rarity=U
+[/card]
+[card]
+primitive=Nim Grotesque
+id=73574
+rarity=U
+[/card]
+[card]
+primitive=Opaline Bracers
+id=50158
+rarity=C
+[/card]
+[card]
+primitive=Ouphe Vandals
+id=50189
+rarity=U
+[/card]
+[card]
+primitive=Paradise Mantle
+id=73558
+rarity=U
+[/card]
+[card]
+primitive=Pentad Prism
+id=72860
+rarity=C
+[/card]
+[card]
+primitive=Plasma Elemental
+id=73562
+rarity=U
+[/card]
+[card]
+primitive=Plunge into Darkness
+id=72681
+rarity=R
+[/card]
+[card]
+primitive=Possessed Portal
+id=50119
+rarity=R
+[/card]
+[card]
+primitive=Qumulox
+id=47800
+rarity=U
+[/card]
+[card]
+primitive=Rain of Rust
+id=51190
+rarity=C
+[/card]
+[card]
+primitive=Raksha Golden Cub
+id=73569
+rarity=R
+[/card]
+[card]
+primitive=Razorgrass Screen
+id=72999
+rarity=C
+[/card]
+[card]
+primitive=Razormane Masticore
+id=50155
+rarity=R
+[/card]
+[card]
+primitive=Relentless Rats
+id=73573
+rarity=U
+[/card]
+[card]
+primitive=Relic Barrier
+id=43574
+rarity=U
+[/card]
+[card]
+primitive=Retaliate
+id=50213
+rarity=R
+[/card]
+[card]
+primitive=Reversal of Fortune
+id=73564
+rarity=R
+[/card]
+[card]
+primitive=Rite of Passage
+id=51163
+rarity=R
+[/card]
+[card]
+primitive=Roar of Reclamation
+id=51080
+rarity=R
+[/card]
+[card]
+primitive=Rude Awakening
+id=73587
+rarity=R
+[/card]
+[card]
+primitive=Salvaging Station
+id=51132
+rarity=R
+[/card]
+[card]
+primitive=Sawtooth Thresher
+id=51141
+rarity=C
+[/card]
+[card]
+primitive=Screaming Fury
+id=51148
+rarity=C
+[/card]
+[card]
+primitive=Serum Visions
+id=50145
+rarity=C
+[/card]
+[card]
+primitive=Shattered Dreams
+id=51092
+rarity=U
+[/card]
+[card]
+primitive=Silent Arbiter
+id=73598
+rarity=R
+[/card]
+[card]
+primitive=Skullcage
+id=73926
+rarity=U
+[/card]
+[card]
+primitive=Skyhunter Prowler
+id=50136
+rarity=C
+[/card]
+[card]
+primitive=Skyhunter Skirmisher
+id=51220
+rarity=U
+[/card]
+[card]
+primitive=Skyreach Manta
+id=51374
+rarity=C
+[/card]
+[card]
+primitive=Solarion
+id=51629
+rarity=R
+[/card]
+[card]
+primitive=Spark Elemental
+id=73579
+rarity=C
+[/card]
+[card]
+primitive=Sparring Collar
+id=51185
+rarity=C
+[/card]
+[card]
+primitive=Spectral Shift
+id=73572
+rarity=R
+[/card]
+[card]
+primitive=Spinal Parasite
+id=73928
+rarity=U
+[/card]
+[card]
+primitive=Staff of Domination
+id=50162
+rarity=R
+[/card]
+[card]
+primitive=Stand Firm
+id=50138
+rarity=C
+[/card]
+[card]
+primitive=Stasis Cocoon
+id=51607
+rarity=C
+[/card]
+[card]
+primitive=Steelshaper's Gift
+id=51078
+rarity=U
+[/card]
+[card]
+primitive=Summoner's Egg
+id=51075
+rarity=R
+[/card]
+[card]
+primitive=Summoning Station
+id=72858
+rarity=R
+[/card]
+[card]
+primitive=Suncrusher
+id=48177
+rarity=R
+[/card]
+[card]
+primitive=Suntouched Myr
+id=51105
+rarity=C
+[/card]
+[card]
+primitive=Sylvok Explorer
+id=51125
+rarity=C
+[/card]
+[card]
+primitive=Synod Centurion
+id=73929
+rarity=U
+[/card]
+[card]
+primitive=Tangle Asp
+id=50203
+rarity=C
+[/card]
+[card]
+primitive=Tel-Jilad Justice
+id=50190
+rarity=U
+[/card]
+[card]
+primitive=Tel-Jilad Lifebreather
+id=73582
+rarity=C
+[/card]
+[card]
+primitive=Thermal Navigator
+id=50177
+rarity=C
+[/card]
+[card]
+primitive=Thought Courier
+id=73570
+rarity=C
+[/card]
+[card]
+primitive=Tornado Elemental
+id=51161
+rarity=R
+[/card]
+[card]
+primitive=Trinket Mage
+id=50163
+rarity=C
+[/card]
+[card]
+primitive=Tyrranax
+id=50191
+rarity=C
+[/card]
+[card]
+primitive=Vanquish
+id=51147
+rarity=U
+[/card]
+[card]
+primitive=Vedalken Mastermind
+id=50834
+rarity=U
+[/card]
+[card]
+primitive=Vedalken Orrery
+id=50134
+rarity=R
+[/card]
+[card]
+primitive=Vedalken Shackles
+id=50120
+rarity=R
+[/card]
+[card]
+primitive=Vicious Betrayal
+id=73575
+rarity=C
+[/card]
+[card]
+primitive=Viridian Lorebearers
+id=50188
+rarity=U
+[/card]
+[card]
+primitive=Viridian Scout
+id=73583
+rarity=C
+[/card]
+[card]
+primitive=Vulshok Sorcerer
+id=51177
+rarity=C
+[/card]
+[card]
+primitive=Wayfarer's Bauble
+id=51110
+rarity=C
+[/card]

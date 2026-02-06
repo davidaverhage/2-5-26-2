@@ -1,0 +1,24 @@
+[card]
+name=Cellar Door
+text={3}, {T}: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creature token onto the battlefield.
+mana={2}
+type=Artifact
+[/card]
+[card]
+name=Heretic's Punishment
+text={3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard.Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.
+mana={4}{R}
+type=Enchantment
+[/card]
+[card]
+name=Back from the Brink
+text=Exile a creature card from your graveyard and pay its mana cost: Put a token onto the battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery.
+mana={4}{U}{U}
+type=Enchantment
+[/card]
+[card]
+name=Divine Reckoning
+text=Each player chooses a creature he or she controls. Destroy the rest. -- Flashback {5}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+mana={2}{W}{W}
+type=Sorcery
+[/card]

@@ -1,0 +1,25 @@
+#Testing That Brass Man untaps correctly for one mana
+[INIT]
+COMBATATTACKERS
+[PLAYER1]
+inplay:1099,1387,1388
+[PLAYER2]
+life:20
+[DO]
+1099
+eot
+eot
+#untap 1
+next
+#upkeep 1
+1387
+1388
+1099
+[ASSERT]
+UPKEEP
+[PLAYER1]
+inplay:1099,1387,1388
+manapool:{G}
+[PLAYER2]
+life:19
+[END]

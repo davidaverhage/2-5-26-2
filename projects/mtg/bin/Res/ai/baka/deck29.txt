@@ -1,0 +1,23 @@
+#NAME:Vigilant Watch
+#DESC:Eyes ever wakeful,
+#DESC:eyes ever watchful.
+#DESC: 
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Akrasan Squire (ALA) * 4
+Armored Ascension (SHM) * 4
+Aven Squire (CFX) * 2
+Aven Trailblazer (CFX) * 2
+Ballynock Cohort (SHM) * 4
+Castle (RV) * 2
+Field Marshal (10E) * 4
+Glorious Anthem (10E) * 4
+Mobilization (10E) * 4
+Plains (10E) * 4
+Plains (ALA) * 4
+Plains (RAV) * 4
+Plains (SHM) * 4
+Plains (USG) * 4
+Serra Zealot (USG) * 2
+Soltari Foot Soldier (TMP) * 4
+Veteran Armorer (RAV) * 4

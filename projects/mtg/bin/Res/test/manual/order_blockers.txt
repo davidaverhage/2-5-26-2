@@ -1,0 +1,24 @@
+#Testing Random discard
+[INIT]
+COMBATATTACKERS
+[PLAYER1]
+inplay:Rootbreaker Wurm,Benthic Behemoth,Bog wraith
+[PLAYER2]
+inplay:air elemental,grizzly bears,spark elemental,drudge skeletons,vampire bats,spined wurm
+[DO]
+Rootbreaker Wurm
+Benthic Behemoth
+Bog wraith
+next
+spined wurm
+spined wurm
+vampire bats
+vampire bats
+air elemental
+air elemental
+grizzly bears
+grizzly bears
+spark elemental
+drudge skeletons
+next
+human

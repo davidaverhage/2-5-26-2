@@ -1,0 +1,23 @@
+#NAME:Allies
+#DESC:"Alone we are weak, 
+#DESC: but together
+#DESC: we are unstoppable."
+#DESC:
+#DESC:If you thought that
+#DESC:it won't be possible
+#DESC:to combine three elements
+#DESC:into a single powerful force
+#DESC:- think again!
+Swords to Plowshares (RV)    * 4 #
+Turntimber Ranger (ZEN)      * 4 #
+Oran-Rief Survivalist (ZEN)  * 4 #
+Umara Raptor (ZEN)           * 4 #
+Dauntless Escort (ARB)       * 4 #
+Day of Judgment (ZEN)        * 4 #
+Rampant Growth (M10)         * 4 #
+Kazandu Blademaster  (ZEN)   * 4 #
+Ondu Cleric (ZEN)            * 4 #
+Forest (ZEN)                 * 9 #
+Plains (ZEN)                 * 9 #
+Sea Gate Loremaster (ZEN)    * 3 #
+Island (ZEN)                 * 7 #

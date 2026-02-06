@@ -1,0 +1,44 @@
+#NAME:Inquisitor
+#DESC:'The voice of nature is
+#DESC:worthless in front of 
+#DESC:the Inquisition'
+#DESC:Friedrich Schiller
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Black Vise (RV) * 4
+Clockwork Beast (RV) * 4
+Dancing Scimitar (RV) * 4
+Howling Mine (10E) * 4
+# 10E Islands
+129606
+129606
+129606
+129607
+129608
+129609
+129606
+129607
+129608
+129609
+Ivory Tower (RV) * 4
+Living Wall (RV) * 4
+Master of Etherium (ALA) * 4
+Obsianus Golem (RV) * 4
+# 10E Plains
+129681
+129682
+129683
+129680
+129681
+129682
+129683
+# 10E Swamps
+129755
+129756
+129757
+129754
+129755
+129756
+129757
+Tower Gargoyle (ALA) * 4

@@ -1,0 +1,45 @@
+[card]
+name=Deflection
+text=Change the target of target spell with a single target.
+mana={3}{U}
+type=Instant
+[/card]
+[card]
+name=Mind Bend
+text=Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect lasts indefinitely.)
+mana={U}
+type=Instant
+[/card]
+[card]
+name=Thieves' Auction
+text=Exile all nontoken permanents. Starting with you, each player chooses one of the exiled cards and puts it onto the battlefield tapped under his or her control. Repeat this process until all cards exiled this way have been chosen.
+mana={4}{R}{R}{R}
+type=Sorcery
+[/card]
+[card]
+name=Mana Clash
+text=You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+mana={R}
+type=Sorcery
+[/card]
+[card]
+name=Okk
+text=Okk can't attack unless a creature with greater power also attacks. -- Okk can't block unless a creature with greater power also blocks.
+mana={1}{R}
+type=Creature
+subtype=Goblin
+power=4
+toughness=4
+[/card]
+[card]
+name=Vexing Arcanix
+text={3}, {T}: Target player names a card, then reveals the top card of his or her library. If it's the named card, the player puts it into his or her hand. Otherwise, the player puts it into his or her graveyard and Vexing Arcanix deals 2 damage to him or her.
+mana={4}
+type=Artifact
+[/card]
+[card]
+name=Story Circle
+text=As Story Circle enters the battlefield, choose a color. -- {W}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.
+mana={1}{W}{W}
+type=Enchantment
+[/card]

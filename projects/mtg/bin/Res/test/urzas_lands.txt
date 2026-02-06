@@ -1,0 +1,25 @@
+#NAME: Urza's Lands
+#DESC: Verifies that Urza's lands
+#DESC: give more mana if you have all
+#DESC: three in play, and 1 if you
+#DESC: don't.
+[INIT]
+firstmain
+[PLAYER1]
+inplay:Urza's Mine,Urza's Power Plant
+hand:Urza's Tower
+[PLAYER2]
+[DO]
+Urza's Mine
+choice 0
+Urza's Tower
+Urza's Tower
+choice 1
+[ASSERT]
+firstmain
+[PLAYER1]
+inplay:Urza's Mine,Urza's Power Plant,Urza's Tower
+#changed to {c} since all colorless produced are now {c}
+manapool:{c}{c}{c}{c}
+[PLAYER2]
+[END]

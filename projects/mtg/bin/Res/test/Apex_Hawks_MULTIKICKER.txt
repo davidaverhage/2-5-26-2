@@ -1,0 +1,30 @@
+#Testing Apex Hawks: "Multikicker (You may pay an additional  any number of times as you cast this spell.)"
+#"Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked."
+[INIT]
+FIRSTMAIN
+[PLAYER1]
+hand:Apex Hawks
+inplay:Fervor
+manapool:{W}{W}{W}{W}{W}{W}{W}
+[PLAYER2]
+life:20
+[DO]
+#apex hawks is {2}{W} so the mana remaining will be {W}{W}{W}{W}
+Apex Hawks
+#apex hawks has {1}{W} multikicker so we can afford {2}{W}{W} since our mana is {W}{W}{W}{W}
+#it will come with two +1/+1 counters making it 1 4/4 Flyer
+choice 1
+next
+next
+Apex Hawks
+next
+next
+[ASSERT]
+COMBATDAMAGE
+[PLAYER1]
+inplay:Apex Hawks,Fervor
+manapool:{0}
+[PLAYER2]
+#life must be 16 not 17.....(20 - 4)
+life:16
+[END]

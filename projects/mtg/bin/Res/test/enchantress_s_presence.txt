@@ -1,0 +1,21 @@
+#NAME: Enchantress's Presence
+#DESC: Bug report: Playing an
+#DESC: enchantment doesn't draw
+#DESC: you a card.
+[INIT]
+firstmain
+[PLAYER1]
+inplay:Enchantress's Presence
+hand:Briar Patch
+library:Forest
+manapool:{G}{G}{G}
+[PLAYER2]
+[DO]
+Briar Patch
+[ASSERT]
+firstmain
+[PLAYER1]
+inplay:Enchantress's Presence,Briar Patch
+hand:Forest
+[PLAYER2]
+[END]

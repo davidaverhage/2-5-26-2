@@ -1,0 +1,29 @@
+#NAME:Selesnya Conclave
+#DESC:Some say that the
+#DESC:Conclave's peaceful ways
+#DESC:hide sinister coercion
+#DESC: 
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+#DESC:
+#DESC:Deck by superhiro,
+#DESC:refined by Bob
+Anthem of Champions (FDN) * 4
+Carven Caryatid (RAV) * 4
+Courier Hawk (RAV) * 2
+Faithful Watchdog (MH3) * 2
+Fists of Ironwood (RAV) * 4
+Forest (FDN) * 4
+Forest (GRN) * 4
+Forest (RAV) * 4
+Goliath Spider (RAV) * 2
+Nightguard Patrol (RAV) * 3
+Plains (FDN) * 4
+Plains (GRN) * 4
+Plains (RAV) * 4
+Scion of the Wild (RAV) * 3
+Tolsimir Wolfblood (RAV) * 2
+Vernadi Shieldmate (GRN) * 2
+Veteran Armorer (RAV) * 2
+Voice of Resurgence (MM3) * 2
+Watchwolf (RAV) * 4

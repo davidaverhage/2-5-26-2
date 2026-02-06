@@ -1,0 +1,23 @@
+#NAME:Undead Lords
+#DESC:Can you smell the sweet perfume
+#DESC:of festering flesh and rotting bones?
+Beacon of Unrest (10E)  *1
+Butcher Ghoul (AVR) * 2
+Cemetery Reaper (M10)  *4
+Death Baron (ALA)  *4
+Diregraf Colossus (SOI) * 1
+Champion of the Perished (MID) *4
+Geralf's Messenger (DKA) * 1
+Lord of the Undead (10E)  *4
+Scarscale Ritual (SHM)  *4
+Severed Legion (10E)  *1
+Soulless One (ONS)  *4
+Swamp (10E)  *4
+Swamp (ALA)  *4
+Swamp (M10)  *4
+Swamp (RAV)  *4
+Swamp (RV)  *4
+Swamp (SHM)  *4
+Walking Dead (LEG)  *2
+Vengeful Dead (SCG) * 2
+Zombie Master (RV)  *2

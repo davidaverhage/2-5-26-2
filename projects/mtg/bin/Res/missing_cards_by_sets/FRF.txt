@@ -1,0 +1,107 @@
+[card]
+name=Frontier Siege
+text=As Frontier Siege enters the battlefield, choose Khans or Dragons. -- Khans - At the beginning of each of your main phases, add {G}{G} to your mana pool. -- Dragons - Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control.
+mana={3}{G}
+type=Enchantment
+[/card]
+[card]
+name=Yasova Dragonclaw
+abilities=trample
+text=Trample -- At the beginning of combat on your turn, you may pay {1}{UR}{UR}. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn.
+mana={2}{G}
+type=Legendary Creature
+subtype=Human Warrior
+power=4
+toughness=2
+[/card]
+[card]
+name=Ghastly Conscription
+text=Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+mana={5}{B}{B}
+type=Sorcery
+[/card]
+[card]
+name=Write into Being
+text=Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+mana={2}{U}
+type=Sorcery
+[/card]
+[card]
+name=Archfiend of Depravity
+abilities=flying
+text=Flying -- At the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.
+mana={3}{B}{B}
+type=Creature
+subtype=Demon
+power=5
+toughness=4
+[/card]
+[card]
+name=Whisperwood Elemental
+text=At the beginning of your end step, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.) -- Sacrifice Whisperwood Elemental: Until end of turn, face-up nontoken creatures you control gain "When this creature dies, manifest the top card of your library."
+mana={3}{G}{G}
+type=Creature
+subtype=Elemental
+power=4
+toughness=4
+[/card]
+[card]
+name=Friendly Fire
+text=Target creature's controller reveals a card at random from his or her hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost.
+mana={3}{R}
+type=Instant
+[/card]
+[card]
+name=Monastery Siege
+text=As Monastery Siege enters the battlefield, choose Khans or Dragons. -- Khans - At the beginning of your draw step, draw an additional card, then discard a card. -- Dragons - Spells your opponents cast that target you or a permanent you control cost {2} more to cast.
+mana={2}{U}
+type=Enchantment
+[/card]
+[card]
+name=Soulfire Grand Master
+abilities=lifelink
+text=Lifelink -- Instant and sorcery spells you control have lifelink. -- {2}{UR}{UR}: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves.
+mana={1}{W}
+type=Creature
+subtype=Human Monk
+power=2
+toughness=2
+[/card]
+[card]
+name=Channel Harm
+text=Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature.
+mana={5}{W}
+type=Instant
+[/card]
+[card]
+name=Soulflayer
+text=Delve (Each card you exile from your graveyard while casting this spell pays for {1}.) -- If a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.
+mana={4}{B}{B}
+other={delve} name(Delve)
+type=Creature
+subtype=Demon
+power=4
+toughness=4
+[/card]
+[card]
+name=Jeskai Infiltrator
+text=Jeskai Infiltrator can't be blocked as long as you control no other creatures. -- When Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+mana={2}{U}
+type=Creature
+subtype=Human Monk
+power=2
+toughness=3
+[/card]
+[card]
+name=Sage's Reverie
+text=Enchant creature -- When Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature. -- Enchanted creature gets +1/+1 for each Aura you control that's attached to a creature.
+mana={3}{W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Shifting Loyalties
+text=Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)
+mana={5}{U}
+type=Sorcery
+[/card]

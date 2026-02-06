@@ -1,0 +1,60 @@
+[card]
+name=Sutured Ghoul
+abilities=trample
+text=Trample -- As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard. -- Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.
+mana={4}{B}{B}{B}
+type=Creature
+subtype=Zombie
+power=*
+toughness=*
+[/card]
+[card]
+name=Flaring Pain
+text=Damage can't be prevented this turn. -- Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+mana={1}{R}
+type=Instant
+[/card]
+[card]
+name=Flash of Insight
+text=Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. -- Flashback-{1}{U}, Exile X blue cards from your graveyard. (You may cast this card from your graveyard for its flashback cost, then exile it. You can't exile Flash of Insight to pay for its own flashback cost.)
+mana={X}{1}{U}
+type=Instant
+[/card]
+[card]
+name=Book Burning
+text=Any player may have Book Burning deal 6 damage to him or her. If no one does, put the top six cards of target player's library into his or her graveyard.
+mana={1}{R}
+type=Sorcery
+[/card]
+[card]
+name=Anurid Swarmsnapper
+abilities=reach
+text=Reach (This creature can block creatures with flying.) -- {1}{G}: Anurid Swarmsnapper can block an additional creature this turn.
+mana={2}{G}
+type=Creature
+subtype=Frog Beast
+power=1
+toughness=4
+[/card]
+[card]
+name=Shaman's Trance
+text=Until end of turn, other players can't play cards from their graveyards, and you may play cards from other players' graveyards as though they were in your graveyard.
+mana={2}{R}
+type=Instant
+[/card]
+[card]
+name=Shieldmage Advocate
+text={T}: Return target card from an opponent's graveyard to his or her hand. Prevent all damage that would be dealt to target creature or player this turn by a source of your choice.
+mana={2}{W}
+type=Creature
+subtype=Human Cleric
+power=1
+toughness=3
+[/card]
+[card]
+name=Lost in Thought
+text=Enchant creature -- Enchanted creature can't attack or block, and its activated abilities can't be activated. Its controller may exile three cards from his or her graveyard for that player to ignore this effect until end of turn.
+mana={1}{U}
+type=Enchantment
+subtype=Aura
+[/card]

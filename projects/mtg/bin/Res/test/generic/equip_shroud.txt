@@ -1,0 +1,38 @@
+#Test:equipment
+[INIT]
+FIRSTMAIN
+[PLAYER1]
+hand:Whispersilk Cloak
+manapool:{5}
+inplay:Runeclaw Bear,Caravan Hurda
+[PLAYER2]
+hand:Hideous End
+inplay:129754,129756,129755
+[DO]
+Whispersilk Cloak
+Whispersilk Cloak
+Runeclaw Bear
+eot
+next
+#upkeeep
+next
+#draw
+next
+#firstmain
+129754
+129756
+129755
+Hideous End
+Runeclaw Bear
+Caravan Hurda
+[ASSERT]
+firstmain
+[PLAYER1]
+life:18
+inplay:Runeclaw Bear,Whispersilk Cloak
+graveyard:Caravan Hurda
+[PLAYER2]
+graveyard:Hideous End
+inplay:129754,129756,129755
+life:20
+[END]

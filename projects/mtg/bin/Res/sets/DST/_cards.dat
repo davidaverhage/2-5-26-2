@@ -1,0 +1,843 @@
+[meta]
+author=Wagic Team
+name=Darksteel
+block=Mirrodin
+orderindex=EXP-W.DST
+year=2004-02-06
+total=167
+[/meta]
+[card]
+primitive=Aether Snap
+id=49075
+rarity=R
+[/card]
+[card]
+primitive=Aether Vial
+id=48146
+rarity=U
+[/card]
+[card]
+primitive=Ageless Entity
+id=46148
+rarity=R
+[/card]
+[card]
+primitive=Angel's Feather
+id=72686
+rarity=U
+[/card]
+[card]
+primitive=Arcane Spyglass
+id=10670
+rarity=C
+[/card]
+[card]
+primitive=Arcbound Bruiser
+id=46129
+rarity=C
+[/card]
+[card]
+primitive=Arcbound Crusher
+id=50937
+rarity=U
+[/card]
+[card]
+primitive=Arcbound Fiend
+id=50938
+rarity=U
+[/card]
+[card]
+primitive=Arcbound Hybrid
+id=46101
+rarity=C
+[/card]
+[card]
+primitive=Arcbound Lancer
+id=46130
+rarity=U
+[/card]
+[card]
+primitive=Arcbound Overseer
+id=39639
+rarity=R
+[/card]
+[card]
+primitive=Arcbound Ravager
+id=50943
+rarity=R
+[/card]
+[card]
+primitive=Arcbound Reclaimer
+id=50528
+rarity=R
+[/card]
+[card]
+primitive=Arcbound Slith
+id=50939
+rarity=U
+[/card]
+[card]
+primitive=Arcbound Stinger
+id=46131
+rarity=C
+[/card]
+[card]
+primitive=Arcbound Worker
+id=48604
+rarity=C
+[/card]
+[card]
+primitive=Auriok Glaivemaster
+id=48988
+rarity=C
+[/card]
+[card]
+primitive=Auriok Siege Sled
+id=43556
+rarity=U
+[/card]
+[card]
+primitive=Barbed Lightning
+id=49012
+rarity=C
+[/card]
+[card]
+primitive=Blinkmoth Nexus
+id=39439
+rarity=R
+[/card]
+[card]
+primitive=Burden of Greed
+id=43557
+rarity=C
+[/card]
+[card]
+primitive=Carry Away
+id=48572
+rarity=U
+[/card]
+[card]
+primitive=Chimeric Egg
+id=49097
+rarity=U
+[/card]
+[card]
+primitive=Chittering Rats
+id=46096
+rarity=C
+[/card]
+[card]
+primitive=Chromescale Drake
+id=48127
+rarity=R
+[/card]
+[card]
+primitive=Coretapper
+id=49016
+rarity=U
+[/card]
+[card]
+primitive=Crazed Goblin
+id=46078
+rarity=C
+[/card]
+[card]
+primitive=Darksteel Brute
+id=43563
+rarity=U
+[/card]
+[card]
+primitive=Darksteel Citadel
+id=45415
+rarity=C
+[/card]
+[card]
+primitive=Darksteel Colossus
+id=48158
+rarity=R
+[/card]
+[card]
+primitive=Darksteel Forge
+id=48072
+rarity=R
+[/card]
+[card]
+primitive=Darksteel Gargoyle
+id=46136
+rarity=U
+[/card]
+[card]
+primitive=Darksteel Ingot
+id=48048
+rarity=C
+[/card]
+[card]
+primitive=Darksteel Pendant
+id=39485
+rarity=C
+[/card]
+[card]
+primitive=Darksteel Reactor
+id=43548
+rarity=R
+[/card]
+[card]
+primitive=Death Cloud
+id=50647
+rarity=R
+[/card]
+[card]
+primitive=Death-Mask Duplicant
+id=46023
+rarity=U
+[/card]
+[card]
+primitive=Demon's Horn
+id=72682
+rarity=U
+[/card]
+[card]
+primitive=Dismantle
+id=43540
+rarity=U
+[/card]
+[card]
+primitive=Dragon's Claw
+id=72683
+rarity=U
+[/card]
+[card]
+primitive=Drill-Skimmer
+id=51056
+rarity=C
+[/card]
+[card]
+primitive=Drooling Ogre
+id=49089
+rarity=C
+[/card]
+[card]
+primitive=Dross Golem
+id=46157
+rarity=C
+[/card]
+[card]
+primitive=Eater of Days
+id=46165
+rarity=R
+[/card]
+[card]
+primitive=Echoing Calm
+id=43592
+rarity=C
+[/card]
+[card]
+primitive=Echoing Courage
+id=46169
+rarity=C
+[/card]
+[card]
+primitive=Echoing Decay
+id=46176
+rarity=C
+[/card]
+[card]
+primitive=Echoing Ruin
+id=46155
+rarity=C
+[/card]
+[card]
+primitive=Echoing Truth
+id=46162
+rarity=C
+[/card]
+[card]
+primitive=Emissary of Despair
+id=45469
+rarity=U
+[/card]
+[card]
+primitive=Emissary of Hope
+id=48153
+rarity=U
+[/card]
+[card]
+primitive=Essence Drain
+id=50536
+rarity=C
+[/card]
+[card]
+primitive=Fangren Firstborn
+id=46058
+rarity=R
+[/card]
+[card]
+primitive=Fireball
+id=46768
+rarity=U
+[/card]
+[card]
+primitive=Flamebreak
+id=50539
+rarity=R
+[/card]
+[card]
+primitive=Furnace Dragon
+id=46060
+rarity=R
+[/card]
+[card]
+primitive=Gemini Engine
+id=46168
+rarity=R
+[/card]
+[card]
+primitive=Genesis Chamber
+id=46160
+rarity=U
+[/card]
+[card]
+primitive=Geth's Grimoire
+id=51070
+rarity=U
+[/card]
+[card]
+primitive=Goblin Archaeologist
+id=46735
+rarity=U
+[/card]
+[card]
+primitive=Greater Harvester
+id=49837
+rarity=R
+[/card]
+[card]
+primitive=Grimclaw Bats
+id=46100
+rarity=C
+[/card]
+[card]
+primitive=Hallow
+id=29513
+rarity=C
+[/card]
+[card]
+primitive=Heartseeker
+id=51074
+rarity=R
+[/card]
+[card]
+primitive=Hoverguard Observer
+id=49020
+rarity=U
+[/card]
+[card]
+primitive=Hunger of the Nim
+id=46088
+rarity=C
+[/card]
+[card]
+primitive=Infested Roothold
+id=48598
+rarity=U
+[/card]
+[card]
+primitive=Inflame
+id=48120
+rarity=C
+[/card]
+[card]
+primitive=Juggernaut
+id=43579
+rarity=U
+[/card]
+[card]
+primitive=Karstoderm
+id=39478
+rarity=U
+[/card]
+[card]
+primitive=Kraken's Eye
+id=49049
+rarity=U
+[/card]
+[card]
+primitive=Krark-Clan Stoker
+id=43491
+rarity=C
+[/card]
+[card]
+primitive=Last Word
+id=50929
+rarity=R
+[/card]
+[card]
+primitive=Leonin Battlemage
+id=44307
+rarity=U
+[/card]
+[card]
+primitive=Leonin Bola
+id=46142
+rarity=C
+[/card]
+[card]
+primitive=Leonin Shikari
+id=48579
+rarity=R
+[/card]
+[card]
+primitive=Lich's Tomb
+id=46134
+rarity=R
+[/card]
+[card]
+primitive=Loxodon Mystic
+id=39562
+rarity=C
+[/card]
+[card]
+primitive=Machinate
+id=49829
+rarity=C
+[/card]
+[card]
+primitive=Magnetic Flux
+id=43559
+rarity=C
+[/card]
+[card]
+primitive=Memnarch
+id=51054
+rarity=R
+[/card]
+[card]
+primitive=Mephitic Ooze
+id=46154
+rarity=R
+[/card]
+[card]
+primitive=Metal Fatigue
+id=45191
+rarity=C
+[/card]
+[card]
+primitive=Mirrodin's Core
+id=39421
+rarity=U
+[/card]
+[card]
+primitive=Murderous Spoils
+id=39377
+rarity=U
+[/card]
+[card]
+primitive=Mycosynth Lattice
+id=50527
+rarity=R
+[/card]
+[card]
+primitive=Myr Landshaper
+id=45428
+rarity=C
+[/card]
+[card]
+primitive=Myr Matrix
+id=48049
+rarity=R
+[/card]
+[card]
+primitive=Myr Moonvessel
+id=46112
+rarity=C
+[/card]
+[card]
+primitive=Nemesis Mask
+id=46172
+rarity=U
+[/card]
+[card]
+primitive=Neurok Prodigy
+id=46116
+rarity=C
+[/card]
+[card]
+primitive=Neurok Transmuter
+id=49839
+rarity=U
+[/card]
+[card]
+primitive=Nim Abomination
+id=43502
+rarity=U
+[/card]
+[card]
+primitive=Nourish
+id=46076
+rarity=C
+[/card]
+[card]
+primitive=Oxidda Golem
+id=46164
+rarity=C
+[/card]
+[card]
+primitive=Oxidize
+id=46012
+rarity=U
+[/card]
+[card]
+primitive=Panoptic Mirror
+id=47930
+rarity=R
+[/card]
+[card]
+primitive=Pristine Angel
+id=47587
+rarity=R
+[/card]
+[card]
+primitive=Psychic Overload
+id=48163
+rarity=U
+[/card]
+[card]
+primitive=Pteron Ghost
+id=49035
+rarity=C
+[/card]
+[card]
+primitive=Pulse of the Dross
+id=39692
+rarity=R
+[/card]
+[card]
+primitive=Pulse of the Fields
+id=39697
+rarity=R
+[/card]
+[card]
+primitive=Pulse of the Forge
+id=39410
+rarity=R
+[/card]
+[card]
+primitive=Pulse of the Grid
+id=45975
+rarity=R
+[/card]
+[card]
+primitive=Pulse of the Tangle
+id=39690
+rarity=R
+[/card]
+[card]
+primitive=Purge
+id=34479
+rarity=U
+[/card]
+[card]
+primitive=Quicksilver Behemoth
+id=47799
+rarity=C
+[/card]
+[card]
+primitive=Razor Golem
+id=46143
+rarity=C
+[/card]
+[card]
+primitive=Reap and Sow
+id=43503
+rarity=C
+[/card]
+[card]
+primitive=Rebuking Ceremony
+id=50533
+rarity=R
+[/card]
+[card]
+primitive=Reshape
+id=48147
+rarity=R
+[/card]
+[card]
+primitive=Retract
+id=48573
+rarity=R
+[/card]
+[card]
+primitive=Ritual of Restoration
+id=48576
+rarity=C
+[/card]
+[card]
+primitive=Roaring Slagwurm
+id=46083
+rarity=R
+[/card]
+[card]
+primitive=Savage Beating
+id=43506
+rarity=R
+[/card]
+[card]
+primitive=Scavenging Scarab
+id=46093
+rarity=C
+[/card]
+[card]
+primitive=Screams from Within
+id=43517
+rarity=U
+[/card]
+[card]
+primitive=Scrounge
+id=46568
+rarity=U
+[/card]
+[card]
+primitive=Second Sight
+id=43510
+rarity=U
+[/card]
+[card]
+primitive=Serum Powder
+id=48920
+rarity=R
+[/card]
+[card]
+primitive=Shield of Kaldra
+id=48582
+rarity=R
+[/card]
+[card]
+primitive=Shriveling Rot
+id=47792
+rarity=R
+[/card]
+[card]
+primitive=Shunt
+id=49836
+rarity=R
+[/card]
+[card]
+primitive=Skullclamp
+id=48197
+rarity=U
+[/card]
+[card]
+primitive=Slobad, Goblin Tinkerer
+id=51055
+rarity=R
+[/card]
+[card]
+primitive=Soulscour
+id=43511
+rarity=R
+[/card]
+[card]
+primitive=Spawning Pit
+id=26732
+rarity=U
+[/card]
+[card]
+primitive=Specter's Shroud
+id=49094
+rarity=U
+[/card]
+[card]
+primitive=Spellbinder
+id=50540
+rarity=R
+[/card]
+[card]
+primitive=Spincrusher
+id=50529
+rarity=U
+[/card]
+[card]
+primitive=Spire Golem
+id=46150
+rarity=C
+[/card]
+[card]
+primitive=Stand Together
+id=49438
+rarity=U
+[/card]
+[card]
+primitive=Steelshaper Apprentice
+id=49078
+rarity=R
+[/card]
+[card]
+primitive=Stir the Pride
+id=45961
+rarity=U
+[/card]
+[card]
+primitive=Sundering Titan
+id=42084
+rarity=R
+[/card]
+[card]
+primitive=Surestrike Trident
+id=46158
+rarity=U
+[/card]
+[card]
+primitive=Sword of Fire and Ice
+id=46429
+rarity=R
+[/card]
+[card]
+primitive=Sword of Light and Shadow
+id=47453
+rarity=R
+[/card]
+[card]
+primitive=Synod Artificer
+id=49021
+rarity=R
+[/card]
+[card]
+primitive=Talon of Pain
+id=46111
+rarity=U
+[/card]
+[card]
+primitive=Tangle Golem
+id=46171
+rarity=C
+[/card]
+[card]
+primitive=Tangle Spider
+id=46548
+rarity=C
+[/card]
+[card]
+primitive=Tanglewalker
+id=43547
+rarity=U
+[/card]
+[card]
+primitive=Tears of Rage
+id=21293
+rarity=U
+[/card]
+[card]
+primitive=Tel-Jilad Outrider
+id=46002
+rarity=C
+[/card]
+[card]
+primitive=Tel-Jilad Wolf
+id=46008
+rarity=C
+[/card]
+[card]
+primitive=Test of Faith
+id=43587
+rarity=U
+[/card]
+[card]
+primitive=Thought Dissector
+id=50521
+rarity=R
+[/card]
+[card]
+primitive=Thunderstaff
+id=50530
+rarity=U
+[/card]
+[card]
+primitive=Trinisphere
+id=43545
+rarity=R
+[/card]
+[card]
+primitive=Turn the Tables
+id=49033
+rarity=R
+[/card]
+[card]
+primitive=Unforge
+id=51616
+rarity=C
+[/card]
+[card]
+primitive=Ur-Golem's Eye
+id=49110
+rarity=C
+[/card]
+[card]
+primitive=Vedalken Engineer
+id=48148
+rarity=C
+[/card]
+[card]
+primitive=Vex
+id=49085
+rarity=C
+[/card]
+[card]
+primitive=Viridian Acolyte
+id=15190
+rarity=C
+[/card]
+[card]
+primitive=Viridian Zealot
+id=46547
+rarity=R
+[/card]
+[card]
+primitive=Voltaic Construct
+id=48141
+rarity=U
+[/card]
+[card]
+primitive=Vulshok Morningstar
+id=49758
+rarity=C
+[/card]
+[card]
+primitive=Vulshok War Boar
+id=45455
+rarity=U
+[/card]
+[card]
+primitive=Wand of the Elements
+id=49775
+rarity=R
+[/card]
+[card]
+primitive=Elemental T1
+id=-4977511
+rarity=T
+[/card]
+[card]
+primitive=Elemental T2
+id=-4977512
+rarity=T
+[/card]
+[card]
+primitive=Well of Lost Dreams
+id=48993
+rarity=R
+[/card]
+[card]
+primitive=Whispersilk Cloak
+id=46030
+rarity=C
+[/card]
+[card]
+primitive=Wirefly Hive
+id=49026
+rarity=U
+[/card]
+[card]
+primitive=Wurm's Tooth
+id=72684
+rarity=U
+[/card]

@@ -1,0 +1,1763 @@
+[meta]
+author=Wagic Team
+name=Mercadian Masques
+block=Masque
+orderindex=EXP-J.MMQ
+year=1999-10-04
+total=351
+[/meta]
+[card]
+primitive=Aerial Caravan
+id=19667
+rarity=R
+[/card]
+[card]
+primitive=Afterlife
+id=19549
+rarity=U
+[/card]
+[card]
+primitive=Alabaster Wall
+id=19541
+rarity=C
+[/card]
+[card]
+primitive=Alley Grifters
+id=19584
+rarity=C
+[/card]
+[card]
+primitive=Ancestral Mask
+id=19634
+rarity=C
+[/card]
+[card]
+primitive=Armistice
+id=19661
+rarity=R
+[/card]
+[card]
+primitive=Arms Dealer
+id=19861
+rarity=U
+[/card]
+[card]
+primitive=Arrest
+id=19789
+rarity=U
+[/card]
+[card]
+primitive=Assembly Hall
+id=19761
+rarity=R
+[/card]
+[card]
+primitive=Ballista Squad
+id=19781
+rarity=U
+[/card]
+[card]
+primitive=Balloon Peddler
+id=19558
+rarity=C
+[/card]
+[card]
+primitive=Barbed Wire
+id=19883
+rarity=U
+[/card]
+[card]
+primitive=Bargaining Table
+id=19749
+rarity=R
+[/card]
+[card]
+primitive=Battle Rampart
+id=19607
+rarity=C
+[/card]
+[card]
+primitive=Battle Squadron
+id=19712
+rarity=R
+[/card]
+[card]
+primitive=Bifurcate
+id=19741
+rarity=R
+[/card]
+[card]
+primitive=Black Market
+id=19831
+rarity=R
+[/card]
+[card]
+primitive=Blaster Mage
+id=21332
+rarity=C
+[/card]
+[card]
+primitive=Blockade Runner
+id=19567
+rarity=C
+[/card]
+[card]
+primitive=Blood Hound
+id=19714
+rarity=R
+[/card]
+[card]
+primitive=Blood Oath
+id=19726
+rarity=R
+[/card]
+[card]
+primitive=Boa Constrictor
+id=19859
+rarity=U
+[/card]
+[card]
+primitive=Bog Smugglers
+id=19598
+rarity=C
+[/card]
+[card]
+primitive=Bog Witch
+id=19578
+rarity=C
+[/card]
+[card]
+primitive=Brainstorm
+id=19571
+rarity=C
+[/card]
+[card]
+primitive=Brawl
+id=19723
+rarity=R
+[/card]
+[card]
+primitive=Briar Patch
+id=19745
+rarity=U
+[/card]
+[card]
+primitive=Bribery
+id=21300
+rarity=R
+[/card]
+[card]
+primitive=Buoyancy
+id=19574
+rarity=C
+[/card]
+[card]
+primitive=Cackling Witch
+id=19815
+rarity=U
+[/card]
+[card]
+primitive=Caller of the Hunt
+id=19730
+rarity=R
+[/card]
+[card]
+primitive=Cateran Brute
+id=19582
+rarity=C
+[/card]
+[card]
+primitive=Cateran Enforcer
+id=19690
+rarity=U
+[/card]
+[card]
+primitive=Cateran Kidnappers
+id=19819
+rarity=U
+[/card]
+[card]
+primitive=Cateran Overlord
+id=19698
+rarity=R
+[/card]
+[card]
+primitive=Cateran Persuader
+id=19580
+rarity=C
+[/card]
+[card]
+primitive=Cateran Slaver
+id=19691
+rarity=R
+[/card]
+[card]
+primitive=Cateran Summons
+id=19832
+rarity=U
+[/card]
+[card]
+primitive=Caustic Wasps
+id=19865
+rarity=U
+[/card]
+[card]
+primitive=Cave Sense
+id=19620
+rarity=C
+[/card]
+[card]
+primitive=Cave-In
+id=19725
+rarity=R
+[/card]
+[card]
+primitive=Cavern Crawler
+id=19610
+rarity=C
+[/card]
+[card]
+primitive=Ceremonial Guard
+id=19603
+rarity=C
+[/card]
+[card]
+primitive=Chambered Nautilus
+id=19798
+rarity=U
+[/card]
+[card]
+primitive=Chameleon Spirit
+id=19800
+rarity=U
+[/card]
+[card]
+primitive=Charisma
+id=20456
+rarity=R
+[/card]
+[card]
+primitive=Charm Peddler
+id=19535
+rarity=C
+[/card]
+[card]
+primitive=Charmed Griffin
+id=19777
+rarity=U
+[/card]
+[card]
+primitive=Cho-Arrim Alchemist
+id=19647
+rarity=R
+[/card]
+[card]
+primitive=Cho-Arrim Bruiser
+id=19650
+rarity=R
+[/card]
+[card]
+primitive=Cho-Arrim Legate
+id=19779
+rarity=U
+[/card]
+[card]
+primitive=Cho-Manno's Blessing
+id=19551
+rarity=C
+[/card]
+[card]
+primitive=Cho-Manno, Revolutionary
+id=20411
+rarity=R
+[/card]
+[card]
+primitive=Cinder Elemental
+id=19608
+rarity=U
+[/card]
+[card]
+primitive=Clear the Land
+id=19873
+rarity=R
+[/card]
+[card]
+primitive=Close Quarters
+id=19847
+rarity=U
+[/card]
+[card]
+primitive=Cloud Sprite
+id=19563
+rarity=C
+[/card]
+[card]
+primitive=Coastal Piracy
+id=19805
+rarity=U
+[/card]
+[card]
+primitive=Collective Unconscious
+id=19739
+rarity=R
+[/card]
+[card]
+primitive=Common Cause
+id=19665
+rarity=R
+[/card]
+[card]
+primitive=Conspiracy
+id=19702
+rarity=R
+[/card]
+[card]
+primitive=Cornered Market
+id=19663
+rarity=R
+[/card]
+[card]
+primitive=Corrupt Official
+id=19715
+rarity=R
+[/card]
+[card]
+primitive=Counterspell
+id=19570
+rarity=C
+[/card]
+[card]
+primitive=Cowardice
+id=19683
+rarity=R
+[/card]
+[card]
+primitive=Crackdown
+id=19664
+rarity=R
+[/card]
+[card]
+primitive=Crag Saurian
+id=19713
+rarity=R
+[/card]
+[card]
+primitive=Crash
+id=19616
+rarity=C
+[/card]
+[card]
+primitive=Credit Voucher
+id=19885
+rarity=U
+[/card]
+[card]
+primitive=Crenellated Wall
+id=19880
+rarity=U
+[/card]
+[card]
+primitive=Crooked Scales
+id=19752
+rarity=R
+[/card]
+[card]
+primitive=Crossbow Infantry
+id=19540
+rarity=C
+[/card]
+[card]
+primitive=Crumbling Sanctuary
+id=19746
+rarity=R
+[/card]
+[card]
+primitive=Customs Depot
+id=19575
+rarity=U
+[/card]
+[card]
+primitive=Dark Ritual
+id=19592
+rarity=C
+[/card]
+[card]
+primitive=Darting Merfolk
+id=19559
+rarity=C
+[/card]
+[card]
+primitive=Dawnstrider
+id=19855
+rarity=R
+[/card]
+[card]
+primitive=Deadly Insect
+id=19628
+rarity=C
+[/card]
+[card]
+primitive=Deathgazer
+id=19820
+rarity=U
+[/card]
+[card]
+primitive=Deepwood Drummer
+id=19621
+rarity=C
+[/card]
+[card]
+primitive=Deepwood Elder
+id=22895
+rarity=R
+[/card]
+[card]
+primitive=Deepwood Ghoul
+id=19587
+rarity=C
+[/card]
+[card]
+primitive=Deepwood Legate
+id=19821
+rarity=U
+[/card]
+[card]
+primitive=Deepwood Tantiv
+id=19866
+rarity=U
+[/card]
+[card]
+primitive=Deepwood Wolverine
+id=19623
+rarity=C
+[/card]
+[card]
+primitive=Dehydration
+id=19577
+rarity=C
+[/card]
+[card]
+primitive=Delraich
+id=19697
+rarity=R
+[/card]
+[card]
+primitive=Desert Twister
+id=19638
+rarity=U
+[/card]
+[card]
+primitive=Devout Witness
+id=19536
+rarity=C
+[/card]
+[card]
+primitive=Diplomatic Escort
+id=19794
+rarity=U
+[/card]
+[card]
+primitive=Diplomatic Immunity
+id=19576
+rarity=C
+[/card]
+[card]
+primitive=Disenchant
+id=19548
+rarity=C
+[/card]
+[card]
+primitive=Distorting Lens
+id=19758
+rarity=R
+[/card]
+[card]
+primitive=Drake Hatchling
+id=19565
+rarity=C
+[/card]
+[card]
+primitive=Dust Bowl
+id=19772
+rarity=R
+[/card]
+[card]
+primitive=Embargo
+id=19679
+rarity=R
+[/card]
+[card]
+primitive=Energy Flux
+id=19806
+rarity=U
+[/card]
+[card]
+primitive=Enslaved Horror
+id=19817
+rarity=U
+[/card]
+[card]
+primitive=Erithizon
+id=19734
+rarity=R
+[/card]
+[card]
+primitive=Extortion
+id=19703
+rarity=R
+[/card]
+[card]
+primitive=Extravagant Spirit
+id=19673
+rarity=R
+[/card]
+[card]
+primitive=Eye of Ramos
+id=19765
+rarity=R
+[/card]
+[card]
+primitive=False Demise
+id=19812
+rarity=U
+[/card]
+[card]
+primitive=Ferocity
+id=19639
+rarity=C
+[/card]
+[card]
+primitive=Flailing Manticore
+id=19710
+rarity=R
+[/card]
+[card]
+primitive=Flailing Ogre
+id=19839
+rarity=U
+[/card]
+[card]
+primitive=Flailing Soldier
+id=19602
+rarity=C
+[/card]
+[card]
+primitive=Flaming Sword
+id=19613
+rarity=C
+[/card]
+[card]
+primitive=Food Chain
+id=19737
+rarity=R
+[/card]
+[card]
+primitive=Forced March
+id=19826
+rarity=R
+[/card]
+[card]
+primitive=Forest
+id=20896
+rarity=L
+[/card]
+[card]
+primitive=Forest
+id=20897
+rarity=L
+[/card]
+[card]
+primitive=Forest
+id=20898
+rarity=L
+[/card]
+[card]
+primitive=Forest
+id=20899
+rarity=L
+[/card]
+[card]
+primitive=Foster
+id=19740
+rarity=R
+[/card]
+[card]
+primitive=Fountain Watch
+id=19784
+rarity=R
+[/card]
+[card]
+primitive=Fountain of Cho
+id=19893
+rarity=U
+[/card]
+[card]
+primitive=Fresh Volunteers
+id=19542
+rarity=C
+[/card]
+[card]
+primitive=Furious Assault
+id=19848
+rarity=C
+[/card]
+[card]
+primitive=Game Preserve
+id=19742
+rarity=R
+[/card]
+[card]
+primitive=General's Regalia
+id=19753
+rarity=R
+[/card]
+[card]
+primitive=Gerrard's Irregulars
+id=19842
+rarity=C
+[/card]
+[card]
+primitive=Ghoul's Feast
+id=19596
+rarity=U
+[/card]
+[card]
+primitive=Giant Caterpillar
+id=20847
+rarity=C
+[/card]
+[card]
+primitive=Glowing Anemone
+id=19803
+rarity=U
+[/card]
+[card]
+primitive=Groundskeeper
+id=19863
+rarity=U
+[/card]
+[card]
+primitive=Gush
+id=20404
+rarity=C
+[/card]
+[card]
+primitive=Hammer Mage
+id=19708
+rarity=U
+[/card]
+[card]
+primitive=Haunted Crossroads
+id=19704
+rarity=U
+[/card]
+[card]
+primitive=Heart of Ramos
+id=19766
+rarity=R
+[/card]
+[card]
+primitive=Henge Guardian
+id=19770
+rarity=U
+[/card]
+[card]
+primitive=Henge of Ramos
+id=19768
+rarity=U
+[/card]
+[card]
+primitive=Hickory Woodlot
+id=19646
+rarity=C
+[/card]
+[card]
+primitive=High Market
+id=19890
+rarity=R
+[/card]
+[card]
+primitive=High Seas
+id=19814
+rarity=U
+[/card]
+[card]
+primitive=Highway Robber
+id=19585
+rarity=C
+[/card]
+[card]
+primitive=Hired Giant
+id=19838
+rarity=U
+[/card]
+[card]
+primitive=Honor the Fallen
+id=19787
+rarity=R
+[/card]
+[card]
+primitive=Hoodwink
+id=20454
+rarity=C
+[/card]
+[card]
+primitive=Horn of Plenty
+id=19755
+rarity=R
+[/card]
+[card]
+primitive=Horn of Ramos
+id=19763
+rarity=R
+[/card]
+[card]
+primitive=Horned Troll
+id=19630
+rarity=C
+[/card]
+[card]
+primitive=Howling Wolf
+id=19632
+rarity=C
+[/card]
+[card]
+primitive=Hunted Wumpus
+id=19857
+rarity=U
+[/card]
+[card]
+primitive=Ignoble Soldier
+id=19778
+rarity=U
+[/card]
+[card]
+primitive=Indentured Djinn
+id=19797
+rarity=U
+[/card]
+[card]
+primitive=Instigator
+id=19699
+rarity=R
+[/card]
+[card]
+primitive=Insubordination
+id=19590
+rarity=C
+[/card]
+[card]
+primitive=Intimidation
+id=19833
+rarity=U
+[/card]
+[card]
+primitive=Invigorate
+id=19640
+rarity=C
+[/card]
+[card]
+primitive=Inviolability
+id=19546
+rarity=C
+[/card]
+[card]
+primitive=Iron Lance
+id=19882
+rarity=U
+[/card]
+[card]
+primitive=Island
+id=20884
+rarity=L
+[/card]
+[card]
+primitive=Island
+id=20885
+rarity=L
+[/card]
+[card]
+primitive=Island
+id=20886
+rarity=L
+[/card]
+[card]
+primitive=Island
+id=20887
+rarity=L
+[/card]
+[card]
+primitive=Ivory Mask
+id=19656
+rarity=R
+[/card]
+[card]
+primitive=Jeweled Torque
+id=19884
+rarity=U
+[/card]
+[card]
+primitive=Jhovall Queen
+id=19654
+rarity=R
+[/card]
+[card]
+primitive=Jhovall Rider
+id=20172
+rarity=U
+[/card]
+[card]
+primitive=Karn's Touch
+id=19573
+rarity=R
+[/card]
+[card]
+primitive=Kris Mage
+id=19836
+rarity=C
+[/card]
+[card]
+primitive=Kyren Archive
+id=19756
+rarity=R
+[/card]
+[card]
+primitive=Kyren Glider
+id=19604
+rarity=C
+[/card]
+[card]
+primitive=Kyren Legate
+id=19841
+rarity=U
+[/card]
+[card]
+primitive=Kyren Negotiations
+id=19846
+rarity=U
+[/card]
+[card]
+primitive=Kyren Sniper
+id=19606
+rarity=C
+[/card]
+[card]
+primitive=Kyren Toy
+id=19759
+rarity=R
+[/card]
+[card]
+primitive=Land Grant
+id=19633
+rarity=C
+[/card]
+[card]
+primitive=Larceny
+id=19825
+rarity=U
+[/card]
+[card]
+primitive=Last Breath
+id=136513
+rarity=U
+[/card]
+[card]
+primitive=Lava Runner
+id=19845
+rarity=R
+[/card]
+[card]
+primitive=Ley Line
+id=19867
+rarity=U
+[/card]
+[card]
+primitive=Liability
+id=19706
+rarity=R
+[/card]
+[card]
+primitive=Lightning Hounds
+id=19618
+rarity=C
+[/card]
+[card]
+primitive=Lithophage
+id=19731
+rarity=R
+[/card]
+[card]
+primitive=Lumbering Satyr
+id=19860
+rarity=U
+[/card]
+[card]
+primitive=Lunge
+id=19617
+rarity=C
+[/card]
+[card]
+primitive=Lure
+id=22053
+rarity=U
+[/card]
+[card]
+primitive=Maggot Therapy
+id=19594
+rarity=C
+[/card]
+[card]
+primitive=Magistrate's Scepter
+id=19748
+rarity=R
+[/card]
+[card]
+primitive=Magistrate's Veto
+id=19854
+rarity=U
+[/card]
+[card]
+primitive=Megatherium
+id=19733
+rarity=R
+[/card]
+[card]
+primitive=Mercadia's Downfall
+id=19850
+rarity=U
+[/card]
+[card]
+primitive=Mercadian Atlas
+id=20844
+rarity=R
+[/card]
+[card]
+primitive=Mercadian Bazaar
+id=19894
+rarity=U
+[/card]
+[card]
+primitive=Mercadian Lift
+id=19754
+rarity=R
+[/card]
+[card]
+primitive=Midnight Ritual
+id=19707
+rarity=R
+[/card]
+[card]
+primitive=Zombie
+id=-19707
+rarity=T
+[/card]
+[card]
+primitive=Misdirection
+id=19681
+rarity=R
+[/card]
+[card]
+primitive=Misshapen Fiend
+id=19581
+rarity=C
+[/card]
+[card]
+primitive=Misstep
+id=19568
+rarity=C
+[/card]
+[card]
+primitive=Molting Harpy
+id=19818
+rarity=U
+[/card]
+[card]
+primitive=Moment of Silence
+id=19554
+rarity=C
+[/card]
+[card]
+primitive=Monkey Cage
+id=19878
+rarity=R
+[/card]
+[card]
+primitive=Moonlit Wake
+id=136514
+rarity=U
+[/card]
+[card]
+primitive=Mountain
+id=20892
+rarity=L
+[/card]
+[card]
+primitive=Mountain
+id=20893
+rarity=L
+[/card]
+[card]
+primitive=Mountain
+id=20894
+rarity=L
+[/card]
+[card]
+primitive=Mountain
+id=20895
+rarity=L
+[/card]
+[card]
+primitive=Muzzle
+id=20410
+rarity=C
+[/card]
+[card]
+primitive=Natural Affinity
+id=19875
+rarity=R
+[/card]
+[card]
+primitive=Nether Spirit
+id=19693
+rarity=R
+[/card]
+[card]
+primitive=Nightwind Glider
+id=19544
+rarity=C
+[/card]
+[card]
+primitive=Noble Purpose
+id=19786
+rarity=U
+[/card]
+[card]
+primitive=Notorious Assassin
+id=19695
+rarity=R
+[/card]
+[card]
+primitive=Ogre Taskmaster
+id=19844
+rarity=U
+[/card]
+[card]
+primitive=Orim's Cure
+id=19547
+rarity=C
+[/card]
+[card]
+primitive=Overtaker
+id=19666
+rarity=R
+[/card]
+[card]
+primitive=Panacea
+id=19886
+rarity=U
+[/card]
+[card]
+primitive=Pangosaur
+id=20788
+rarity=R
+[/card]
+[card]
+primitive=Peat Bog
+id=19644
+rarity=C
+[/card]
+[card]
+primitive=Pious Warrior
+id=19552
+rarity=C
+[/card]
+[card]
+primitive=Plains
+id=20880
+rarity=L
+[/card]
+[card]
+primitive=Plains
+id=20881
+rarity=L
+[/card]
+[card]
+primitive=Plains
+id=20882
+rarity=L
+[/card]
+[card]
+primitive=Plains
+id=20883
+rarity=L
+[/card]
+[card]
+primitive=Port Inspector
+id=19562
+rarity=C
+[/card]
+[card]
+primitive=Power Matrix
+id=19888
+rarity=R
+[/card]
+[card]
+primitive=Pretender's Claim
+id=19827
+rarity=U
+[/card]
+[card]
+primitive=Primeval Shambler
+id=19824
+rarity=U
+[/card]
+[card]
+primitive=Puffer Extract
+id=19881
+rarity=U
+[/card]
+[card]
+primitive=Pulverize
+id=19724
+rarity=R
+[/card]
+[card]
+primitive=Puppet's Verdict
+id=19721
+rarity=R
+[/card]
+[card]
+primitive=Putrefaction
+id=19834
+rarity=U
+[/card]
+[card]
+primitive=Quagmire Lamprey
+id=19822
+rarity=U
+[/card]
+[card]
+primitive=Rain of Tears
+id=19828
+rarity=U
+[/card]
+[card]
+primitive=Ramosian Captain
+id=19782
+rarity=U
+[/card]
+[card]
+primitive=Ramosian Commander
+id=20848
+rarity=U
+[/card]
+[card]
+primitive=Ramosian Lieutenant
+id=19543
+rarity=C
+[/card]
+[card]
+primitive=Ramosian Rally
+id=20409
+rarity=C
+[/card]
+[card]
+primitive=Ramosian Sergeant
+id=19539
+rarity=C
+[/card]
+[card]
+primitive=Ramosian Sky Marshal
+id=19648
+rarity=R
+[/card]
+[card]
+primitive=Rampart Crawler
+id=19586
+rarity=C
+[/card]
+[card]
+primitive=Rappelling Scouts
+id=20412
+rarity=R
+[/card]
+[card]
+primitive=Remote Farm
+id=19642
+rarity=C
+[/card]
+[card]
+primitive=Renounce
+id=136515
+rarity=U
+[/card]
+[card]
+primitive=Revered Elder
+id=19538
+rarity=C
+[/card]
+[card]
+primitive=Reverent Mantra
+id=19653
+rarity=R
+[/card]
+[card]
+primitive=Revive
+id=19641
+rarity=U
+[/card]
+[card]
+primitive=Righteous Aura
+id=19555
+rarity=U
+[/card]
+[card]
+primitive=Righteous Indignation
+id=19793
+rarity=U
+[/card]
+[card]
+primitive=Rishadan Airship
+id=19802
+rarity=C
+[/card]
+[card]
+primitive=Rishadan Brigand
+id=19670
+rarity=R
+[/card]
+[card]
+primitive=Rishadan Cutpurse
+id=19566
+rarity=C
+[/card]
+[card]
+primitive=Rishadan Footpad
+id=19810
+rarity=U
+[/card]
+[card]
+primitive=Rishadan Pawnshop
+id=19757
+rarity=R
+[/card]
+[card]
+primitive=Rishadan Port
+id=19767
+rarity=R
+[/card]
+[card]
+primitive=Robber Fly
+id=19719
+rarity=U
+[/card]
+[card]
+primitive=Rock Badger
+id=19840
+rarity=U
+[/card]
+[card]
+primitive=Rouse
+id=19700
+rarity=C
+[/card]
+[card]
+primitive=Rushwood Dryad
+id=19627
+rarity=C
+[/card]
+[card]
+primitive=Rushwood Elemental
+id=19869
+rarity=R
+[/card]
+[card]
+primitive=Rushwood Grove
+id=19895
+rarity=U
+[/card]
+[card]
+primitive=Rushwood Herbalist
+id=19622
+rarity=C
+[/card]
+[card]
+primitive=Rushwood Legate
+id=19864
+rarity=U
+[/card]
+[card]
+primitive=Saber Ants
+id=19862
+rarity=U
+[/card]
+[card]
+primitive=Sacred Prey
+id=19738
+rarity=C
+[/card]
+[card]
+primitive=Sailmonger
+id=19796
+rarity=U
+[/card]
+[card]
+primitive=Sand Squid
+id=19668
+rarity=R
+[/card]
+[card]
+primitive=Sandstone Needle
+id=19645
+rarity=C
+[/card]
+[card]
+primitive=Saprazzan Bailiff
+id=19669
+rarity=R
+[/card]
+[card]
+primitive=Saprazzan Breaker
+id=19671
+rarity=U
+[/card]
+[card]
+primitive=Saprazzan Cove
+id=19891
+rarity=U
+[/card]
+[card]
+primitive=Saprazzan Heir
+id=19672
+rarity=R
+[/card]
+[card]
+primitive=Saprazzan Legate
+id=19799
+rarity=U
+[/card]
+[card]
+primitive=Saprazzan Outrigger
+id=21773
+rarity=C
+[/card]
+[card]
+primitive=Saprazzan Raider
+id=19564
+rarity=C
+[/card]
+[card]
+primitive=Saprazzan Skerry
+id=19643
+rarity=C
+[/card]
+[card]
+primitive=Scandalmonger
+id=19816
+rarity=U
+[/card]
+[card]
+primitive=Security Detail
+id=19655
+rarity=R
+[/card]
+[card]
+primitive=Seismic Mage
+id=19835
+rarity=R
+[/card]
+[card]
+primitive=Sever Soul
+id=19591
+rarity=C
+[/card]
+[card]
+primitive=Shock Troops
+id=19609
+rarity=C
+[/card]
+[card]
+primitive=Shoving Match
+id=19677
+rarity=U
+[/card]
+[card]
+primitive=Silent Assassin
+id=19692
+rarity=R
+[/card]
+[card]
+primitive=Silverglade Elemental
+id=19631
+rarity=C
+[/card]
+[card]
+primitive=Silverglade Pathfinder
+id=19728
+rarity=U
+[/card]
+[card]
+primitive=Sizzle
+id=19611
+rarity=C
+[/card]
+[card]
+primitive=Skulking Fugitive
+id=19588
+rarity=C
+[/card]
+[card]
+primitive=Skull of Ramos
+id=19764
+rarity=R
+[/card]
+[card]
+primitive=Snake Pit
+id=19876
+rarity=U
+[/card]
+[card]
+primitive=Snorting Gahr
+id=19626
+rarity=C
+[/card]
+[card]
+primitive=Snuff Out
+id=19595
+rarity=C
+[/card]
+[card]
+primitive=Soothing Balm
+id=19550
+rarity=C
+[/card]
+[card]
+primitive=Soothsaying
+id=19807
+rarity=U
+[/card]
+[card]
+primitive=Soul Channeling
+id=19593
+rarity=C
+[/card]
+[card]
+primitive=Specter's Wail
+id=19597
+rarity=C
+[/card]
+[card]
+primitive=Spidersilk Armor
+id=19870
+rarity=C
+[/card]
+[card]
+primitive=Spiritual Focus
+id=19657
+rarity=R
+[/card]
+[card]
+primitive=Spontaneous Generation
+id=19871
+rarity=R
+[/card]
+[card]
+primitive=Squallmonger
+id=19856
+rarity=U
+[/card]
+[card]
+primitive=Squall
+id=19636
+rarity=C
+[/card]
+[card]
+primitive=Squee, Goblin Nabob
+id=19716
+rarity=R
+[/card]
+[card]
+primitive=Squeeze
+id=19685
+rarity=R
+[/card]
+[card]
+primitive=Stamina
+id=19868
+rarity=U
+[/card]
+[card]
+primitive=Statecraft
+id=19676
+rarity=R
+[/card]
+[card]
+primitive=Steadfast Guard
+id=19780
+rarity=C
+[/card]
+[card]
+primitive=Stinging Barrier
+id=19561
+rarity=C
+[/card]
+[card]
+primitive=Stone Rain
+id=19612
+rarity=C
+[/card]
+[card]
+primitive=Story Circle
+id=20173
+rarity=U
+[/card]
+[card]
+primitive=Strongarm Thug
+id=19689
+rarity=U
+[/card]
+[card]
+primitive=Subterranean Hangar
+id=19892
+rarity=U
+[/card]
+[card]
+primitive=Sustenance
+id=19849
+rarity=U
+[/card]
+[card]
+primitive=Swamp
+id=20888
+rarity=L
+[/card]
+[card]
+primitive=Swamp
+id=20889
+rarity=L
+[/card]
+[card]
+primitive=Swamp
+id=20890
+rarity=L
+[/card]
+[card]
+primitive=Swamp
+id=20891
+rarity=L
+[/card]
+[card]
+primitive=Task Force
+id=19545
+rarity=C
+[/card]
+[card]
+primitive=Tectonic Break
+id=19720
+rarity=R
+[/card]
+[card]
+primitive=Territorial Dispute
+id=19718
+rarity=R
+[/card]
+[card]
+primitive=Thermal Glider
+id=19537
+rarity=C
+[/card]
+[card]
+primitive=Thieves' Auction
+id=19722
+rarity=R
+[/card]
+[card]
+primitive=Thrashing Wumpus
+id=19823
+rarity=R
+[/card]
+[card]
+primitive=Thunderclap
+id=19615
+rarity=C
+[/card]
+[card]
+primitive=Thwart
+id=19811
+rarity=U
+[/card]
+[card]
+primitive=Tidal Bore
+id=19569
+rarity=C
+[/card]
+[card]
+primitive=Tidal Kraken
+id=19674
+rarity=R
+[/card]
+[card]
+primitive=Tiger Claws
+id=19635
+rarity=C
+[/card]
+[card]
+primitive=Timid Drake
+id=19560
+rarity=U
+[/card]
+[card]
+primitive=Tonic Peddler
+id=136516
+rarity=U
+[/card]
+[card]
+primitive=Tooth of Ramos
+id=19762
+rarity=R
+[/card]
+[card]
+primitive=Tower of the Magistrate
+id=19769
+rarity=R
+[/card]
+[card]
+primitive=Toymaker
+id=19877
+rarity=U
+[/card]
+[card]
+primitive=Trade Routes
+id=19675
+rarity=R
+[/card]
+[card]
+primitive=Tranquility
+id=19637
+rarity=C
+[/card]
+[card]
+primitive=Trap Runner
+id=22288
+rarity=U
+[/card]
+[card]
+primitive=Tremor
+id=19614
+rarity=C
+[/card]
+[card]
+primitive=Two-Headed Dragon
+id=19711
+rarity=R
+[/card]
+[card]
+primitive=Undertaker
+id=21306
+rarity=C
+[/card]
+[card]
+primitive=Unmask
+id=19829
+rarity=R
+[/card]
+[card]
+primitive=Unnatural Hunger
+id=19705
+rarity=R
+[/card]
+[card]
+primitive=Uphill Battle
+id=20786
+rarity=U
+[/card]
+[card]
+primitive=Vendetta
+id=19589
+rarity=C
+[/card]
+[card]
+primitive=Venomous Breath
+id=19744
+rarity=U
+[/card]
+[card]
+primitive=Venomous Dragonfly
+id=19625
+rarity=C
+[/card]
+[card]
+primitive=Vernal Equinox
+id=19736
+rarity=R
+[/card]
+[card]
+primitive=Vine Dryad
+id=19735
+rarity=R
+[/card]
+[card]
+primitive=Vine Trellis
+id=19624
+rarity=C
+[/card]
+[card]
+primitive=Volcanic Wind
+id=19853
+rarity=U
+[/card]
+[card]
+primitive=Wall of Distortion
+id=19583
+rarity=C
+[/card]
+[card]
+primitive=War Cadence
+id=19619
+rarity=U
+[/card]
+[card]
+primitive=War Tax
+id=19809
+rarity=U
+[/card]
+[card]
+primitive=Warmonger
+id=19837
+rarity=U
+[/card]
+[card]
+primitive=Warpath
+id=19851
+rarity=U
+[/card]
+[card]
+primitive=Waterfront Bouncer
+id=19557
+rarity=C
+[/card]
+[card]
+primitive=Wave of Reckoning
+id=19659
+rarity=R
+[/card]
+[card]
+primitive=Wild Jhovall
+id=19605
+rarity=C
+[/card]
+[card]
+primitive=Wishmonger
+id=19776
+rarity=U
+[/card]
+[card]
+primitive=Word of Blasting
+id=19852
+rarity=U
+[/card]
+[card]
+primitive=Worry Beads
+id=19747
+rarity=R
+[/card]

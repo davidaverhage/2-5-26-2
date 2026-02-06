@@ -1,0 +1,81 @@
+#NAME:Belbe Commander
+#DESC:Deck by apparently (tappedout.net)
+#DESC:Refined for Wagic by Bob
+#HINT:castpriority(commander,*)
+Ancient Stone Idol
+Apex Devastator
+Archetype of Endurance
+Artisan of Kozilek
+Bane of Bala Ged
+Beacon of Unrest
+Bellowing Tanglewurm
+Cabal Conditioning
+Caller of the Pack
+Colossus of Akros
+Command Tower
+Conduit of Ruin
+Copper Myr
+Court of Ambition
+Cultivate
+Dread Defiler
+Eldrazi Conscription
+Exsanguinate
+Farseek
+Fierce Empath
+Forest (4ED) *4
+Forest (NEO) *4
+Forest (ONE) *4
+Forest (SNC) *4
+Garruk's Uprising
+Gilanra, Caller of Wirewood
+God-Pharaoh's Statue
+Grave Betrayal
+Helm of the Host
+Hooded Blightfang
+Horizon Stone
+In Garruk's Wake
+Josu Vess, Lich Knight
+Kodama's Reach (CMD)
+Leaden Myr
+Leechridden Swamp
+Lim-Dul's Hex
+Loxodon Warhammer (10E)
+Loyal Subordinate
+Mardu Shadowspear
+Mirror Shield
+Night Market Lookout
+Oblivion Sower
+Pathrazer of Ulamog
+Phyrexian Juggernaut
+Phyrexian Triniform
+Plague Spitter
+Planar Bridge
+Platinum Emperion
+Polyraptor
+Pulse Tracker
+Rampant Growth
+Return of the Wildspeaker
+Sanctum of Stone Fangs
+Sandstone Oracle
+Sandwurm Convergence
+Skull Storm
+Skyclave Relic
+Sol Ring
+Staff of Nin
+Swamp (ONE) *4
+Swamp (NEO) *4
+Swamp (SNC) *4
+Swamp (4ED) *3
+The Immortal Sun
+Thornbow Archer
+Thought Vessel
+Three Visits
+Thunderfoot Baloth
+Torment of Hailfire
+Ulamog's Crusher
+Undergrowth Stadium
+Urborg, Tomb of Yawgmoth
+Vicious Conquistador
+Yavimaya, Cradle of Growth
+Zendikar Resurgent
+#CMD:Belbe, Corrupted Observer (*) *1

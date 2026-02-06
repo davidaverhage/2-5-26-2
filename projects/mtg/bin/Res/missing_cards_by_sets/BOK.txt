@@ -1,0 +1,120 @@
+[card]
+name=Veil of Secrecy
+text=Target creature gains shroud until end of turn and is unblockable this turn. -- Splice onto Arcane-Return a blue creature you control to its owner's hand. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{U}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Goryo's Vengeance
+text=Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step. -- Splice onto Arcane {2}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{B}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Horobi's Whisper
+text=If you control a Swamp, destroy target nonblack creature. -- Splice onto Arcane-Exile four cards from your graveyard. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{B}{B}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Jetting Glasskite
+abilities=flying
+text=Flying -- Whenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.
+mana={4}{U}{U}
+type=Creature
+subtype=Spirit
+power=4
+toughness=4
+[/card]
+[card]
+name=Roar of Jukai
+text=If you control a Forest, each blocked creature gets +2/+2 until end of turn. -- Splice onto Arcane-An opponent gains 5 life. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={2}{G}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Shining Shoal
+text=You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost. -- The next X damage that a source of your choice would deal to you and/or creatures you control this turn is dealt to target creature or player instead.
+mana={X}{W}{W}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Opal-Eye, Konda's Yojimbo
+abilities=defender
+text=Defender (This creature can't attack.) -- Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.) -- {T}: The next time a source of your choice would deal damage this turn, that damage is dealt to Opal-Eye, Konda's Yojimbo instead. -- {1}{W}: Prevent the next 1 damage that would be dealt to Opal-Eye this turn.
+mana={1}{W}{W}
+type=Legendary Creature
+subtype=Fox Samurai
+power=1
+toughness=4
+[/card]
+[card]
+name=Shuriken
+text=Equipped creature has "{T}, Unattach Shuriken: Shuriken deals 2 damage to target creature. That creature's controller gains control of Shuriken unless it was unattached from a Ninja." -- Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+mana={1}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Torrent of Stone
+text=Torrent of Stone deals 4 damage to target creature. -- Splice onto Arcane-Sacrifice two Mountains. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={3}{R}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Minamo's Meddling
+text=Counter target spell. That spell's controller reveals his or her hand, then discards each card with the same name as a card spliced onto that spell.
+mana={2}{U}{U}
+type=Instant
+[/card]
+[card]
+name=Shimmering Glasskite
+abilities=flying
+text=Flying -- Whenever Shimmering Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.
+mana={3}{U}
+type=Creature
+subtype=Spirit
+power=2
+toughness=3
+[/card]
+[card]
+name=Overblaze
+text=Each time target permanent would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead. -- Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={3}{R}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Vital Surge
+text=You gain 3 life. -- Splice onto Arcane {1}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{G}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Neko-Te
+text=Whenever equipped creature deals damage to a creature, tap that creature. That creature doesn't untap during its controller's untap step for as long as Neko-Te remains on the battlefield. -- Whenever equipped creature deals damage to a player, that player loses 1 life. -- Equip {2}
+mana={3}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Ward of Piety
+text=Enchant creature -- {1}{W}: The next 1 damage that would be dealt to enchanted creature this turn is dealt to target creature or player instead.
+mana={1}{W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Hundred-Talon Strike
+text=Target creature gets +1/+0 and gains first strike until end of turn. -- Splice onto Arcane-Tap an untapped white creature you control. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={W}
+type=Instant
+subtype=Arcane
+[/card]

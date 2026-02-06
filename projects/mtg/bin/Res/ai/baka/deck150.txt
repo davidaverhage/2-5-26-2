@@ -1,0 +1,27 @@
+#NAME:Rising Panic
+#DESC: Deck for Wagic by Bob
+#HINT:castpriority(artifact,instant,enchantment)
+#HINT:combo hold(Rising Waters|myhand)^cast(Rising Waters|myhand)^restriction{type(Rising Waters|mybattlefield)~lessthan~1}^totalmananeeded({3}{U})
+#HINT:combo hold(Dictate of Kruphix|myhand)^cast(Dictate of Kruphix|myhand)^restriction{type(Dictate of Kruphix|mybattlefield)~lessthan~1}^totalmananeeded({1}{U}{U})
+#HINT:combo hold(Frozen Aether|myhand)^cast(Frozen Aether|myhand)^restriction{type(Frozen Aether|mybattlefield)~lessthan~1}^totalmananeeded({3}{U})
+#HINT:combo hold(Propaganda|myhand)^cast(Propaganda|myhand)^restriction{type(Propaganda|mybattlefield)~lessthan~1}^totalmananeeded({2}{U})
+#HINT:combo hold(Overburden|myhand)^cast(Overburden|myhand)^restriction{type(Overburden|mybattlefield)~lessthan~1}^totalmananeeded({1}{U})
+#HINT:combo hold(Dream Tides|myhand)^cast(Dream Tides|myhand)^restriction{type(Dream Tides|mybattlefield)~lessthan~1}^totalmananeeded({1}{U})
+Anvil of Bogardan (*) * 2
+Black Vise (*) * 4
+Dictate of Kruphix (*) * 3
+Dream Tides (*) * 3
+Ebony Owl Netsuke (*) * 2
+Force of Will (*) * 4
+Frozen Aether (*) * 3 
+Howling Mine (*) * 4
+Iron Maiden (*) * 2
+Island (4ED) (*) * 4
+Island (M10) (*) * 4
+Island (ICE) (*) * 4
+Island (M20) (*) * 4
+Island (MIR) (*) * 4
+Island (REV) (*) * 3
+Overburden (*) * 3
+Propaganda (*) * 3
+Rising Waters (*) * 4

@@ -1,0 +1,24 @@
+#NAME:Soldiers
+#DESC:We stand together, strong and true,
+#DESC:A wall of swords and shields.
+#DESC:We will not stop,
+#DESC:We will not break,
+#DESC:And never will we yield.
+#DESC: 
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Balefire Liege (EVE) * 4
+Captain of the Watch (M10) * 4
+Elite Vanguard (M10) * 4
+Glorious Anthem (USG) * 4
+Honor of the Pure (M10) *4
+Plains (M10) * 4
+Plains (M11) * 4
+Plains (M12) * 4
+Plains (M13) * 4
+Plains (RAV) * 4
+Plains (USG) * 4
+Rhox Pikemaster (M10) * 4
+Veteran Armorer (RAV) * 4
+Veteran Armorsmith (M10) * 4
+Veteran Swordsmith (M10) * 4

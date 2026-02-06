@@ -1,0 +1,28 @@
+#NAME:Viashino Warriors
+#DESC:Descended from dragons, the
+#DESC:Viashino are agile, aggressive
+#DESC:and deadly
+#HINT:alwaysattackwith(Archwing Dragon)
+#HINT:alwaysattackwith(Viashino Cutthroat)
+#HINT:alwaysattackwith(Viashino Sandscout)
+#HINT:alwaysattackwith(Viashino Sandstalker)
+Archetype of Aggression (BNG) *2 
+Archwing Dragon (AVR) *2
+Bloodmark Mentor (SHM) *3
+Impact Tremors (DTK) *4
+Mountain (10E) *1
+Mountain (AVR) *4
+Mountain (INV) *4
+Mountain (MIR) *4
+Mountain (RAV) *4
+Mountain (SHM) *4
+Mountain (USG) *4
+Purphoros, God of the Forge (THS) * 2
+Rage Reflection (SHM) *1
+Viashino Cutthroat (ULG) *2
+Viashino Pyromancer (FGN) *4
+Viashino Sandscout (10E) *4 
+Viashino Sandstalker (VIS) *3 
+Viashino Spearhunter (M10) *4 
+Viashino Warrior (MIR) *2
+Viashino Weaponsmith (USG) *2

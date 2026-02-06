@@ -1,0 +1,9 @@
+[card]
+name=Zada, Hedron Grinder
+text=Whenever you cast an instant or sorcery spell that targets only Zada, Hedron Grinder, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.
+mana={3}{R}
+type=Legendary Creature
+subtype=Goblin Ally
+power=3
+toughness=3
+[/card]

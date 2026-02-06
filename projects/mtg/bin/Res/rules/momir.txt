@@ -1,0 +1,9 @@
+include mtg.txt
+name=Momir Basic
+unlock=prx_rimom
+[INIT]
+mode=momir
+[PLAYERS]
+life:24
+auto=shuffle
+auto=draw:7

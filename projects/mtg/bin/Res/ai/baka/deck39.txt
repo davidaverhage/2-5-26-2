@@ -1,0 +1,23 @@
+#NAME:Ball Lightning
+#DESC:'Brief as the lightning
+#DESC:in the collied night /
+#DESC:That, in a spleen, unfolds
+#DESC:both heaven and earth'
+#DESC:William Shakespeare
+#HINT:alwaysattackwith(Ball Lightning)
+Ball Lightning (M10)  *4
+Beacon of Destruction (10E)  *2 
+Fire Tempest (POR)  *2
+Flame Burst (ODY)  *4
+Flame Javelin (SHM)  *4
+Howling Mine (10E)  *4
+Kindle (TMP)  *4
+Lava Spike (CHK)  *4
+Lightning Bolt (M10)  *4
+Mountain (10E)  *4
+Mountain (CHK)  *4
+Mountain (M10)  *4
+Mountain (ODY)  *4
+Mountain (POR)  *4
+Mountain (TMP)  *4
+Volcanic Hammer (POR)  *4

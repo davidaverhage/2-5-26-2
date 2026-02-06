@@ -1,0 +1,21 @@
+#NAME:Barbarians
+#DESC:'War is the trade of barbarians'
+#DESC:Napoleon Bonaparte
+Balduvian Barbarians (ICE) * 4 #
+Balthor the Stout (TOR) * 2 #
+Barbarian General (PTK) * 2 #
+Bravado (USG) * 2 #
+Halberdier (ODY) * 2 #
+Highland Berserker (ZEN) * 4 #
+Hobgoblin Captain (AFR) * 2 #
+Kamahl, Pit Fighter (ODY) * 2 #
+Keldon Warlord (RV) * 4 #
+Lovisa Coldeyes (CSP) * 4 #
+Mountain (4ED) * 4 #
+Mountain (ICE) * 4 #
+Mountain (ODY) * 4 #
+Mountain (POR) * 4 #
+Mountain (RV) * 4 #
+Mountain (ZEN) * 4 #
+Raging Goblin (POR) * 4 #
+Sardian Cliffstomper (BRO) * 4 #

@@ -1,0 +1,27 @@
+#NAME:Snake Pit
+#DESC:The serpents move unseen
+#DESC:through the marsh, waiting
+#DESC:to strike with venomous 
+#DESC:malice
+#HINT:combo hold(Blot Out|myhand)^cast(Blot Out|myhand)^restriction{type(creature|opponentbattlefield)~morethan~1}^totalmananeeded({2}{B})
+#HINT:alwaysattackwith(Filth)
+Anaconda (POR) *3
+Archetype of Finality (BNG) *1
+Blot Out (MAT) * 2
+Fell (BLB) *4
+Filth (JUD) *2
+Forest (10E) *4
+Forest (POR) *4
+Forest (RAV) *4
+Gift of the Viper (MH3) *3 
+Marsh Boa (PCY) *4
+Mire Boa (TSR) *4
+Moss Viper (THB) *4
+Orochi Sustainer (CHK) *2
+Persistent Constrictor (DSC) *2 
+Seshiro the Anointed (CHK) *2
+Swamp (10E) *1
+Swamp (POR) *4
+Swamp (RAV) *4
+Urborg, Tomb of Yawgmoth (LTC) *3
+Zodiac Snake (PTK) *3

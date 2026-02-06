@@ -1,0 +1,48 @@
+[card]
+name=Vengeful Archon
+abilities=flying
+text=Flying -- {X}: Prevent the next X damage that would be dealt to you this turn. If damage is prevented this way, Vengeful Archon deals that much damage to target player.
+mana={4}{W}{W}{W}
+type=Creature
+subtype=Archon
+power=7
+toughness=7
+[/card]
+[card]
+name=Wild Evocation
+text=At the beginning of each player's upkeep, that player reveals a card at random from his or her hand. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.
+mana={5}{R}
+type=Enchantment
+[/card]
+[card]
+name=Conundrum Sphinx
+abilities=flying
+text=Flying -- Whenever Conundrum Sphinx attacks, each player names a card. Then each player reveals the top card of his or her library. If the card a player revealed is the card he or she named, that player puts it into his or her hand. If it's not, that player puts it on the bottom of his or her library.
+mana={2}{U}{U}
+type=Creature
+subtype=Sphinx
+power=4
+toughness=4
+[/card]
+[card]
+name=Phylactery Lich
+text=As Phylactery Lich enters the battlefield, put a phylactery counter on an artifact you control. -- Phylactery Lich is indestructible. -- When you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.
+mana={B}{B}{B}
+type=Creature
+subtype=Zombie
+power=5
+toughness=5
+[/card]
+[card]
+name=Necrotic Plague
+text=Enchant creature -- Enchanted creature has "At the beginning of your upkeep, sacrifice this creature." -- When enchanted creature dies, its controller chooses target creature one of his or her opponents controls. Return Necrotic Plague from its owner's graveyard to the battlefield attached to that creature.
+mana={2}{B}{B}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Autumn's Veil
+text=Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.
+mana={G}
+type=Instant
+[/card]

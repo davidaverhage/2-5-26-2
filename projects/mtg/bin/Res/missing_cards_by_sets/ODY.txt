@@ -1,0 +1,151 @@
+[card]
+name=Cephalid Shrine
+text=Whenever a player casts a spell, counter that spell unless that player pays {X}, where X is the number of cards in all graveyards with the same name as the spell.
+mana={1}{U}{U}
+type=Enchantment
+[/card]
+[card]
+name=Tainted Pact
+text=Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first.
+mana={1}{B}
+type=Instant
+[/card]
+[card]
+name=Nefarious Lich
+text=If damage would be dealt to you, exile that many cards from your graveyard instead. If you can't, you lose the game. -- If you would gain life, draw that many cards instead. -- When Nefarious Lich leaves the battlefield, you lose the game.
+mana={B}{B}{B}{B}
+type=Enchantment
+[/card]
+[card]
+name=Aegis of Honor
+text={1}: The next time an instant or sorcery spell would deal damage to you this turn, that spell deals that damage to its controller instead.
+mana={W}
+type=Enchantment
+[/card]
+[card]
+name=Catalyst Stone
+text=Flashback costs you pay cost up to {2} less. -- Flashback costs your opponents pay cost {2} more.
+mana={2}
+type=Artifact
+[/card]
+[card]
+name=Sphere of Law
+text=If a red source would deal damage to you, prevent 2 of that damage.
+mana={3}{W}
+type=Enchantment
+[/card]
+[card]
+name=Sphere of Grace
+text=If a black source would deal damage to you, prevent 2 of that damage.
+mana={3}{W}
+type=Enchantment
+[/card]
+[card]
+name=Sphere of Reason
+text=If a blue source would deal damage to you, prevent 2 of that damage.
+mana={3}{W}
+type=Enchantment
+[/card]
+[card]
+name=Sphere of Truth
+text=If a white source would deal damage to you, prevent 2 of that damage.
+mana={3}{W}
+type=Enchantment
+[/card]
+[card]
+name=Sphere of Duty
+text=If a green source would deal damage to you, prevent 2 of that damage.
+mana={3}{W}
+type=Enchantment
+[/card]
+[card]
+name=Delaying Shield
+text=If damage would be dealt to you, put that many delay counters on Delaying Shield instead. --  -- At the beginning of your upkeep, remove all delay counters from Delaying Shield. For each delay counter removed this way, you lose 1 life unless you pay {1}{W}.
+mana={3}{W}
+type=Enchantment
+[/card]
+[card]
+name=Impulsive Maneuvers
+text=Whenever a creature attacks, flip a coin. If you win the flip, the next time that creature would deal combat damage this turn, it deals double that damage instead. If you lose the flip, the next time that creature would deal combat damage this turn, prevent that damage.
+mana={2}{R}{R}
+type=Enchantment
+[/card]
+[card]
+name=Pilgrim of Virtue
+abilities=protection from black
+text=Protection from black -- {W}, Sacrifice Pilgrim of Virtue: The next time a black source of your choice would deal damage this turn, prevent that damage.
+mana={2}{W}
+type=Creature
+subtype=Human Cleric
+power=1
+toughness=3
+[/card]
+[card]
+name=Pilgrim of Justice
+abilities=protection from red
+text=Protection from red -- {W}, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage.
+mana={2}{W}
+type=Creature
+subtype=Human Cleric
+power=1
+toughness=3
+[/card]
+[card]
+name=Karmic Justice
+text=Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target permanent that opponent controls.
+mana={2}{W}
+type=Enchantment
+[/card]
+[card]
+name=Cultural Exchange
+text=Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.)
+mana={4}{U}{U}
+type=Sorcery
+[/card]
+[card]
+name=Traveling Plague
+text=Enchant creature -- At the beginning of each upkeep, put a plague counter on Traveling Plague. -- Enchanted creature gets -1/-1 for each plague counter on Traveling Plague. -- When enchanted creature leaves the battlefield, that creature's controller returns Traveling Plague from its owner's graveyard to the battlefield.
+mana={3}{B}{B}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Charmed Pendant
+text={T}, Put the top card of your library into your graveyard: For each colored mana symbol in that card's mana cost, add one mana of that color to your mana pool. Activate this ability only any time you could cast an instant. (For example, if the card's mana cost is {3}{U}{U}{B}, you add {U}{U}{B} to your mana pool.)
+mana={4}
+type=Artifact
+[/card]
+[card]
+name=Steam Vines
+text=Enchant land -- When enchanted land becomes tapped, destroy it and Steam Vines deals 1 damage to that land's controller. That player attaches Steam Vines to a land of his or her choice.
+mana={1}{R}{R}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Nantuko Shrine
+text=Whenever a player casts a spell, that player puts X 1/1 green Squirrel creature tokens onto the battlefield, where X is the number of cards in all graveyards with the same name as that spell.
+mana={1}{G}{G}
+type=Enchantment
+[/card]
+[card]
+name=Divert
+text=Change the target of target spell with a single target unless that spell's controller pays {2}.
+mana={U}
+type=Instant
+[/card]
+[card]
+name=Whipkeeper
+text={T}: Whipkeeper deals damage to target creature equal to the damage already dealt to it this turn.
+mana={2}{R}{R}
+type=Creature
+subtype=Dwarf
+power=1
+toughness=1
+[/card]
+[card]
+name=Dwarven Shrine
+text=Whenever a player casts a spell, Dwarven Shrine deals X damage to that player, where X is twice the number of cards in all graveyards with the same name as that spell.
+mana={1}{R}{R}
+type=Enchantment
+[/card]

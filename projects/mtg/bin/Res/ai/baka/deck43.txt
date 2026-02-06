@@ -1,0 +1,23 @@
+#NAME:Heartmender
+#DESC:Life will always endure,
+#DESC:no matter the odds,
+#DESC:no matter the cost.
+#HINT:combo hold(Worldly Tutor|myhand)^cast(Worldly Tutor|myhand) targeting(Heartmender|mylibrary)^totalmananeeded({G})
+#HINT:alwaysattackwith(Scuzzback Marauders)
+Forest (MIR) *2
+Forest (MRQ) *4
+Forest (10E) *4
+Forest (SHM) *4
+Heartmender (SHM) *4
+Kitchen Finks (SHM) *4
+Lingering Tormentor (EVE) *4
+Putrid Goblin (MH1) *2
+Raise Dead (9ED) *2
+Rendclaw Trow (EVE) *4
+Safehold Elite (SHM) *4
+Scuzzback Marauders (SHM) *4
+Swamp (MRQ) *4
+Swamp (10E) *4
+Swamp (SHM) *2
+Vine Trellis (MRQ) *4
+Worldly Tutor (MIR) *4

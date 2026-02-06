@@ -1,0 +1,86 @@
+[card]
+name=Release the Ants
+text=Release the Ants deals 1 damage to target creature or player. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+mana={1}{R}
+type=Instant
+[/card]
+[card]
+name=Research the Deep
+text=Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+mana={1}{U}
+type=Sorcery
+[/card]
+[card]
+name=Redeem the Lost
+text=Target creature you control gains protection from the color of your choice until end of turn. Clash with an opponent. If you win, return Redeem the Lost to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+mana={1}{W}
+type=Instant
+[/card]
+[card]
+name=Weight of Conscience
+text=Enchant creature -- Enchanted creature can't attack. -- Tap two untapped creatures you control that share a creature type: Exile enchanted creature.
+mana={1}{W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Reins of the Vinesteed
+text=Enchant creature -- Enchanted creature gets +2/+2. -- When enchanted creature dies, you may return Reins of the Vinesteed from your graveyard to the battlefield attached to a creature that shares a creature type with that creature.
+mana={3}{G}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Rivals' Duel
+text=Choose two target creatures that share no creature types. Those creatures fight each other. (Each deals damage equal to its power to the other.)
+mana={3}{R}
+type=Sorcery
+[/card]
+[card]
+name=Recross the Paths
+text=Reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return Recross the Paths to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+mana={2}{G}
+type=Sorcery
+[/card]
+[card]
+name=Grimoire Thief
+text=Whenever Grimoire Thief becomes tapped, exile the top three cards of target opponent's library face down. -- You may look at cards exiled with Grimoire Thief. -- {U}, Sacrifice Grimoire Thief: Turn all cards exiled with Grimoire Thief face up. Counter all spells with those names.
+mana={U}{U}
+type=Creature
+subtype=Merfolk Rogue
+power=2
+toughness=2
+[/card]
+[card]
+name=Fire Juggler
+text=Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+mana={2}{R}
+type=Creature
+subtype=Goblin Shaman
+power=2
+toughness=2
+[/card]
+[card]
+name=Cream of the Crop
+text=Whenever a creature enters the battlefield under your control, you may look at the top X cards of your library, where X is that creature's power. If you do, put one of those cards on top of your library and the rest on the bottom of your library in any order.
+mana={1}{G}
+type=Enchantment
+[/card]
+[card]
+name=Pulling Teeth
+text=Clash with an opponent. If you win, target player discards two cards. Otherwise, that player discards a card. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+mana={1}{B}
+type=Sorcery
+[/card]
+[card]
+name=Revive the Fallen
+text=Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+mana={1}{B}
+type=Sorcery
+[/card]
+[card]
+name=Titan's Revenge
+text=Titan's Revenge deals X damage to target creature or player. Clash with an opponent. If you win, return Titan's Revenge to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+mana={X}{R}{R}
+type=Sorcery
+[/card]

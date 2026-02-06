@@ -1,0 +1,36 @@
+[card]
+name=Reverse Damage
+text=The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+mana={1}{W}{W}
+type=Instant
+[/card]
+[card]
+name=Okk
+text=Okk can't attack unless a creature with greater power also attacks. -- Okk can't block unless a creature with greater power also blocks.
+mana={1}{R}
+type=Creature
+subtype=Goblin
+power=4
+toughness=4
+[/card]
+[card]
+name=Mana Clash
+text=You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+mana={R}
+type=Sorcery
+[/card]
+[card]
+name=Kjeldoran Royal Guard
+text={T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.
+mana={3}{W}{W}
+type=Creature
+subtype=Human Soldier
+power=2
+toughness=5
+[/card]
+[card]
+name=Deflection
+text=Change the target of target spell with a single target.
+mana={3}{U}
+type=Instant
+[/card]

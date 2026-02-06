@@ -1,0 +1,48 @@
+[card]
+name=Kjeldoran Royal Guard
+text={T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.
+mana={3}{W}{W}
+type=Creature
+subtype=Human Soldier
+power=2
+toughness=5
+[/card]
+[card]
+name=Time Stop
+text=End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
+mana={4}{U}{U}
+type=Instant
+[/card]
+[card]
+name=High Ground
+text=Each creature you control can block an additional creature.
+mana={W}
+type=Enchantment
+[/card]
+[card]
+name=Mind Bend
+text=Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect lasts indefinitely.)
+mana={U}
+type=Instant
+[/card]
+[card]
+name=Rootwater Matriarch
+text={T}: Gain control of target creature for as long as that creature is enchanted.
+mana={2}{U}{U}
+type=Creature
+subtype=Merfolk
+power=2
+toughness=3
+[/card]
+[card]
+name=Warp World
+text=Each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library.
+mana={5}{R}{R}{R}
+type=Sorcery
+[/card]
+[card]
+name=Story Circle
+text=As Story Circle enters the battlefield, choose a color. -- {W}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.
+mana={1}{W}{W}
+type=Enchantment
+[/card]

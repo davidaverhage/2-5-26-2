@@ -1,0 +1,24 @@
+#Testing Telekinetic sliver
+# text=All Slivers have "{T}: Tap target permanent."
+[INIT]
+FIRSTMAIN
+[PLAYER1]
+inplay:Telekinetic Sliver,Metallic sliver,grizzly bears
+[PLAYER2]
+[DO]
+Metallic sliver
+grizzly bears
+next
+#combat begins
+next
+#attackers
+grizzly bears
+next
+#combat ends
+[ASSERT]
+COMBATEND
+[PLAYER1]
+inplay:Telekinetic Sliver,Metallic sliver,grizzly bears
+[PLAYER2]
+life:20
+[END]

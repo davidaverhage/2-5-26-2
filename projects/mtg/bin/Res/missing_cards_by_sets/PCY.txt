@@ -1,0 +1,92 @@
+[card]
+name=Glittering Lynx
+text=Prevent all damage that would be dealt to Glittering Lynx. -- {2}: Until end of turn, Glittering Lynx loses "Prevent all damage that would be dealt to Glittering Lynx." Any player may activate this ability.
+mana={W}
+type=Creature
+subtype=Cat
+power=1
+toughness=1
+[/card]
+[card]
+name=Brutal Suppression
+text=Activated abilities of nontoken Rebels cost an additional "Sacrifice a land" to activate.
+mana={R}
+type=Enchantment
+[/card]
+[card]
+name=Search for Survivors
+text=Reorder your graveyard at random. An opponent chooses a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, exile it.
+mana={2}{R}
+type=Sorcery
+[/card]
+[card]
+name=Rhystic Tutor
+text=Unless any player pays {2}, search your library for a card, put that card into your hand, then shuffle your library.
+mana={2}{B}
+type=Sorcery
+[/card]
+[card]
+name=Infernal Genesis
+text=At the beginning of each player's upkeep, that player puts the top card of his or her library into his or her graveyard. Then he or she puts X 1/1 black Minion creature tokens onto the battlefield, where X is that card's converted mana cost.
+mana={4}{B}{B}
+type=Enchantment
+[/card]
+[card]
+name=Mirror Strike
+text=All combat damage that would be dealt to you this turn by target unblocked creature is dealt to its controller instead.
+mana={3}{W}
+type=Instant
+[/card]
+[card]
+name=Dual Nature
+text=Whenever a nontoken creature enters the battlefield, its controller puts a token that's a copy of that creature onto the battlefield. -- Whenever a nontoken creature leaves the battlefield, exile all tokens with the same name as that creature. -- When Dual Nature leaves the battlefield, exile all tokens put onto the battlefield with Dual Nature.
+mana={4}{G}{G}
+type=Enchantment
+[/card]
+[card]
+name=Entangler
+text=Enchant creature -- Enchanted creature can block any number of creatures.
+mana={2}{W}{W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Shield Dancer
+text={2}{W}: The next time target attacking creature would deal combat damage to Shield Dancer this turn, that creature deals that damage to itself instead.
+mana={2}{W}
+type=Creature
+subtype=Human Rebel
+power=1
+toughness=3
+[/card]
+[card]
+name=Glittering Lion
+text=Prevent all damage that would be dealt to Glittering Lion. -- {3}: Until end of turn, Glittering Lion loses "Prevent all damage that would be dealt to Glittering Lion." Any player may activate this ability.
+mana={2}{W}
+type=Creature
+subtype=Cat
+power=2
+toughness=2
+[/card]
+[card]
+name=Wall of Vipers
+abilities=defender
+text=Defender (This creature can't attack.) -- {3}: Destroy Wall of Vipers and target creature it's blocking. Any player may activate this ability.
+mana={2}{B}
+type=Creature
+subtype=Snake Wall
+power=2
+toughness=4
+[/card]
+[card]
+name=Celestial Convergence
+text=Celestial Convergence enters the battlefield with seven omen counters on it. -- At the beginning of your upkeep, remove an omen counter from Celestial Convergence. If there are no omen counters on Celestial Convergence, the player with the highest life total wins the game. If two or more players are tied for highest life total, the game is a draw.
+mana={2}{W}{W}
+type=Enchantment
+[/card]
+[card]
+name=Rhystic Circle
+text={1}: Any player may pay {1}. If no one does, the next time a source of your choice would deal damage to you this turn, prevent that damage.
+mana={2}{W}{W}
+type=Enchantment
+[/card]

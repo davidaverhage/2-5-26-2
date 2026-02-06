@@ -1,0 +1,31 @@
+#NAME: Spirit Link on opponent's creatures
+#DESC: Spirit Link should give Life to the
+#DESC: controller of Spirit Link, not to the
+#DESC: controller of the enchanted creature.
+#DESC: See http://code.google.com/p/wagic/issues/detail?id=173
+[INIT]
+firstmain
+[PLAYER1]
+inplay:Giant Spider
+hand:Spirit Link
+manapool:{W}
+[PLAYER2]
+inplay:Giant Mantis
+[DO]
+Spirit Link
+Giant Mantis
+next
+next
+Giant Spider
+next
+Giant Mantis
+next
+next
+[ASSERT]
+combatend
+[PLAYER1]
+inplay:Giant Spider,Spirit Link
+life:22
+[PLAYER2]
+inplay:Giant Mantis
+[END]

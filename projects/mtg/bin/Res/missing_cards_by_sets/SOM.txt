@@ -1,0 +1,68 @@
+[card]
+name=Ogre Geargrabber
+text=Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equipment, unattach it.
+mana={4}{R}{R}
+type=Creature
+subtype=Ogre Warrior
+power=4
+toughness=4
+[/card]
+[card]
+name=Strata Scythe
+text=Imprint - When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library. -- Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card. -- Equip {3}
+mana={3}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Necrotic Ooze
+text=As long as Necrotic Ooze is on the battlefield, it has all activated abilities of all creature cards in all graveyards.
+mana={2}{B}{B}
+type=Creature
+subtype=Ooze
+power=4
+toughness=3
+[/card]
+[card]
+name=Echo Circlet
+text=Equipped creature can block an additional creature. -- Equip {1}
+mana={2}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Mindslaver
+text={4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)
+mana={6}
+type=Legendary Artifact
+[/card]
+[card]
+name=Leonin Arbiter
+text=Players can't search libraries. Any player may pay {2} for that player to ignore this effect until end of turn.
+mana={1}{W}
+type=Creature
+subtype=Cat Cleric
+power=2
+toughness=2
+[/card]
+[card]
+name=Fulgent Distraction
+text=Choose two target creatures. Tap those creatures, then unattach all Equipment from them.
+mana={2}{W}
+type=Instant
+[/card]
+[card]
+name=Precursor Golem
+text=When Precursor Golem enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield. -- Whenever a player casts an instant or sorcery spell that targets only a single Golem, that player copies that spell for each other Golem that spell could target. Each copy targets a different one of those Golems.
+mana={5}
+type=Artifact Creature
+subtype=Golem
+power=3
+toughness=3
+[/card]
+[card]
+name=Molten Psyche
+text=Each player shuffles the cards from his or her hand into his or her library, then draws that many cards. -- Metalcraft - If you control three or more artifacts, Molten Psyche deals damage to each opponent equal to the number of cards that player has drawn this turn.
+mana={1}{R}{R}
+type=Sorcery
+[/card]

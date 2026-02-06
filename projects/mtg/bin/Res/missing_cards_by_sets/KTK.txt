@@ -1,0 +1,89 @@
+[card]
+name=Ashcloud Phoenix
+abilities=flying
+text=Flying -- When Ashcloud Phoenix dies, return it to the battlefield face down. -- Morph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Ashcloud Phoenix is turned face up, it deals 2 damage to each player.
+mana={2}{R}{R}
+type=Creature
+subtype=Phoenix
+power=4
+toughness=1
+[/card]
+[card]
+name=Ugin's Nexus
+text=If a player would begin an extra turn, that player skips that turn instead. -- If Ugin's Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one.
+mana={5}
+type=Legendary Artifact
+[/card]
+[card]
+name=Trail of Mystery
+text=Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. -- Whenever a permanent you control is turned face up, if it's a creature, it gets +2/+2 until end of turn.
+mana={1}{G}
+type=Enchantment
+[/card]
+[card]
+name=Meandering Towershell
+abilities=islandwalk
+text=Islandwalk (This creature can't be blocked as long as defending player controls an Island.) -- Whenever Meandering Towershell attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.
+mana={3}{G}{G}
+type=Creature
+subtype=Turtle
+power=5
+toughness=9
+[/card]
+[card]
+name=Pine Walker
+text=Morph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- Whenever Pine Walker or another creature you control is turned face up, untap that creature.
+mana={3}{G}{G}
+type=Creature
+subtype=Elemental
+power=5
+toughness=5
+[/card]
+[card]
+name=Retribution of the Ancients
+text={B}, Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn.
+mana={B}
+type=Enchantment
+[/card]
+[card]
+name=Deflecting Palm
+text=The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.
+mana={R}{W}
+type=Instant
+[/card]
+[card]
+name=Smoke Teller
+text={1}{U}: Look at target face-down creature.
+mana={1}{G}
+type=Creature
+subtype=Human Shaman
+power=2
+toughness=2
+[/card]
+[card]
+name=Secret Plans
+text=Face-down creatures you control get +0/+1. -- Whenever a permanent you control is turned face up, draw a card.
+mana={G}{U}
+type=Enchantment
+[/card]
+[card]
+name=Howl of the Horde
+text=When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. -- Raid - If you attacked with a creature this turn, when you cast your next instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy.
+mana={2}{R}
+type=Sorcery
+[/card]
+[card]
+name=Lens of Clarity
+text=You may look at the top card of your library and at face-down creatures you don't control. (You may do this at any time.)
+mana={1}
+type=Artifact
+[/card]
+[card]
+name=Kheru Spellsnatcher
+text=Morph {4}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Kheru Spellsnatcher is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled.
+mana={3}{U}
+type=Creature
+subtype=Naga Wizard
+power=3
+toughness=3
+[/card]

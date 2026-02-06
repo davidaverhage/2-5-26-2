@@ -1,0 +1,187 @@
+[card]
+name=Gifts Ungiven
+text=Search your library for four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+mana={3}{U}
+type=Instant
+[/card]
+[card]
+name=Sideswipe
+text=You may change any targets of target Arcane spell.
+mana={1}{R}
+type=Instant
+[/card]
+[card]
+name=Lifted by Clouds
+text=Target creature gains flying until end of turn. -- Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={2}{U}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Blessed Breath
+text=Target creature you control gains protection from the color of your choice until end of turn. -- Splice onto Arcane {W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={W}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Akki Lavarunner
+text=Haste -- Whenever Akki Lavarunner deals damage to an opponent, flip it. // Tok-Tok, Volcano Born -- Legendary Creature - Goblin Shaman -- Protection from red -- If a red source would deal damage to a player, it deals that much damage plus 1 to that player instead. -- 2/2
+mana={3}{R}
+type=Creature
+subtype=Goblin Warrior
+power=1
+toughness=1
+[/card]
+[card]
+name=Oathkeeper, Takeno's Daisho
+text=Equipped creature gets +3/+1. -- Whenever equipped creature dies, return that card to the battlefield under your control if it's a Samurai card. -- When Oathkeeper, Takeno's Daisho is put into a graveyard from the battlefield, exile equipped creature. -- Equip {2}
+mana={3}
+type=Legendary Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Hideous Laughter
+text=All creatures get -2/-2 until end of turn. -- Splice onto Arcane {3}{B}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={2}{B}{B}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Moonring Mirror
+text=Whenever you draw a card, exile the top card of your library face down. -- At the beginning of your upkeep, you may exile all cards from your hand face down. If you do, put all other cards you own exiled with Moonring Mirror into your hand.
+mana={5}
+type=Artifact
+[/card]
+[card]
+name=Wear Away
+text=Destroy target artifact or enchantment. -- Splice onto Arcane {3}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={G}{G}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Glacial Ray
+text=Glacial Ray deals 2 damage to target creature or player. -- Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{R}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Psychic Puppetry
+text=You may tap or untap target permanent. -- Splice onto Arcane {U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{U}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Tide of War
+text=Whenever one or more creatures block, flip a coin. If you win the flip, each blocking creature is sacrificed by its controller. If you lose the flip, each blocked creature is sacrificed by its controller.
+mana={4}{R}{R}
+type=Enchantment
+[/card]
+[card]
+name=Soulless Revival
+text=Return target creature card from your graveyard to your hand. -- Splice onto Arcane {1}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{B}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Time Stop
+text=End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
+mana={4}{U}{U}
+type=Instant
+[/card]
+[card]
+name=Consuming Vortex
+text=Return target creature to its owner's hand. -- Splice onto Arcane {3}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{U}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Through the Breach
+text=You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step. -- Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={4}{R}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Mindblaze
+text=Name a nonland card and choose a number greater than 0. Target player reveals his or her library. If that library contains exactly the chosen number of the named card, Mindblaze deals 8 damage to that player. Then that player shuffles his or her library.
+mana={5}{R}
+type=Sorcery
+[/card]
+[card]
+name=Dampen Thought
+text=Target player puts the top four cards of his or her library into his or her graveyard. -- Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{U}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Struggle for Sanity
+text=Target opponent reveals his or her hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards he or she exiled this way to his or her hand and puts the rest into his or her graveyard.
+mana={2}{B}{B}
+type=Sorcery
+[/card]
+[card]
+name=Swirl the Mists
+text=As Swirl the Mists enters the battlefield, choose a color word. -- All instances of color words in the text of spells and permanents are changed to the chosen color word.
+mana={2}{U}{U}
+type=Enchantment
+[/card]
+[card]
+name=Desperate Ritual
+text=Add {R}{R}{R} to your mana pool. -- Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{R}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Kodama's Might
+text=Target creature gets +2/+2 until end of turn. -- Splice onto Arcane {G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={G}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Vassal's Duty
+text={1}: The next 1 damage that would be dealt to target legendary creature you control this turn is dealt to you instead.
+mana={3}{W}
+type=Enchantment
+[/card]
+[card]
+name=Strange Inversion
+text=Switch target creature's power and toughness until end of turn. -- Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={2}{R}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Shell of the Last Kappa
+text={3}, {T}: Exile target instant or sorcery spell that targets you. (The spell has no effect.) -- {3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a card exiled with Shell of the Last Kappa without paying its mana cost.
+mana={3}
+type=Legendary Artifact
+[/card]
+[card]
+name=Reweave
+text=Target permanent's controller sacrifices it. If he or she does, that player reveals cards from the top of his or her library until he or she reveals a permanent card that shares a card type with the sacrificed permanent, puts that card onto the battlefield, then shuffles his or her library. -- Splice onto Arcane {2}{U}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={5}{U}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Candles' Glow
+text=Prevent the next 3 damage that would be dealt to target creature or player this turn. You gain life equal to the damage prevented this way. -- Splice onto Arcane {1}{W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+mana={1}{W}
+type=Instant
+subtype=Arcane
+[/card]
+[card]
+name=Squelch
+text=Counter target activated ability. (Mana abilities can't be targeted.) -- Draw a card.
+mana={1}{U}
+type=Instant
+[/card]

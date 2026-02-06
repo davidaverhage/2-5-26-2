@@ -1,0 +1,79 @@
+language: cpp
+dist: xenial
+branches:
+  only:
+    - master
+
+before_install:
+  - export BUILD_PSP=YES
+  - export BUILD_ANDROID=YES
+  - export BUILD_Qt=YES
+  - export BUILD_MAC=NO
+  - echo -e "machine github.com\n  login $GH_TOKEN2" > ~/.netrc
+  - git lfs pull
+# Only building on Mac when not handling pull request
+# - if [ "$TRAVIS_PULL_REQUEST" ==  "false" ]; then
+#     export BUILD_MAC=YES;
+#   fi
+  - sudo apt-get update -qq
+# Building for PSP here
+  - if [ "$BUILD_PSP" == "YES" ]; then
+      export PSPDEV="$TRAVIS_BUILD_DIR/opt/pspsdk" &&
+      export PSPSDK="$PSPDEV/psp/sdk" &&
+      export PATH="$PATH:$PSPDEV/bin:$PSPSDK/bin" &&
+      wget --no-check-certificate -O sdk.lzma http://downloads.sourceforge.net/project/minpspw/SDK%20%2B%20devpak/pspsdk%200.11.2/minpspw_0.11.2-amd64.tar.lzma;
+    fi
+# Building for Qt here
+  - if [ "$BUILD_Qt" == "YES" ]; then
+      sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu xenial universe" &&
+      sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu xenial main" &&
+      sudo apt-get -qq update &&
+      sudo apt-get -qq install qt5-qmake qtbase5-dev qtdeclarative5-dev qttools5-dev qtmultimedia5-dev libqt5opengl5 libqt5opengl5-dev pulseaudio libpulse-dev &&
+      export QMAKE="qmake -qt=qt5";
+    fi
+# Building for Android here
+  - if [ "$BUILD_ANDROID" == "YES" ]; then
+      export ANDROID="android-sdk-linux/tools/android" &&
+      if [ `uname -m` = x86_64 ]; then 
+        sudo dpkg --add-architecture i386 && sudo apt-get update &&
+        sudo apt-get install -qq --force-yes libgd2-xpm-dev libc6-i386 lib32stdc++6 lib32gcc1 lib32ncurses5 lib32z1 jq ant; fi &&
+        wget https://dl.google.com/android/repository/android-ndk-r22-linux-x86_64.zip -nv &&
+        wget http://dl.google.com/android/android-sdk_r24.4.1-linux.tgz -nv;
+    fi
+    
+install:
+- if [ "$BUILD_PSP" == "YES" ]; then
+    tar -x --xz -f sdk.lzma;
+  fi
+- if [ "$BUILD_ANDROID" == "YES" ]; then
+    unzip android-ndk-r22-linux-x86_64.zip &&
+    tar -zxf android-sdk_r24.4.1-linux.tgz &&
+    $ANDROID list sdk --extended -a &&
+    echo yes | $ANDROID update sdk -a -t tools,platform-tools,build-tools-23.0.1,android-23 --no-ui --force --no-https;
+    sudo apt-get install openjdk-8-jdk;
+    export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64;
+    export PATH=$JAVA_HOME/bin:$PATH;
+  fi
+
+- curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py
+- sudo python2 get-pip.py
+- sudo python2 -m pip install --upgrade pip
+- sudo python2 -m pip install setuptools-rust
+- sudo python2 -m pip install pyOpenSSL
+- sudo python2 -m pip install pyjavaproperties
+- sudo python2 -m pip install github3.py
+- sudo python2 -m pip install cpp-coveralls
+- sudo python2 -m pip install certifi
+
+before_script:
+- export REQUESTS_CA_BUNDLE=/usr/local/lib/python2.7/dist-packages/certifi/cacert.pem
+script: "tools/travis-script.sh"
+
+after_success:
+- coveralls -b . -e JGE/src -e JGE/include -i projects/mtg/include -i projects/mtg/src --gcov-options '\-lp'
+- export VERSION=$(grep "=" projects/mtg/build.number.properties | sed 's/.*=//' | tr -d '\n\t\r ')
+- python2 tools/upload-binaries.py -t $GH_TOKEN2 -s $TRAVIS_COMMIT -l core.zip -r Wagic-core-$VERSION.zip -b $TRAVIS_BRANCH
+- python2 tools/upload-binaries.py -t $GH_TOKEN2 -s $TRAVIS_COMMIT -l projects/mtg/Android/bin/Wagic-debug.apk -r Wagic-$VERSION.apk -b $TRAVIS_BRANCH
+- python2 tools/upload-binaries.py -t $GH_TOKEN2 -s $TRAVIS_COMMIT -l projects/mtg/psprelease.zip -r WagicPSP-$VERSION.zip -b $TRAVIS_BRANCH
+- python2 tools/upload-binaries.py -t $GH_TOKEN2 -s $TRAVIS_COMMIT -l qt-gui-build/linuxqtrelease.zip -r WagicLinux-$VERSION.zip -b $TRAVIS_BRANCH
+- python2 tools/upload-binaries.py -t $GH_TOKEN2 -s $TRAVIS_COMMIT -l projects/mtg/CardImageLinks.csv -r CardImageLinks.csv -b $TRAVIS_BRANCH

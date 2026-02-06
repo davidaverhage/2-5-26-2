@@ -1,0 +1,728 @@
+[meta]
+author=Wagic Team
+name=Prophecy
+block=Masque
+orderindex=EXP-L.PCY
+year=2000-06-05
+total=144
+[/meta]
+[card]
+primitive=Abolish
+id=24561
+rarity=U
+[/card]
+[card]
+primitive=Agent of Shauku
+id=24601
+rarity=C
+[/card]
+[card]
+primitive=Alexi's Cloak
+id=24579
+rarity=C
+[/card]
+[card]
+primitive=Alexi, Zephyr Mage
+id=24591
+rarity=R
+[/card]
+[card]
+primitive=Aura Fracture
+id=24560
+rarity=C
+[/card]
+[card]
+primitive=Avatar of Fury
+id=24644
+rarity=R
+[/card]
+[card]
+primitive=Avatar of Hope
+id=24564
+rarity=R
+[/card]
+[card]
+primitive=Avatar of Might
+id=24671
+rarity=R
+[/card]
+[card]
+primitive=Avatar of Will
+id=24590
+rarity=R
+[/card]
+[card]
+primitive=Avatar of Woe
+id=24621
+rarity=R
+[/card]
+[card]
+primitive=Barbed Field
+id=24634
+rarity=U
+[/card]
+[card]
+primitive=Blessed Wind
+id=24569
+rarity=R
+[/card]
+[card]
+primitive=Bog Elemental
+id=24620
+rarity=R
+[/card]
+[card]
+primitive=Bog Glider
+id=24600
+rarity=C
+[/card]
+[card]
+primitive=Branded Brawlers
+id=24638
+rarity=C
+[/card]
+[card]
+primitive=Brutal Suppression
+id=24635
+rarity=U
+[/card]
+[card]
+primitive=Calming Verse
+id=24659
+rarity=C
+[/card]
+[card]
+primitive=Celestial Convergence
+id=24567
+rarity=R
+[/card]
+[card]
+primitive=Chilling Apparition
+id=25362
+rarity=U
+[/card]
+[card]
+primitive=Chimeric Idol
+id=24680
+rarity=U
+[/card]
+[card]
+primitive=Citadel of Pain
+id=24643
+rarity=U
+[/card]
+[card]
+primitive=Coastal Hornclaw
+id=24574
+rarity=C
+[/card]
+[card]
+primitive=Coffin Puppets
+id=24618
+rarity=R
+[/card]
+[card]
+primitive=Copper-Leaf Angel
+id=24682
+rarity=R
+[/card]
+[card]
+primitive=Darba
+id=24657
+rarity=U
+[/card]
+[card]
+primitive=Death Charmer
+id=24599
+rarity=C
+[/card]
+[card]
+primitive=Denying Wind
+id=24596
+rarity=R
+[/card]
+[card]
+primitive=Despoil
+id=24615
+rarity=C
+[/card]
+[card]
+primitive=Devastate
+id=24631
+rarity=C
+[/card]
+[card]
+primitive=Diving Griffin
+id=24548
+rarity=C
+[/card]
+[card]
+primitive=Dual Nature
+id=24678
+rarity=R
+[/card]
+[card]
+primitive=Elephant Resurgence
+id=21382
+rarity=R
+[/card]
+[card]
+primitive=Elephant T1
+id=-21382
+rarity=T
+[/card]
+[card]
+primitive=Endbringer's Revel
+id=24616
+rarity=U
+[/card]
+[card]
+primitive=Entangler
+id=24557
+rarity=U
+[/card]
+[card]
+primitive=Excavation
+id=24586
+rarity=U
+[/card]
+[card]
+primitive=Excise
+id=24553
+rarity=C
+[/card]
+[card]
+primitive=Fault Riders
+id=24626
+rarity=C
+[/card]
+[card]
+primitive=Fen Stalker
+id=24602
+rarity=C
+[/card]
+[card]
+primitive=Fickle Efreet
+id=24649
+rarity=R
+[/card]
+[card]
+primitive=Flameshot
+id=24642
+rarity=U
+[/card]
+[card]
+primitive=Flay
+id=24606
+rarity=C
+[/card]
+[card]
+primitive=Flowering Field
+id=24552
+rarity=U
+[/card]
+[card]
+primitive=Foil
+id=24587
+rarity=U
+[/card]
+[card]
+primitive=Forgotten Harvest
+id=24676
+rarity=R
+[/card]
+[card]
+primitive=Glittering Lion
+id=24558
+rarity=U
+[/card]
+[card]
+primitive=Glittering Lynx
+id=24549
+rarity=C
+[/card]
+[card]
+primitive=Greel's Caress
+id=24604
+rarity=C
+[/card]
+[card]
+primitive=Greel, Mind Raker
+id=24619
+rarity=R
+[/card]
+[card]
+primitive=Gulf Squid
+id=24573
+rarity=C
+[/card]
+[card]
+primitive=Hazy Homunculus
+id=24572
+rarity=C
+[/card]
+[card]
+primitive=Heightened Awareness
+id=24594
+rarity=R
+[/card]
+[card]
+primitive=Hollow Warrior
+id=24679
+rarity=U
+[/card]
+[card]
+primitive=Infernal Genesis
+id=24624
+rarity=R
+[/card]
+[card]
+primitive=Inflame
+id=24640
+rarity=C
+[/card]
+[card]
+primitive=Jeweled Spirit
+id=24566
+rarity=R
+[/card]
+[card]
+primitive=Jolrael's Favor
+id=24660
+rarity=C
+[/card]
+[card]
+primitive=Jolrael, Empress of Beasts
+id=24673
+rarity=R
+[/card]
+[card]
+primitive=Keldon Arsonist
+id=24637
+rarity=U
+[/card]
+[card]
+primitive=Keldon Battlewagon
+id=24683
+rarity=R
+[/card]
+[card]
+primitive=Keldon Berserker
+id=24629
+rarity=C
+[/card]
+[card]
+primitive=Keldon Firebombers
+id=24648
+rarity=R
+[/card]
+[card]
+primitive=Latulla's Orders
+id=24632
+rarity=C
+[/card]
+[card]
+primitive=Latulla, Keldon Overseer
+id=24646
+rarity=R
+[/card]
+[card]
+primitive=Lesser Gargadon
+id=24647
+rarity=U
+[/card]
+[card]
+primitive=Living Terrain
+id=24667
+rarity=U
+[/card]
+[card]
+primitive=Mageta the Lion
+id=24565
+rarity=R
+[/card]
+[card]
+primitive=Mageta's Boon
+id=24550
+rarity=C
+[/card]
+[card]
+primitive=Mana Vapors
+id=24578
+rarity=U
+[/card]
+[card]
+primitive=Marsh Boa
+id=24664
+rarity=C
+[/card]
+[card]
+primitive=Mercenary Informer
+id=24563
+rarity=R
+[/card]
+[card]
+primitive=Mine Bearer
+id=24555
+rarity=C
+[/card]
+[card]
+primitive=Mirror Strike
+id=24554
+rarity=U
+[/card]
+[card]
+primitive=Mungha Wurm
+id=24675
+rarity=R
+[/card]
+[card]
+primitive=Nakaya Shade
+id=24598
+rarity=U
+[/card]
+[card]
+primitive=Noxious Field
+id=24686
+rarity=U
+[/card]
+[card]
+primitive=Outbreak
+id=24613
+rarity=U
+[/card]
+[card]
+primitive=Overburden
+id=24597
+rarity=R
+[/card]
+[card]
+primitive=Panic Attack
+id=24639
+rarity=C
+[/card]
+[card]
+primitive=Pit Raptor
+id=24612
+rarity=U
+[/card]
+[card]
+primitive=Plague Fiend
+id=24610
+rarity=C
+[/card]
+[card]
+primitive=Plague Wind
+id=24622
+rarity=R
+[/card]
+[card]
+primitive=Psychic Theft
+id=24593
+rarity=R
+[/card]
+[card]
+primitive=Pygmy Razorback
+id=24663
+rarity=C
+[/card]
+[card]
+primitive=Quicksilver Wall
+id=24582
+rarity=U
+[/card]
+[card]
+primitive=Rebel Informer
+id=24617
+rarity=R
+[/card]
+[card]
+primitive=Rethink
+id=24588
+rarity=C
+[/card]
+[card]
+primitive=Reveille Squad
+id=24559
+rarity=U
+[/card]
+[card]
+primitive=Rhystic Cave
+id=24685
+rarity=U
+[/card]
+[card]
+primitive=Rhystic Circle
+id=24562
+rarity=C
+[/card]
+[card]
+primitive=Rhystic Deluge
+id=24576
+rarity=C
+[/card]
+[card]
+primitive=Rhystic Lightning
+id=24633
+rarity=C
+[/card]
+[card]
+primitive=Rhystic Scrying
+id=24577
+rarity=U
+[/card]
+[card]
+primitive=Rhystic Shield
+id=24551
+rarity=C
+[/card]
+[card]
+primitive=Rhystic Study
+id=24589
+rarity=C
+[/card]
+[card]
+primitive=Rhystic Syphon
+id=24623
+rarity=U
+[/card]
+[card]
+primitive=Rhystic Tutor
+id=24614
+rarity=R
+[/card]
+[card]
+primitive=Rib Cage Spider
+id=24653
+rarity=C
+[/card]
+[card]
+primitive=Ribbon Snake
+id=24571
+rarity=C
+[/card]
+[card]
+primitive=Ridgeline Rager
+id=24627
+rarity=C
+[/card]
+[card]
+primitive=Root Cage
+id=24665
+rarity=U
+[/card]
+[card]
+primitive=Samite Sanctuary
+id=24570
+rarity=R
+[/card]
+[card]
+primitive=Scoria Cat
+id=24636
+rarity=U
+[/card]
+[card]
+primitive=Search for Survivors
+id=24641
+rarity=R
+[/card]
+[card]
+primitive=Searing Wind
+id=24650
+rarity=R
+[/card]
+[card]
+primitive=Sheltering Prayers
+id=24568
+rarity=R
+[/card]
+[card]
+primitive=Shield Dancer
+id=24556
+rarity=U
+[/card]
+[card]
+primitive=Shrouded Serpent
+id=24595
+rarity=R
+[/card]
+[card]
+primitive=Silt Crawler
+id=24655
+rarity=C
+[/card]
+[card]
+primitive=Snag
+id=24668
+rarity=U
+[/card]
+[card]
+primitive=Soul Charmer
+id=24611
+rarity=C
+[/card]
+[card]
+primitive=Soul Strings
+id=24605
+rarity=C
+[/card]
+[card]
+primitive=Spiketail Drake
+id=24592
+rarity=U
+[/card]
+[card]
+primitive=Spiketail Hatchling
+id=24581
+rarity=C
+[/card]
+[card]
+primitive=Spitting Spider
+id=24666
+rarity=U
+[/card]
+[card]
+primitive=Spore Frog
+id=24654
+rarity=C
+[/card]
+[card]
+primitive=Spur Grappler
+id=24625
+rarity=C
+[/card]
+[card]
+primitive=Squirrel Wrangler
+id=24672
+rarity=R
+[/card]
+[card]
+primitive=Steal Strength
+id=24608
+rarity=C
+[/card]
+[card]
+primitive=Stormwatch Eagle
+id=24583
+rarity=C
+[/card]
+[card]
+primitive=Sunken Field
+id=24575
+rarity=U
+[/card]
+[card]
+primitive=Sword Dancer
+id=24544
+rarity=U
+[/card]
+[card]
+primitive=Task Mage Assembly
+id=24651
+rarity=R
+[/card]
+[card]
+primitive=Thresher Beast
+id=24658
+rarity=C
+[/card]
+[card]
+primitive=Thrive
+id=24669
+rarity=C
+[/card]
+[card]
+primitive=Trenching Steed
+id=24546
+rarity=C
+[/card]
+[card]
+primitive=Troubled Healer
+id=24547
+rarity=C
+[/card]
+[card]
+primitive=Troublesome Spirit
+id=24584
+rarity=R
+[/card]
+[card]
+primitive=Verdant Field
+id=24662
+rarity=U
+[/card]
+[card]
+primitive=Veteran Brawlers
+id=24645
+rarity=R
+[/card]
+[card]
+primitive=Vintara Elephant
+id=24652
+rarity=C
+[/card]
+[card]
+primitive=Vintara Snapper
+id=24656
+rarity=U
+[/card]
+[card]
+primitive=Vitalizing Wind
+id=24677
+rarity=R
+[/card]
+[card]
+primitive=Wall of Vipers
+id=24609
+rarity=U
+[/card]
+[card]
+primitive=Well of Discovery
+id=24684
+rarity=R
+[/card]
+[card]
+primitive=Well of Life
+id=24681
+rarity=U
+[/card]
+[card]
+primitive=Whip Sergeant
+id=24628
+rarity=U
+[/card]
+[card]
+primitive=Whipstitched Zombie
+id=24603
+rarity=C
+[/card]
+[card]
+primitive=Wild Might
+id=24661
+rarity=C
+[/card]
+[card]
+primitive=Windscouter
+id=24585
+rarity=U
+[/card]
+[card]
+primitive=Wing Storm
+id=25523
+rarity=U
+[/card]
+[card]
+primitive=Wintermoon Mesa
+id=23318
+rarity=R
+[/card]
+[card]
+primitive=Withdraw
+id=24580
+rarity=C
+[/card]
+[card]
+primitive=Zerapa Minotaur
+id=24630
+rarity=C
+[/card]

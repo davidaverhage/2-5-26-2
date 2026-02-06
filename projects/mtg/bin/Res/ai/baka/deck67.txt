@@ -1,0 +1,24 @@
+#NAME:Planet of the Apes
+#DESC:Stealthy, ferocious and 
+#DESC:intelligent, the apes 
+#DESC:are rulers of their
+#DESC:forest domain.
+Alpha Status (SCG) * 4
+Ancient Silverback (UDS) * 1
+Barbary Apes (LEG) * 4
+Forest (5ED) * 4
+Forest (ICE) * 4
+Forest (MIR) * 4
+Forest (POR) * 2
+Forest (RV) * 4
+Gorilla Chieftain (ALL) * 2
+Gorilla Pack (ICE) * 3
+Gorilla Warrior (USG) * 3
+Hidden Gibbons (ULG) * 4
+Silverback Shaman (M20) * 1
+Towering Gibbon (J22) * 4
+Tree Monkey (P02) * 4
+Uktabi Orangutan (VIS) * 2
+Unnatural Growth (MID) * 2
+Yavimaya, Cradle of Growth (MH2) * 4
+Zodiac Monkey (PTK) * 4

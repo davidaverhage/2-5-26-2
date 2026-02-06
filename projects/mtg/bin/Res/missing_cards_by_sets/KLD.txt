@@ -1,0 +1,47 @@
+[card]
+name=Midnight Oil
+text=Midnight Oil enters the battlefield with seven hour counters on it. -- At the beginning of your draw step, draw an additional card and remove two hour counters from Midnight Oil. -- Your maximum hand size is equal to the number of hour counters on Midnight Oil. -- Whenever you discard a card, you lose 1 life.
+mana={2}{B}{B}
+type=Enchantment
+[/card]
+[card]
+name=Lost Legacy
+text=Name a nonartifact, nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles his or her library, then draws a card for each card exiled from hand this way.
+mana={1}{B}{B}
+type=Sorcery
+[/card]
+[card]
+name=Panharmonicon
+text=If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+mana={4}
+type=Artifact
+[/card]
+[card]
+name=Dubious Challenge
+text=Look at the top ten cards of your library, exile up to two creature cards from among them, then shuffle your library. Target opponent may choose one of the exiled cards and put it onto the battlefield under his or her control. Put the rest onto the battlefield under your control.
+mana={3}{G}
+type=Sorcery
+[/card]
+[card]
+name=Spark of Creativity
+text=Choose target creature. Exile the top card of your library. You may have Spark of Creativity deal damage to that creature equal to the exiled card's converted mana cost. If you don't, you may play that card until end of turn.
+mana={R}
+type=Sorcery
+[/card]
+[card]
+name=Combustible Gearhulk
+abilities=first strike
+text=First strike -- When Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, put the top three cards of your library into your graveyard, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards.
+mana={4}{R}{R}
+type=Artifact Creature
+subtype=Construct
+power=6
+toughness=6
+[/card]
+[card]
+name=Captured by the Consulate
+text=Enchant creature you don't control -- Enchanted creature can't attack. -- Whenever an opponent casts a spell, if it has a single target, change the target to enchanted creature if able.
+mana={3}{W}
+type=Enchantment
+subtype=Aura
+[/card]

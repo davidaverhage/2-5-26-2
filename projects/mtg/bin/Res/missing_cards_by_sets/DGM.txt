@@ -1,0 +1,45 @@
+[card]
+name=Possibility Storm
+text=Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order.
+mana={3}{R}{R}
+type=Enchantment
+[/card]
+[card]
+name=Hidden Strings
+text=You may tap or untap target permanent, then you may tap or untap another target permanent. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={1}{U}
+type=Sorcery
+[/card]
+[card]
+name=Trait Doctoring
+text=Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={U}
+type=Sorcery
+[/card]
+[card]
+name=Varolz, the Scar-Striped
+text=Each creature card in your graveyard has scavenge. The scavenge cost is equal to its mana cost. (Exile a creature card from your graveyard and pay its mana cost: Put a number of +1/+1 counters equal to that card's power on target creature. Scavenge only as a sorcery.) -- Sacrifice another creature: Regenerate Varolz, the Scar-Striped.
+mana={1}{B}{G}
+type=Legendary Creature
+subtype=Troll Warrior
+power=2
+toughness=2
+[/card]
+[card]
+name=Boros Battleshaper
+text=At the beginning of each combat, up to one target creature attacks or blocks this combat if able and up to one target creature can't attack or block this combat.
+mana={5}{R}{W}
+type=Creature
+subtype=Minotaur Soldier
+power=5
+toughness=5
+[/card]
+[card]
+name=Council of the Absolute
+text=As Council of the Absolute enters the battlefield, name a card other than a creature or land card. -- Your opponents can't cast cards with the chosen name. -- Spells with the chosen name you cast cost {2} less to cast.
+mana={2}{W}{U}
+type=Creature
+subtype=Human Advisor
+power=2
+toughness=4
+[/card]

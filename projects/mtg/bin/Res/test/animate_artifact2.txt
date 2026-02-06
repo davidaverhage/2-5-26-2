@@ -1,0 +1,27 @@
+#Test: "Becomes" functionnality parser
+[INIT]
+FIRSTMAIN
+[PLAYER1]
+inplay:Aether spellbomb
+hand:animate artifact,disenchant
+manapool:{3}{U}{1}{W}
+[PLAYER2]
+[DO]
+animate artifact
+Aether spellbomb
+disenchant
+animate artifact
+next
+#begin
+next
+#attackers
+Aether spellbomb
+next
+#combat ends
+[ASSERT]
+COMBATEND
+[PLAYER1]
+inplay:Aether spellbomb
+graveyard:animate artifact,disenchant
+[PLAYER2]
+[END]

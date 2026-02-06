@@ -1,0 +1,100 @@
+[card]
+name=Willbender
+facedown={3}
+autofacedown={1}{U}:morph
+autofaceup=name(Choose new targets) target(*[instant;sorcery]|stack) fizzle && activate castcard(copied noevent costx!:mytargx:! kicked!:mytargkicked:!)
+text=Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) -- When Willbender is turned face up, change the target of target spell or ability with a single target.
+mana={1}{U}
+type=Creature
+subtype=Human Wizard
+power=1
+toughness=2
+[/card]
+[card]
+name=Epochrasite
+text=Epochrasite enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand. -- When Epochrasite dies, exile it with three time counters on it and it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last is removed, cast this card without paying its mana cost. It has haste.)
+mana={2}
+type=Artifact Creature
+subtype=Construct
+power=1
+toughness=1
+[/card]
+[card]
+name=Bitter Feud
+text=As Bitter Feud enters the battlefield, choose two players. -- If a source controlled by one of the chosen players would deal damage to the other chosen player or a permanent that player controls, that source deals double that damage to that player or permanent instead.
+mana={4}{R}
+type=Enchantment
+[/card]
+[card]
+name=Infinite Reflection
+text=Enchant creature -- When Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature. -- Nontoken creatures you control enter the battlefield as a copy of enchanted creature.
+mana={5}{U}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Assault Suit
+text=Equipped creature gets +2/+2, has haste, can't attack you or a planeswalker you control, and can't be sacrificed. -- At the beginning of each opponent's upkeep, you may have that player gain control of equipped creature until end of turn. If you do, untap it. -- Equip {3}
+mana={4}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Impact Resonance
+text=Impact Resonance deals X damage divided as you choose among any number of target creatures, where X is the greatest amount of damage dealt by a source to a permanent or player this turn.
+mana={1}{R}
+type=Instant
+[/card]
+[card]
+name=Comeuppance
+text=Prevent all damage that would be dealt to you and planeswalkers you control this turn by sources you don't control. If damage from a creature source is prevented this way, Comeuppance deals that much damage to that creature. If damage from a noncreature source is prevented this way, Comeuppance deals that much damage to the source's controller.
+mana={3}{W}
+type=Instant
+[/card]
+[card]
+name=Strata Scythe
+text=Imprint - When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library. -- Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card. -- Equip {3}
+mana={3}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Stitcher Geralf
+text={2}{U}, {T}: Each player puts the top three cards of his or her library into his or her graveyard. Exile up to two creature cards put into graveyards this way. Put an X/X blue Zombie creature token onto the battlefield, where X is the total power of the cards exiled this way.
+mana={3}{U}{U}
+type=Legendary Creature
+subtype=Human Wizard
+power=3
+toughness=4
+[/card]
+[card]
+name=Sphinx of Uthuun
+abilities=flying
+text=Flying -- When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+mana={5}{U}{U}
+type=Creature
+subtype=Sphinx
+power=5
+toughness=6
+[/card]
+[card]
+name=Ixidron
+text=As Ixidron enters the battlefield, turn all other nontoken creatures face down. (They're 2/2 creatures.) -- Ixidron's power and toughness are each equal to the number of face-down creatures on the battlefield.
+mana={3}{U}{U}
+type=Creature
+subtype=Illusion
+power=*
+toughness=*
+[/card]
+[card]
+name=Crown of Doom
+text=Whenever a creature attacks you or a planeswalker you control, it gets +2/+0 until end of turn. -- {2}: Target player other than Crown of Doom's owner gains control of it. Activate this ability only during your turn.
+mana={3}
+type=Artifact
+[/card]
+[card]
+name=Volcanic Offering
+text=Destroy target nonbasic land you don't control and target nonbasic land of an opponent's choice you don't control. -- Volcanic Offering deals 7 damage to target creature you don't control and 7 damage to target creature of an opponent's choice you don't control.
+mana={4}{R}
+type=Instant
+[/card]

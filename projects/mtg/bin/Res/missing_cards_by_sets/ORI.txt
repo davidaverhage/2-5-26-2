@@ -1,0 +1,66 @@
+[card]
+name=Psychic Rebuttal
+text=Counter target instant or sorcery spell that targets you. -- Spell mastery - If there are two or more instant and/or sorcery cards in your graveyard, you may copy the spell countered this way. You may choose new targets for the copy.
+mana={1}{U}
+type=Instant
+[/card]
+[card]
+name=Mizzium Meddler
+abilities=flash
+text=Flash (You may cast this spell any time you could cast an instant.) -- When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.
+mana={2}{U}
+type=Creature
+subtype=Vedalken Wizard
+power=1
+toughness=4
+[/card]
+[card]
+name=Talent of the Telepath
+text=Target opponent reveals the top seven cards of his or her library. You may cast an instant or sorcery card from among them without paying its mana cost. Then that player puts the rest into his or her graveyard. -- Spell mastery - If there are two or more instant and/or sorcery cards in your graveyard, you may cast up to two revealed instant and/or sorcery cards instead of one.
+mana={2}{U}{U}
+type=Sorcery
+[/card]
+[card]
+name=Throwing Knife
+text=Equipped creature gets +2/+0. -- Whenever equipped creature attacks, you may sacrifice Throwing Knife. If you do, Throwing Knife deals 2 damage to target creature or player. -- Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+mana={2}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Alhammarret, High Arbiter
+abilities=flying
+text=Flying -- As Alhammarret, High Arbiter enters the battlefield, each opponent reveals his or her hand. You choose the name of a nonland card revealed this way. -- Your opponents can't cast spells with the chosen name (as long as this creature is on the battlefield).
+mana={5}{U}{U}
+type=Legendary Creature
+subtype=Sphinx
+power=5
+toughness=5
+[/card]
+[card]
+name=The Great Aurora
+text=Each player shuffles all cards from his or her hand and all permanents he or she owns into his or her library, then draws that many cards. Each player may put any number of land cards from his or her hand onto the battlefield. Exile The Great Aurora.
+mana={6}{G}{G}{G}
+type=Sorcery
+[/card]
+[card]
+name=Demonic Pact
+text=At the beginning of your upkeep, choose one that hasn't been chosen -- Demonic Pact deals 4 damage to target creature or player and you gain 4 life. -- Target opponent discards two cards. -- Draw two cards. -- You lose the game.
+mana={2}{B}{B}
+type=Enchantment
+[/card]
+[card]
+name=Valeron Wardens
+text=Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.) -- Whenever a creature you control becomes renowned, draw a card.
+mana={2}{G}
+type=Creature
+subtype=Human Monk
+power=1
+toughness=3
+[/card]
+[card]
+name=Day's Undoing
+text=Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. If it's your turn, end the turn. (Exile all spells and abilities on the stack, including this card. Discard down to your maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
+mana={2}{U}
+type=Sorcery
+[/card]

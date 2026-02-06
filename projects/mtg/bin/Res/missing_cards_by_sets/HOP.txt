@@ -1,0 +1,18 @@
+[card]
+name=Razia, Boros Archangel
+text=Flying, vigilance, haste -- {T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.
+mana={4}{R}{R}{W}{W}
+type=Legendary Creature
+subtype=Angel
+power=6
+toughness=3
+[/card]
+[card]
+name=Menacing Ogre
+text=Trample, haste -- When Menacing Ogre enters the battlefield, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on Menacing Ogre.
+mana={3}{R}{R}
+type=Creature
+subtype=Ogre
+power=3
+toughness=3
+[/card]

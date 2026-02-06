@@ -1,0 +1,25 @@
+[card]
+name=Heroic Defiance
+text=Enchant creature -- Enchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.
+mana={1}{W}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Noxious Vapors
+text=Each player reveals his or her hand and chooses one card of each color from it, then discards all other nonland cards.
+mana={1}{B}{B}
+type=Sorcery
+[/card]
+[card]
+name=Keldon Twilight
+text=At the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.
+mana={1}{B}{R}
+type=Enchantment
+[/card]
+[card]
+name=Goblin Game
+text=Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.
+mana={5}{R}{R}
+type=Sorcery
+[/card]

@@ -1,0 +1,26 @@
+#NAME:Glen Elendra Archmage crash
+#DESC: Using Glen Elendra Archmage's "Fizzle"
+#DESC: ability crashes the game.
+#DESC: See http://code.google.com/p/wagic/issues/detail?id=222
+[INIT]
+firstmain
+[PLAYER1]
+hand:Honor of the pure
+manapool:{1}{W}
+[PLAYER2]
+inplay:Glen Elendra Archmage,Island
+[DO]
+Honor of the pure
+no
+yes
+Island
+Glen Elendra Archmage
+honor of the pure
+endinterruption
+[ASSERT]
+firstmain
+[PLAYER1]
+graveyard:honor of the pure
+[PLAYER2]
+inplay:Glen Elendra Archmage,Island
+[END]

@@ -1,0 +1,105 @@
+[card]
+name=Last Thoughts
+text=Draw a card. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={3}{U}
+type=Sorcery
+[/card]
+[card]
+name=Call of the Nightwing
+text=Put a 1/1 blue and black Horror creature token with flying onto the battlefield. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={2}{U}{B}
+type=Sorcery
+[/card]
+[card]
+name=Illusionist's Bracers
+text=Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy. -- Equip {3}
+mana={2}
+type=Artifact
+subtype=Equipment
+[/card]
+[card]
+name=Stolen Identity
+text=Put a token onto the battlefield that's a copy of target artifact or creature. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={4}{U}{U}
+type=Sorcery
+[/card]
+[card]
+name=Hands of Binding
+text=Tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={1}{U}
+type=Sorcery
+[/card]
+[card]
+name=Paranoid Delusions
+text=Target player puts the top three cards of his or her library into his or her graveyard. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={U}{B}
+type=Sorcery
+[/card]
+[card]
+name=Shadow Slice
+text=Target opponent loses 3 life. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={4}{B}
+type=Sorcery
+[/card]
+[card]
+name=Undercity Plague
+text=Target player loses 1 life, discards a card, then sacrifices a permanent. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={4}{B}{B}
+type=Sorcery
+[/card]
+[card]
+name=Soul Ransom
+text=Enchant creature -- You control enchanted creature. -- Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.
+mana={2}{U}{B}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Voidwalk
+text=Exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={3}{U}
+type=Sorcery
+[/card]
+[card]
+name=Lazav, Dimir Mastermind
+abilities=opponentshroud
+text=Hexproof -- Whenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card except its name is still Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it gains hexproof and this ability.
+mana={U}{U}{B}{B}
+type=Legendary Creature
+subtype=Shapeshifter
+power=3
+toughness=3
+[/card]
+[card]
+name=Signal the Clans
+text=Search your library for three creature cards and reveal them. If you reveal three cards with different names, choose one of them at random and put that card into your hand. Shuffle the rest into your library.
+mana={R}{G}
+type=Instant
+[/card]
+[card]
+name=Midnight Recovery
+text=Return target creature card from your graveyard to your hand. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={3}{B}
+type=Sorcery
+[/card]
+[card]
+name=Mental Vapors
+text=Target player discards a card. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={3}{B}
+type=Sorcery
+[/card]
+[card]
+name=Whispering Madness
+text=Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way. -- Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+mana={2}{U}{B}
+type=Sorcery
+[/card]
+[card]
+name=Vizkopa Confessor
+text=Extort (Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.) -- When Vizkopa Confessor enters the battlefield, pay any amount of life. Target opponent reveals that many cards from his or her hand. You choose one of them and exile it.
+mana={3}{W}{B}
+type=Creature
+subtype=Human Cleric
+power=1
+toughness=3
+[/card]

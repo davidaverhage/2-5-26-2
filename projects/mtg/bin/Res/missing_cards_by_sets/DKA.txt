@@ -1,0 +1,52 @@
+[card]
+name=Call to the Kindred
+text=Enchant creature -- At the beginning of your upkeep, you may look at the top five cards of your library. If you do, you may put a creature card that shares a creature type with enchanted creature from among them onto the battlefield, then you put the rest of those cards on the bottom of your library in any order.
+mana={3}{U}
+type=Enchantment
+subtype=Aura
+[/card]
+[card]
+name=Grafdigger's Cage
+text=Creature cards can't enter the battlefield from graveyards or libraries. -- Players can't cast cards in graveyards or libraries.
+mana={1}
+type=Artifact
+[/card]
+[card]
+name=Alpha Brawl
+text=Target creature an opponent controls deals damage equal to its power to each other creature that player controls, then each of those creatures deals damage equal to its power to that creature.
+mana={6}{R}{R}
+type=Sorcery
+[/card]
+[card]
+name=Lost in the Woods
+text=Whenever a creature attacks you or a planeswalker you control, reveal the top card of your library. If it's a Forest card, remove that creature from combat. Then put the revealed card on the bottom of your library.
+mana={3}{G}{G}
+type=Enchantment
+[/card]
+[card]
+name=Soul Seizer
+abilities=flying
+text=Flying -- When Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.
+mana={3}{U}{U}
+type=Creature
+subtype=Spirit
+power=1
+toughness=3
+[/card]
+[card]
+name=Havengul Lich
+text={1}: You may cast target creature card in a graveyard this turn. When you cast that card this turn, Havengul Lich gains all activated abilities of that card until end of turn.
+mana={3}{U}{B}
+type=Creature
+subtype=Zombie Wizard
+power=4
+toughness=4
+[/card]
+[card]
+name=Faith's Shield
+auto=this(controllerlife > 5) ability$! choice name(protection from white) target(*|myBattlefield) protection from white ueot _ choice name(protection from blue) target(*|myBattlefield) protection from blue ueot _ choice name(protection from black) target(*|myBattlefield) protection from black ueot _ choice name(protection from red) target(*|myBattlefield) protection from red ueot _ choice name(protection from green) target(*|myBattlefield) protection from green ueot !$ controller
+auto=this(controllerlife < 6) ability$! choice name(protection from white) all(*|myBattlefield) protection from white ueot _ choice name(protection from blue) all(*|myBattlefield) protection from blue ueot _ choice name(protection from black) all(*|myBattlefield) protection from black ueot _ choice name(protection from red) all(*|myBattlefield) protection from red ueot _ choice name(protection from green) all(*|myBattlefield) protection from green ueot !$ controller
+text=Target permanent you control gains protection from the color of your choice until end of turn. -- Fateful hour - If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn.
+mana={W}
+type=Instant
+[/card]

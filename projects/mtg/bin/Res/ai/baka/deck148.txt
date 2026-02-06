@@ -1,0 +1,24 @@
+#NAME:Kor Army
+#DESC:Deck by dr3amsnatcher
+#DESC:(tappedout.net). Refined
+#DESC:for Wagic by Bob
+Argentum Armor (*) * 2
+Armament Master (*) * 4
+Bladed Pinions (*) * 2
+Bone Saw (*) * 4
+Captain's Claws (*) * 4
+Cranial Plating (*) * 2
+Emeria, the Sky Ruin (*) * 1
+Kabira Crossroads (*) * 2
+Kitesail Apprentice (*) * 4
+Kor Duelist (*) * 4
+Oath of Gideon (*) * 2
+Plains (ZEN) (*) * 4
+Plains (BFZ) (*) * 4
+Plains (M19) (*) * 4
+Plains (ZNR) (*) * 4
+Plains (TMP) (*) * 2
+Stone Haven Outfitter (*) * 4
+Stone Haven Pilgrim (*) * 2
+Sword of Vengeance (*) * 3
+Zamriel, Seraph of Steel (*) * 2
