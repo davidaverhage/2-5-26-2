@@ -1,0 +1,32 @@
+# DigitalOcean App Platform specification
+# https://docs.digitalocean.com/products/app-platform/reference/app-spec/
+#
+# Deploy this repository as a Docker-based service.  The Dockerfile
+# installs VitaSDK, compiles Wagic for PS Vita, produces a .vpk file,
+# and then serves it over HTTP.
+#
+# To deploy:
+#   1. Push this repository to GitHub.
+#   2. In the DigitalOcean control panel choose Apps → Create App.
+#   3. Select the repository and branch.
+#   4. App Platform will detect .do/app.yaml and use it automatically.
+
+name: wagic-vpk-builder
+region: nyc
+
+services:
+  - name: wagic-vpk
+    github:
+      repo: <your-github-username>/<your-repo-name>
+      branch: main
+      deploy_on_push: true
+    dockerfile_path: Dockerfile
+    http_port: 8080
+    instance_count: 1
+    instance_size_slug: basic-s
+    health_check:
+      http_path: /health
+      initial_delay_seconds: 10
+      period_seconds: 30
+    routes:
+      - path: /
