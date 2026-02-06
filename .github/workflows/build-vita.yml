@@ -1,0 +1,56 @@
+name: Build Wagic for PS Vita
+
+on:
+  push:
+    branches: [ "**" ]
+  pull_request:
+    branches: [ "**" ]
+  workflow_dispatch:
+
+jobs:
+  build-vita:
+    runs-on: ubuntu-latest
+    container:
+      image: vitasdk/vitasdk:latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+        fetch-depth: 0
+    
+    - name: Install host dependencies
+      run: |
+        apt-get update
+        apt-get install -y git cmake ninja-build build-essential python3 zip imagemagick
+    
+    - name: Build VitaSDK dependencies
+      run: |
+        cd vita
+        ./build_deps.sh
+    
+    - name: Build Wagic
+      run: |
+        cd vita
+        ./build.sh
+    
+    - name: Package VPK
+      run: |
+        cd vita
+        ./package_vpk.sh
+    
+    - name: Upload VPK artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: Wagic-VPK
+        path: build-vita/Wagic.vpk
+        if-no-files-found: error
+    
+    - name: List build outputs
+      if: always()
+      run: |
+        echo "Build directory contents:"
+        ls -lah build-vita/ || echo "Build directory not found"
+        echo "VPK contents:"
+        unzip -l build-vita/Wagic.vpk || echo "VPK not found"
