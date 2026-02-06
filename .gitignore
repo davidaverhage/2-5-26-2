@@ -1,0 +1,25 @@
+# Build directories
+build-vita/
+*.elf
+*.velf
+*.self
+
+# VPK intermediate files
+vpk_root/
+
+# Temporary files
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
