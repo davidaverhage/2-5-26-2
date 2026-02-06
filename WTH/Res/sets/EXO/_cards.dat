@@ -1,0 +1,723 @@
+[meta]
+author=Wagic Team
+name=Exodus
+block=Tempest
+orderindex=EXP-F.EXO
+year=1998-06-15
+total=143
+[/meta]
+[card]
+primitive=Aether Tide
+id=6071
+rarity=C
+[/card]
+[card]
+primitive=Allay
+id=6036
+rarity=C
+[/card]
+[card]
+primitive=Anarchist
+id=6110
+rarity=C
+[/card]
+[card]
+primitive=Angelic Blessing
+id=6040
+rarity=C
+[/card]
+[card]
+primitive=Avenging Druid
+id=6137
+rarity=C
+[/card]
+[card]
+primitive=Bequeathal
+id=6147
+rarity=C
+[/card]
+[card]
+primitive=Carnophage
+id=6079
+rarity=C
+[/card]
+[card]
+primitive=Cartographer
+id=6144
+rarity=U
+[/card]
+[card]
+primitive=Cat Burglar
+id=6080
+rarity=C
+[/card]
+[card]
+primitive=Cataclysm
+id=6050
+rarity=R
+[/card]
+[card]
+primitive=Charging Paladin
+id=6035
+rarity=C
+[/card]
+[card]
+primitive=Cinder Crawler
+id=6105
+rarity=C
+[/card]
+[card]
+primitive=City of Traitors
+id=6168
+rarity=R
+[/card]
+[card]
+primitive=Coat of Arms
+id=6162
+rarity=R
+[/card]
+[card]
+primitive=Convalescence
+id=6051
+rarity=R
+[/card]
+[card]
+primitive=Crashing Boars
+id=6145
+rarity=U
+[/card]
+[card]
+primitive=Culling the Weak
+id=6085
+rarity=C
+[/card]
+[card]
+primitive=Cunning
+id=6062
+rarity=C
+[/card]
+[card]
+primitive=Curiosity
+id=6060
+rarity=U
+[/card]
+[card]
+primitive=Cursed Flesh
+id=6089
+rarity=C
+[/card]
+[card]
+primitive=Dauthi Cutthroat
+id=6091
+rarity=U
+[/card]
+[card]
+primitive=Dauthi Jackal
+id=6081
+rarity=C
+[/card]
+[card]
+primitive=Dauthi Warlord
+id=6094
+rarity=U
+[/card]
+[card]
+primitive=Death's Duet
+id=6087
+rarity=C
+[/card]
+[card]
+primitive=Dizzying Gaze
+id=6114
+rarity=C
+[/card]
+[card]
+primitive=Dominating Licid
+id=5139
+rarity=R
+[/card]
+[card]
+primitive=Elven Palisade
+id=6146
+rarity=U
+[/card]
+[card]
+primitive=Elvish Berserker
+id=6133
+rarity=C
+[/card]
+[card]
+primitive=Entropic Specter
+id=6099
+rarity=R
+[/card]
+[card]
+primitive=Ephemeron
+id=6073
+rarity=R
+[/card]
+[card]
+primitive=Equilibrium
+id=6075
+rarity=R
+[/card]
+[card]
+primitive=Erratic Portal
+id=6163
+rarity=R
+[/card]
+[card]
+primitive=Ertai, Wizard Adept
+id=5146
+rarity=R
+[/card]
+[card]
+primitive=Exalted Dragon
+id=6053
+rarity=R
+[/card]
+[card]
+primitive=Fade Away
+id=6061
+rarity=C
+[/card]
+[card]
+primitive=Fighting Chance
+id=5184
+rarity=R
+[/card]
+[card]
+primitive=Flowstone Flood
+id=6120
+rarity=U
+[/card]
+[card]
+primitive=Forbid
+id=5157
+rarity=U
+[/card]
+[card]
+primitive=Fugue
+id=5159
+rarity=U
+[/card]
+[card]
+primitive=Furnace Brood
+id=6107
+rarity=C
+[/card]
+[card]
+primitive=Grollub
+id=6083
+rarity=C
+[/card]
+[card]
+primitive=Hatred
+id=6104
+rarity=R
+[/card]
+[card]
+primitive=High Ground
+id=6169
+rarity=U
+[/card]
+[card]
+primitive=Jackalope Herd
+id=6138
+rarity=C
+[/card]
+[card]
+primitive=Keeper of the Beasts
+id=6142
+rarity=U
+[/card]
+[card]
+primitive=Keeper of the Dead
+id=6090
+rarity=U
+[/card]
+[card]
+primitive=Keeper of the Flame
+id=6116
+rarity=U
+[/card]
+[card]
+primitive=Keeper of the Light
+id=6041
+rarity=U
+[/card]
+[card]
+primitive=Keeper of the Mind
+id=6064
+rarity=U
+[/card]
+[card]
+primitive=Killer Whale
+id=6065
+rarity=U
+[/card]
+[card]
+primitive=Kor Chant
+id=6045
+rarity=C
+[/card]
+[card]
+primitive=Limited Resources
+id=6049
+rarity=R
+[/card]
+[card]
+primitive=Mage il-Vec
+id=6111
+rarity=C
+[/card]
+[card]
+primitive=Mana Breach
+id=6078
+rarity=U
+[/card]
+[card]
+primitive=Manabond
+id=6154
+rarity=R
+[/card]
+[card]
+primitive=Maniacal Rage
+id=6109
+rarity=C
+[/card]
+[card]
+primitive=Medicine Bag
+id=6165
+rarity=U
+[/card]
+[card]
+primitive=Memory Crystal
+id=6167
+rarity=R
+[/card]
+[card]
+primitive=Merfolk Looter
+id=6056
+rarity=C
+[/card]
+[card]
+primitive=Mind Maggots
+id=6093
+rarity=U
+[/card]
+[card]
+primitive=Mind Over Matter
+id=6076
+rarity=R
+[/card]
+[card]
+primitive=Mindless Automaton
+id=5171
+rarity=R
+[/card]
+[card]
+primitive=Mirozel
+id=5189
+rarity=U
+[/card]
+[card]
+primitive=Mirri, Cat Warrior
+id=6155
+rarity=R
+[/card]
+[card]
+primitive=Mogg Assassin
+id=6118
+rarity=U
+[/card]
+[card]
+primitive=Monstrous Hound
+id=6128
+rarity=R
+[/card]
+[card]
+primitive=Nausea
+id=6088
+rarity=C
+[/card]
+[card]
+primitive=Necrologia
+id=6095
+rarity=U
+[/card]
+[card]
+primitive=Null Brooch
+id=5176
+rarity=R
+[/card]
+[card]
+primitive=Oath of Druids
+id=6151
+rarity=R
+[/card]
+[card]
+primitive=Oath of Ghouls
+id=6098
+rarity=R
+[/card]
+[card]
+primitive=Oath of Lieges
+id=6048
+rarity=R
+[/card]
+[card]
+primitive=Oath of Mages
+id=6124
+rarity=R
+[/card]
+[card]
+primitive=Oath of Scholars
+id=6072
+rarity=R
+[/card]
+[card]
+primitive=Ogre Shaman
+id=6127
+rarity=R
+[/card]
+[card]
+primitive=Onslaught
+id=6115
+rarity=C
+[/card]
+[card]
+primitive=Paladin en-Vec
+id=5199
+rarity=R
+[/card]
+[card]
+primitive=Pandemonium
+id=6126
+rarity=R
+[/card]
+[card]
+primitive=Paroxysm
+id=6113
+rarity=U
+[/card]
+[card]
+primitive=Peace of Mind
+id=6039
+rarity=U
+[/card]
+[card]
+primitive=Pegasus Stampede
+id=6044
+rarity=U
+[/card]
+[card]
+primitive=Penance
+id=6047
+rarity=U
+[/card]
+[card]
+primitive=Pit Spawn
+id=5133
+rarity=R
+[/card]
+[card]
+primitive=Plaguebearer
+id=5200
+rarity=R
+[/card]
+[card]
+primitive=Plated Rootwalla
+id=5201
+rarity=C
+[/card]
+[card]
+primitive=Predatory Hunger
+id=6141
+rarity=C
+[/card]
+[card]
+primitive=Price of Progress
+id=6123
+rarity=U
+[/card]
+[card]
+primitive=Pygmy Troll
+id=6131
+rarity=C
+[/card]
+[card]
+primitive=Rabid Wolverines
+id=6134
+rarity=C
+[/card]
+[card]
+primitive=Raging Goblin
+id=6106
+rarity=C
+[/card]
+[card]
+primitive=Ravenous Baboons
+id=5207
+rarity=R
+[/card]
+[card]
+primitive=Reaping the Rewards
+id=6037
+rarity=C
+[/card]
+[card]
+primitive=Reckless Ogre
+id=6108
+rarity=C
+[/card]
+[card]
+primitive=Reclaim
+id=6139
+rarity=C
+[/card]
+[card]
+primitive=Reconnaissance
+id=6046
+rarity=U
+[/card]
+[card]
+primitive=Recurring Nightmare
+id=6103
+rarity=R
+[/card]
+[card]
+primitive=Resuscitate
+id=6140
+rarity=U
+[/card]
+[card]
+primitive=Robe of Mirrors
+id=6059
+rarity=C
+[/card]
+[card]
+primitive=Rootwater Alligator
+id=6136
+rarity=C
+[/card]
+[card]
+primitive=Rootwater Mystic
+id=6055
+rarity=C
+[/card]
+[card]
+primitive=Sabertooth Wyvern
+id=6129
+rarity=U
+[/card]
+[card]
+primitive=Scalding Salamander
+id=6117
+rarity=U
+[/card]
+[card]
+primitive=Scare Tactics
+id=6086
+rarity=C
+[/card]
+[card]
+primitive=School of Piranha
+id=6054
+rarity=C
+[/card]
+[card]
+primitive=Scrivener
+id=6067
+rarity=U
+[/card]
+[card]
+primitive=Seismic Assault
+id=6130
+rarity=R
+[/card]
+[card]
+primitive=Shackles
+id=6038
+rarity=C
+[/card]
+[card]
+primitive=Shattering Pulse
+id=5221
+rarity=C
+[/card]
+[card]
+primitive=Shield Mate
+id=6030
+rarity=C
+[/card]
+[card]
+primitive=Skyshaper
+id=5227
+rarity=U
+[/card]
+[card]
+primitive=Skyshroud Elite
+id=5229
+rarity=U
+[/card]
+[card]
+primitive=Skyshroud War Beast
+id=5231
+rarity=R
+[/card]
+[card]
+primitive=Slaughter
+id=6097
+rarity=U
+[/card]
+[card]
+primitive=Soltari Visionary
+id=6031
+rarity=C
+[/card]
+[card]
+primitive=Song of Serenity
+id=6149
+rarity=U
+[/card]
+[card]
+primitive=Sonic Burst
+id=6112
+rarity=C
+[/card]
+[card]
+primitive=Soul Warden
+id=6033
+rarity=C
+[/card]
+[card]
+primitive=Spellbook
+id=6158
+rarity=U
+[/card]
+[card]
+primitive=Spellshock
+id=6121
+rarity=U
+[/card]
+[card]
+primitive=Sphere of Resistance
+id=6160
+rarity=R
+[/card]
+[card]
+primitive=Spike Cannibal
+id=6092
+rarity=U
+[/card]
+[card]
+primitive=Spike Hatcher
+id=9842
+rarity=R
+[/card]
+[card]
+primitive=Spike Rogue
+id=6143
+rarity=U
+[/card]
+[card]
+primitive=Spike Weaver
+id=6152
+rarity=R
+[/card]
+[card]
+primitive=Standing Troops
+id=6032
+rarity=C
+[/card]
+[card]
+primitive=Survival of the Fittest
+id=6150
+rarity=R
+[/card]
+[card]
+primitive=Thalakos Drifters
+id=6068
+rarity=R
+[/card]
+[card]
+primitive=Thalakos Scout
+id=6058
+rarity=C
+[/card]
+[card]
+primitive=Theft of Dreams
+id=5254
+rarity=C
+[/card]
+[card]
+primitive=Thopter Squadron
+id=6164
+rarity=R
+[/card]
+[card]
+primitive=Thrull Surgeon
+id=6082
+rarity=C
+[/card]
+[card]
+primitive=Transmogrifying Licid
+id=6159
+rarity=U
+[/card]
+[card]
+primitive=Treasure Hunter
+id=6042
+rarity=U
+[/card]
+[card]
+primitive=Treasure Trove
+id=6070
+rarity=U
+[/card]
+[card]
+primitive=Vampire Hounds
+id=6084
+rarity=C
+[/card]
+[card]
+primitive=Volrath's Dungeon
+id=6100
+rarity=R
+[/card]
+[card]
+primitive=Wall of Nets
+id=6052
+rarity=R
+[/card]
+[card]
+primitive=Wayward Soul
+id=5273
+rarity=C
+[/card]
+[card]
+primitive=Welkin Hawk
+id=6034
+rarity=C
+[/card]
+[card]
+primitive=Whiptongue Frog
+id=6057
+rarity=C
+[/card]
+[card]
+primitive=Wood Elves
+id=6135
+rarity=C
+[/card]
+[card]
+primitive=Workhorse
+id=6156
+rarity=R
+[/card]
+[card]
+primitive=Zealots en-Dal
+id=6043
+rarity=U
+[/card]

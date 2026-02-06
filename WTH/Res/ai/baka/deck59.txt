@@ -1,0 +1,20 @@
+#NAME:Persistence
+#DESC:See your whole army
+#DESC:fall victim
+#DESC:to wrath and damnation
+#DESC:while we persist
+#DESC:and survive
+#DESC:to strike you
+#DESC:when you are defenseless.
+Wrath of God (RV)            * 4 #
+Damnation (PLC)              * 4 #
+Kitchen Finks (SHM)          * 4 #
+Safehold Elite (SHM)         * 4 #
+Lingering Tormentor (EVE)    * 3 #
+Kithkin Spellduster (EVE)    * 1 #
+Heartmender (SHM)            * 4 #
+Restless Apparition (EVE)    * 4 #
+Rendclaw Trow (EVE)          * 4 #
+Day of Judgment (ZEN)        * 4 #
+Swamp (ZEN)                  *11 #
+Plains (ZEN)                 *13 #

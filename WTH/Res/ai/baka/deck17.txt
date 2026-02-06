@@ -1,0 +1,24 @@
+#NAME:Faeries
+#DESC:Be warned, those are not butterflies!
+#DESC:Faeries love pranks and games
+#DESC:of deception 
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Briarberry Cohort (SHM) * 4
+Cloud Sprite (10E) * 4
+Control Magic (RV) * 4
+Faerie Swarm (SHM) * 2
+Glen Elendra Liege (SHM) * 4
+Island (10E) * 4
+Island (LRW) * 4
+Island (M10) * 4
+Island (RV) * 4
+Island (SHM) * 4
+Mahamoti Djinn (10E) * 2
+Oona's Gatewarden (SHM) * 4
+Persuasion (10E) * 2
+Plumeveil (SHM) * 4
+Scion of Oona (LRW) * 4
+Sentinels of Glen Elendra (LRW) * 2
+Wasp Lancer (SHM) * 4

@@ -1,0 +1,8 @@
+include mtg.txt
+[INIT]
+mode=mtg
+[PLAYER1]
+inplay:plains,forest,mountain,island,swamp
+hand:grizzly bears
+auto=@movedTo(creature|myinplay):wingame controller
+auto=@next combatbegins:wingame opponent

@@ -1,0 +1,858 @@
+[meta]
+author=Wagic Team
+name=Saviors of Kamigawa
+block=Kamigawa
+orderindex=EXP-Z1.SOK
+year=2005-06-03
+total=170
+[/meta]
+[card]
+primitive=Aether Shockwave
+id=74208
+rarity=U
+[/card]
+[card]
+primitive=Adamaro, First to Desire
+id=74187
+rarity=R
+[/card]
+[card]
+primitive=Akki Drillmaster
+id=74393
+rarity=C
+[/card]
+[card]
+primitive=Akki Underling
+id=79164
+rarity=C
+[/card]
+[card]
+primitive=Akuta, Born of Ash
+id=74148
+rarity=R
+[/card]
+[card]
+primitive=Araba Mothrider
+id=74050
+rarity=C
+[/card]
+[card]
+primitive=Arashi, the Sky Asunder
+id=87333
+rarity=R
+[/card]
+[card]
+primitive=Ashes of the Fallen
+id=87334
+rarity=R
+[/card]
+[card]
+primitive=Ayumi, the Last Visitor
+id=84370
+rarity=R
+[/card]
+[card]
+primitive=Barrel Down Sokenzan
+id=74201
+rarity=C
+[/card]
+[card]
+primitive=Blood Clock
+id=84709
+rarity=R
+[/card]
+[card]
+primitive=Bounteous Kirin
+id=78585
+rarity=R
+[/card]
+[card]
+primitive=Briarknit Kami
+id=74163
+rarity=U
+[/card]
+[card]
+primitive=Burning-Eye Zubera
+id=50234
+rarity=U
+[/card]
+[card]
+primitive=Captive Flame
+id=88810
+rarity=U
+[/card]
+[card]
+primitive=Celestial Kirin
+id=84380
+rarity=R
+[/card]
+[card]
+primitive=Charge Across the Araba
+id=74186
+rarity=U
+[/card]
+[card]
+primitive=Choice of Damnations
+id=88803
+rarity=R
+[/card]
+[card]
+primitive=Cloudhoof Kirin
+id=89399
+rarity=R
+[/card]
+[card]
+primitive=Cowed by Wisdom
+id=74132
+rarity=C
+[/card]
+[card]
+primitive=Curtain of Light
+id=87329
+rarity=C
+[/card]
+[card]
+primitive=Cut the Earthly Bond
+id=88786
+rarity=C
+[/card]
+[card]
+primitive=Death Denied
+id=87337
+rarity=C
+[/card]
+[card]
+primitive=Death of a Thousand Stings
+id=74202
+rarity=C
+[/card]
+[card]
+primitive=Deathknell Kami
+id=74003
+rarity=C
+[/card]
+[card]
+primitive=Deathmask Nezumi
+id=84703
+rarity=C
+[/card]
+[card]
+primitive=Dense Canopy
+id=88816
+rarity=U
+[/card]
+[card]
+primitive=Descendant of Kiyomaro
+id=89400
+rarity=U
+[/card]
+[card]
+primitive=Descendant of Masumaro
+id=74119
+rarity=U
+[/card]
+[card]
+primitive=Descendant of Soramaro
+id=84648
+rarity=C
+[/card]
+[card]
+primitive=Dosan's Oldest Chant
+id=87332
+rarity=C
+[/card]
+[card]
+primitive=Dreamcatcher
+id=73988
+rarity=C
+[/card]
+[card]
+primitive=Ebony Owl Netsuke
+id=88799
+rarity=U
+[/card]
+[card]
+primitive=Eiganjo Free-Riders
+id=74373
+rarity=U
+[/card]
+[card]
+primitive=Elder Pine of Jukai
+id=74204
+rarity=C
+[/card]
+[card]
+primitive=Endless Swarm
+id=87594
+rarity=R
+[/card]
+[card]
+primitive=Enduring Ideal
+id=87598
+rarity=R
+[/card]
+[card]
+primitive=Erayo, Soratami Ascendant
+id=87599
+rarity=R
+[/card]
+[card]
+primitive=Erayo's Essence
+id=8759911
+rarity=T
+[/card]
+[card]
+primitive=Eternal Dominion
+id=87593
+rarity=R
+[/card]
+[card]
+primitive=Evermind
+id=74144
+rarity=U
+[/card]
+[card]
+primitive=Exile into Darkness
+id=74399
+rarity=U
+[/card]
+[card]
+primitive=Feral Lightning
+id=84373
+rarity=U
+[/card]
+[card]
+primitive=Fiddlehead Kami
+id=74166
+rarity=C
+[/card]
+[card]
+primitive=Footsteps of the Goryo
+id=74400
+rarity=U
+[/card]
+[card]
+primitive=Freed from the Real
+id=87336
+rarity=C
+[/card]
+[card]
+primitive=Gaze of Adamaro
+id=89401
+rarity=U
+[/card]
+[card]
+primitive=Ghost-Lit Nourisher
+id=74068
+rarity=U
+[/card]
+[card]
+primitive=Ghost-Lit Raider
+id=87341
+rarity=U
+[/card]
+[card]
+primitive=Ghost-Lit Redeemer
+id=74082
+rarity=U
+[/card]
+[card]
+primitive=Ghost-Lit Stalker
+id=74401
+rarity=U
+[/card]
+[card]
+primitive=Ghost-Lit Warder
+id=73996
+rarity=U
+[/card]
+[card]
+primitive=Glitterfang
+id=89402
+rarity=C
+[/card]
+[card]
+primitive=Gnat Miser
+id=88794
+rarity=C
+[/card]
+[card]
+primitive=Godo's Irregulars
+id=74015
+rarity=U
+[/card]
+[card]
+primitive=Hail of Arrows
+id=74137
+rarity=U
+[/card]
+[card]
+primitive=Hand of Cruelty
+id=74063
+rarity=U
+[/card]
+[card]
+primitive=Hand of Honor
+id=74173
+rarity=U
+[/card]
+[card]
+primitive=Haru-Onna
+id=74062
+rarity=U
+[/card]
+[card]
+primitive=Hidetsugu's Second Rite
+id=88818
+rarity=R
+[/card]
+[card]
+primitive=Homura, Human Ascendant
+id=84716
+rarity=R
+[/card]
+[card]
+primitive=Homura's Essence
+id=8471611
+rarity=T
+[/card]
+[card]
+primitive=Ideas Unbound
+id=88789
+rarity=C
+[/card]
+[card]
+primitive=Iizuka the Ruthless
+id=79860
+rarity=R
+[/card]
+[card]
+primitive=Iname as One
+id=74618
+rarity=R
+[/card]
+[card]
+primitive=Infernal Kirin
+id=74377
+rarity=R
+[/card]
+[card]
+primitive=Inner Calm, Outer Strength
+id=74049
+rarity=C
+[/card]
+[card]
+primitive=Inner Fire
+id=84711
+rarity=C
+[/card]
+[card]
+primitive=Inner-Chamber Guard
+id=74002
+rarity=U
+[/card]
+[card]
+primitive=Into the Fray
+id=88813
+rarity=C
+[/card]
+[card]
+primitive=Ivory Crane Netsuke
+id=88796
+rarity=U
+[/card]
+[card]
+primitive=Jiwari, the Earth Aflame
+id=74047
+rarity=R
+[/card]
+[card]
+primitive=Kagemaro's Clutch
+id=74560
+rarity=C
+[/card]
+[card]
+primitive=Kagemaro, First to Suffer
+id=74016
+rarity=R
+[/card]
+[card]
+primitive=Kaho, Minamo Historian
+id=74055
+rarity=R
+[/card]
+[card]
+primitive=Kami of Empty Graves
+id=87335
+rarity=C
+[/card]
+[card]
+primitive=Kami of the Crescent Moon
+id=84364
+rarity=R
+[/card]
+[card]
+primitive=Kami of the Tended Garden
+id=74217
+rarity=U
+[/card]
+[card]
+primitive=Kashi-Tribe Elite
+id=74195
+rarity=U
+[/card]
+[card]
+primitive=Kataki, War's Wage
+id=74190
+rarity=R
+[/card]
+[card]
+primitive=Kemuri-Onna
+id=84705
+rarity=U
+[/card]
+[card]
+primitive=Kiku's Shadow
+id=74157
+rarity=U
+[/card]
+[card]
+primitive=Kiri-Onna
+id=84704
+rarity=U
+[/card]
+[card]
+primitive=Kitsune Bonesetter
+id=74046
+rarity=C
+[/card]
+[card]
+primitive=Kitsune Dawnblade
+id=80530
+rarity=C
+[/card]
+[card]
+primitive=Kitsune Loreweaver
+id=74213
+rarity=C
+[/card]
+[card]
+primitive=Kiyomaro, First to Stand
+id=74054
+rarity=R
+[/card]
+[card]
+primitive=Kuon, Ogre Ascendant
+id=87596
+rarity=R
+[/card]
+[card]
+primitive=Kuon's Essence
+id=8759611
+rarity=T
+[/card]
+[card]
+primitive=Kuro's Taken
+id=74065
+rarity=C
+[/card]
+[card]
+primitive=Locust Miser
+id=74394
+rarity=U
+[/card]
+[card]
+primitive=Maga, Traitor to Mortals
+id=88802
+rarity=R
+[/card]
+[card]
+primitive=Manriki-Gusari
+id=74158
+rarity=U
+[/card]
+[card]
+primitive=Masumaro, First to Live
+id=74184
+rarity=R
+[/card]
+[card]
+primitive=Matsu-Tribe Birdstalker
+id=73991
+rarity=C
+[/card]
+[card]
+primitive=Measure of Wickedness
+id=88821
+rarity=U
+[/card]
+[card]
+primitive=Meishin, the Mind Cage
+id=89406
+rarity=R
+[/card]
+[card]
+primitive=Michiko Konda, Truth Seeker
+id=84359
+rarity=R
+[/card]
+[card]
+primitive=Mikokoro, Center of the Sea
+id=74388
+rarity=R
+[/card]
+[card]
+primitive=Minamo Scrollkeeper
+id=88791
+rarity=C
+[/card]
+[card]
+primitive=Miren, the Moaning Well
+id=88807
+rarity=R
+[/card]
+[card]
+primitive=Molting Skin
+id=87331
+rarity=U
+[/card]
+[card]
+primitive=Moonbow Illusionist
+id=74198
+rarity=C
+[/card]
+[card]
+primitive=Moonwing Moth
+id=84643
+rarity=C
+[/card]
+[card]
+primitive=Murmurs from Beyond
+id=87330
+rarity=C
+[/card]
+[card]
+primitive=Neverending Torment
+id=87601
+rarity=R
+[/card]
+[card]
+primitive=Nightsoil Kami
+id=88815
+rarity=C
+[/card]
+[card]
+primitive=Nikko-Onna
+id=84639
+rarity=U
+[/card]
+[card]
+primitive=O-Naginata
+id=74146
+rarity=U
+[/card]
+[card]
+primitive=Oboro Breezecaller
+id=88784
+rarity=C
+[/card]
+[card]
+primitive=Oboro Envoy
+id=74211
+rarity=U
+[/card]
+[card]
+primitive=Oboro, Palace in the Clouds
+id=74206
+rarity=R
+[/card]
+[card]
+primitive=Okina Nightwatch
+id=74196
+rarity=C
+[/card]
+[card]
+primitive=One with Nothing
+id=88817
+rarity=R
+[/card]
+[card]
+primitive=Oni of Wild Places
+id=74048
+rarity=U
+[/card]
+[card]
+primitive=Oppressive Will
+id=74423
+rarity=C
+[/card]
+[card]
+primitive=Overwhelming Intellect
+id=89403
+rarity=U
+[/card]
+[card]
+primitive=Pain's Reward
+id=75340
+rarity=R
+[/card]
+[card]
+primitive=Path of Anger's Flame
+id=74179
+rarity=C
+[/card]
+[card]
+primitive=Pithing Needle
+id=74207
+rarity=R
+[/card]
+[card]
+primitive=Plow Through Reito
+id=89397
+rarity=C
+[/card]
+[card]
+primitive=Presence of the Wise
+id=74216
+rarity=U
+[/card]
+[card]
+primitive=Promise of Bunrei
+id=84376
+rarity=R
+[/card]
+[card]
+primitive=Promised Kannushi
+id=74018
+rarity=C
+[/card]
+[card]
+primitive=Pure Intentions
+id=88785
+rarity=R
+[/card]
+[card]
+primitive=Rally the Horde
+id=74411
+rarity=R
+[/card]
+[card]
+primitive=Raving Oni-Slave
+id=88787
+rarity=C
+[/card]
+[card]
+primitive=Razorjaw Oni
+id=74396
+rarity=U
+[/card]
+[card]
+primitive=Reki, the History of Kamigawa
+id=74604
+rarity=R
+[/card]
+[card]
+primitive=Rending Vines
+id=74189
+rarity=C
+[/card]
+[card]
+primitive=Reverence
+id=84371
+rarity=R
+[/card]
+[card]
+primitive=Ronin Cavekeeper
+id=74199
+rarity=C
+[/card]
+[card]
+primitive=Rune-Tail, Kitsune Ascendant
+id=87600
+rarity=R
+[/card]
+[card]
+primitive=Rune-Tail's Essence
+id=8760011
+rarity=T
+[/card]
+[card]
+primitive=Rushing-Tide Zubera
+id=50430
+rarity=U
+[/card]
+[card]
+primitive=Sakashima the Impostor
+id=74509
+rarity=R
+[/card]
+[card]
+primitive=Sakura-Tribe Scout
+id=74210
+rarity=C
+[/card]
+[card]
+primitive=Sasaya, Orochi Ascendant
+id=87595
+rarity=R
+[/card]
+[card]
+primitive=Sasaya's Essence
+id=8759511
+rarity=T
+[/card]
+[card]
+primitive=Scroll of Origins
+id=88811
+rarity=R
+[/card]
+[card]
+primitive=Secretkeeper
+id=89398
+rarity=U
+[/card]
+[card]
+primitive=Seed the Land
+id=74168
+rarity=R
+[/card]
+[card]
+primitive=Seek the Horizon
+id=74056
+rarity=U
+[/card]
+[card]
+primitive=Sekki, Seasons' Guide
+id=74471
+rarity=R
+[/card]
+[card]
+primitive=Shape Stealer
+id=88823
+rarity=U
+[/card]
+[card]
+primitive=Shifting Borders
+id=74191
+rarity=U
+[/card]
+[card]
+primitive=Shinen of Fear's Chill
+id=88812
+rarity=C
+[/card]
+[card]
+primitive=Shinen of Flight's Wings
+id=74088
+rarity=C
+[/card]
+[card]
+primitive=Shinen of Fury's Fire
+id=87339
+rarity=C
+[/card]
+[card]
+primitive=Shinen of Life's Roar
+id=74017
+rarity=C
+[/card]
+[card]
+primitive=Shinen of Stars' Light
+id=74361
+rarity=C
+[/card]
+[card]
+primitive=Sink into Takenuma
+id=84717
+rarity=C
+[/card]
+[card]
+primitive=Skull Collector
+id=88797
+rarity=U
+[/card]
+[card]
+primitive=Skyfire Kirin
+id=88793
+rarity=R
+[/card]
+[card]
+primitive=Sokenzan Renegade
+id=74133
+rarity=U
+[/card]
+[card]
+primitive=Sokenzan Spellblade
+id=74398
+rarity=C
+[/card]
+[card]
+primitive=Soramaro, First to Dream
+id=74170
+rarity=R
+[/card]
+[card]
+primitive=Soratami Cloud Chariot
+id=74174
+rarity=U
+[/card]
+[card]
+primitive=Spiraling Embers
+id=74503
+rarity=C
+[/card]
+[card]
+primitive=Spiritual Visit
+id=74372
+rarity=C
+[/card]
+[card]
+primitive=Stampeding Serow
+id=74407
+rarity=U
+[/card]
+[card]
+primitive=Sunder from Within
+id=88808
+rarity=U
+[/card]
+[card]
+primitive=Thoughts of Ruin
+id=74374
+rarity=R
+[/card]
+[card]
+primitive=Tomb of Urami
+id=74492
+rarity=R
+[/card]
+[card]
+primitive=Torii Watchward
+id=87342
+rarity=C
+[/card]
+[card]
+primitive=Trusted Advisor
+id=88804
+rarity=U
+[/card]
+[card]
+primitive=Twincast
+id=80412
+rarity=R
+[/card]
+[card]
+primitive=Undying Flames
+id=87602
+rarity=R
+[/card]
+[card]
+primitive=Wine of Blood and Iron
+id=74130
+rarity=R
+[/card]
+[card]
+primitive=Yuki-Onna
+id=84712
+rarity=U
+[/card]

@@ -1,0 +1,50 @@
+#NAME:Taiga
+#DESC:Beware the fires deep in
+#DESC:the boreal forest
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Cockatrice (RV) (*) * 2
+Craw Wurm (RV) (*) * 3
+Earth Elemental  (RV) (*) * 2
+Elvish Archers (RV) (*) * 2
+Firebreathing (RV) (*) * 1
+Fire Elemental (RV) (*) * 2
+Flashfires (RV) (*) * 2
+# RV Forests
+1386
+1386
+1386
+1386
+1387
+1387
+1387
+1387
+1388
+1388
+1388
+1388
+Giant Spider (RV) (*) * 2
+Goblin King (RV) (*) * 3
+Grizzly Bears (RV) (*) * 2
+Hill Giant (RV) (*) * 2
+Mons's Goblin Raiders (RV) (*) * 4 
+# RV Mountains
+1389
+1389
+1389
+1389
+1390
+1390
+1390
+1390
+1391
+1391
+1391
+1391
+Orcish Oriflamme (RV) (*) * 2
+Scryb Sprites (RV) (*) * 2
+Shanodin Dryads (RV) (*) * 2
+Tranquility (RV) (*) * 1
+Tsunami (RV) (*) * 1
+Wheel of Fortune (RV) (*) * 1

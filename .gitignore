@@ -1,0 +1,9 @@
+# Large source directories
+wagic-source/
+
+# Downloaded archives
+*.zip
+
+# Temporary files
+*.tmp
+*.temp

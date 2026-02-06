@@ -1,0 +1,19 @@
+#NAME:Budde's Ponza
+#DESC:Deck by Kai Budde, 2003
+Dwarven Blastminer *2
+Rorix Bladewing *2
+Siege-Gang Commander *3
+Hammer of Bogardan *2
+Lay Waste *4
+Molten Rain *4
+Pyrite Spellbomb *4
+Spark Spray *3
+Starstorm *4
+Stone Rain (8ED) *4
+Talisman of Impulse *4
+Mountain (8ED) *4
+Mountain (7ED) *4
+Mountain (MRD) *4
+Mountain (ONS) *4
+Mountain (ODY) *4
+Forgotten Cave (ONS) *4

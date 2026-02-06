@@ -1,0 +1,23 @@
+#NAME:Wilt-Leaf Liege
+#DESC:The Wilt-Leaf Wood is sickly,
+#DESC:but the Elven lords jealously
+#DESC:guard its remaining beauties. 
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Blanchwood Armor (10E) * 4
+Cylian Elf (ALA) * 4
+Dauntless Dourbark (LRW) * 2
+Elvish Archers (RV) * 4
+Elvish Champion (10E) * 4
+Forest (10E) * 4
+Forest (ALA) * 4
+Forest (LRW) * 4
+Forest (RV) * 4
+Forest (SHM) * 4
+Imperious Perfect (LRW) * 4
+Safehold Elite (SHM) * 4
+Twinblade Slasher (EVE) * 4
+Wildslayer Elves (SHM) * 2
+Wilt-Leaf Cavaliers (SHM) * 4
+Wilt-Leaf Liege (SHM) * 4

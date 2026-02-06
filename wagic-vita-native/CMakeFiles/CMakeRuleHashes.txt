@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+7ea9dc8ef25794dd52e0638afebac086 CMakeFiles/wagic-vita-velf
+4de7ff0bbaaccf7d097daf39381a701b CMakeFiles/wagic-vita.self-self
+4d3178944ed856fb8f2dc8dfe21bbdc5 CMakeFiles/wagic-vita.vpk-vpk
+59a92f1fcf61f40fa1049e8abb0b8a96 wagic-vita.self.out
+47449a44ed404792f55727e2f0dbf03c wagic-vita.vpk.out
+9ffa284f12ac6df865fa204c815050f7 wagic-vita.vpk_param.sfo

@@ -1,0 +1,27 @@
+#NAME:Spectral Rack
+#DESC:"We will clear your mind
+#DESC: until nothing is left.
+#DESC: And we will grow stronger
+#DESC: as you keep losing
+#DESC: your thoughts."
+# Land(s)
+Gargoyle Castle (M10) * 4
+Swamp (M21) * 19
+Volrath's Stronghold (TPR) * 1
+
+# Creature(s)
+Black Knight (M10) * 4
+Graveborn Muse (10E) * 4
+Hypnotic Specter (M10) * 4
+Nyxathid (CFX) * 4
+
+# Artifact(s)
+The Rack (DPA) * 4
+
+# Instant(s)
+Doom Blade (M10) * 4
+Last Gasp (RAV) * 4
+Tendrils of Corruption (TSP) * 4
+
+# Sorcery(s)
+Hymn to Tourach (V13) * 4

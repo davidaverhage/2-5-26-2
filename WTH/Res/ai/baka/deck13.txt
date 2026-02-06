@@ -1,0 +1,24 @@
+#NAME:Jungle
+#DESC:In the heart of the jungle
+#DESC:there are wild beasts
+#DESC:both cunning and fierce
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Forest (10E) * 2
+Forest (RV) * 4
+Kird Ape (RV) * 4
+Lightning Bolt (RV) * 4
+Mountain (10E) * 4
+Mountain (RAV) * 1
+Mountain (RV) * 4
+Plains (10E) * 4
+Plains (RAV) * 1
+Plains (RV) * 4
+Savannah Lions (RV) * 4
+Scryb Sprites (RV) * 4
+Spark Elemental (10E) * 4
+Swords to Plowshares (RV) * 4
+Tundra Wolves (10E) * 4
+Watchwolf (RAV) * 4
+Woolly Thoctar (ALA) * 4
