@@ -1,0 +1,16 @@
+# Wagic source clone (created at build time)
+wagic/
+
+# Build output directory
+wagic-build/
+
+# Downloaded archives
+Wagic-core.zip
+Wagic-windows.zip
+
+# Pre-built Windows release
+wagic-windows/
+
+# OS junk
+.DS_Store
+Thumbs.db
