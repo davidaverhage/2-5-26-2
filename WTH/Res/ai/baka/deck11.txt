@@ -1,0 +1,24 @@
+#NAME:Alliance
+#DESC:Order, honor and community
+#DESC:are preserved by the
+#DESC:noble warriors and the
+#DESC:towering castles of Bant
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Deft Duelist (ALA) * 4
+Elvish Archers (RV) * 4
+Forest (10E) * 4 
+Forest (ALA) * 3
+Island (10E) * 3
+Island (ALA) * 3
+Plains (10E) * 4
+Plains (ALA) * 3
+Rhox War Monk (ALA) * 4
+Savannah Lions (RV) * 4
+Scryb Sprites (RV) * 4
+Steward of Valeron (ALA) * 4
+Swords to Plowshares (RV) * 4
+Tundra Wolves (10E) * 4
+Unsummon (RV) * 4
+Waveskimmer Aven (ALA) * 4

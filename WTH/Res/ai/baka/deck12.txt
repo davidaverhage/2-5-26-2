@@ -1,0 +1,26 @@
+#NAME:Terror
+#DESC:'They groaned, they stirred, 
+#DESC:they all uprose,
+#DESC:Nor spake, nor moved their eyes;
+#DESC:It had been strange, 
+#DESC:even in a dream,
+#DESC:To have seen those dead men rise'
+#DESC:Samuel Taylor Coleridge
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Bad Moon (RV) * 4
+Black Knight (RV) * 4
+Black Vise (RV) * 4
+Bog Wraith (10E) * 4
+Hypnotic Specter (10E) * 4
+Severed Legion (10E) * 4
+Swamp (10E) * 4
+Swamp (4ED) * 4
+Swamp (9ED) * 4
+Swamp (M10) * 4
+Swamp (RV) * 4
+Terror (10E) * 4
+Unholy Strength (10E) * 4
+Will-o'-the-Wisp (RV) * 4
+Zombie Master (RV) * 4

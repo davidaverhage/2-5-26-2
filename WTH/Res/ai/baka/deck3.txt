@@ -1,0 +1,33 @@
+#NAME:Savannah
+#DESC:Beasts stalk their prey
+#DESC:among the tall grasses
+#DESC:
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Armageddon (VMA) * 1
+Black Vise (V10) * 2
+Builder's Blessing (AVR) * 2
+Cockatrice (TSB) * 2
+Craw Wurm (9ED) * 2
+Crusade (DDF) * 2
+Forest (8ED) * 4
+Forest (9ED) * 4
+Forest (MRD) * 1
+Forest (ONS) * 4
+Giant Spider (AKH) * 2
+Grizzly Bears (8ED) * 2
+Jukai Messenger (CHK) * 4
+Kessig Recluse (DKA) * 2
+Living Lands (ME4) * 1
+Plains (8ED) * 4
+Plains (9ED) * 1
+Plains (ONS) * 4
+Rhox Charger (ALA) * 1
+Ronom Unicorn (CSP) * 2
+Savannah Lions (A25) * 2
+Scute Mob (ZEN) * 3
+Serra Angel (M13) * 2
+Spitting Spider (8ED) * 2
+The Rack (DPA) * 2
+Wrath of God (8ED) * 2

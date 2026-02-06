@@ -1,0 +1,22 @@
+#NAME:Kithkin
+#DESC:Quick, agile and cooperative,
+#DESC:the Kithkin value community,
+#DESC:simplicity and honesty. 
+#DESC:
+#DESC:Win matches to unlock more
+#DESC:opponents, sets and game modes
+Armored Ascension (SHM) * 4
+Ballynock Cohort (SHM) * 4
+Cenn's Heir (LRW) * 4
+Field Marshal (10E) * 4
+Glorious Anthem (10E) * 4
+Goldmeadow Dodger (LRW) * 4
+Mobilization (10E) * 4
+Plains (10E) * 4
+Plains (9ED) * 4
+Plains (LRW) * 4
+Plains (M10) * 4
+Plains (SHM) * 4
+Thistledown Liege (SHM) * 4
+Wizened Cenn (LRW) * 4
+Zealous Guardian (SHM) * 4

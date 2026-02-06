@@ -1,0 +1,467 @@
+[meta]
+author=Wagic Team
+name=Arabian Nights
+orderindex=EXP-1.ARN
+year=1993-12-17
+total=92
+[/meta]
+[card]
+primitive=Abu Ja'far
+id=968
+rarity=U
+[/card]
+[card]
+primitive=Aladdin's Lamp
+id=900
+rarity=R
+[/card]
+[card]
+primitive=Aladdin's Ring
+id=901
+rarity=R
+[/card]
+[card]
+primitive=Aladdin
+id=955
+rarity=R
+[/card]
+[card]
+primitive=Ali Baba
+id=956
+rarity=U
+[/card]
+[card]
+primitive=Ali from Cairo
+id=957
+rarity=R
+[/card]
+[card]
+primitive=Army of Allah
+id=969
+rarity=C
+[/card]
+[card]
+primitive=Army of Allah
+id=970
+rarity=C
+[/card]
+[card]
+primitive=Bazaar of Baghdad
+id=984
+rarity=U
+[/card]
+[card]
+primitive=Bird Maiden
+id=958
+rarity=C
+[/card]
+[card]
+primitive=Bird Maiden
+id=959
+rarity=C
+[/card]
+[card]
+primitive=Bottle of Suleiman
+id=902
+rarity=R
+[/card]
+[card]
+primitive=Brass Man
+id=903
+rarity=U
+[/card]
+[card]
+primitive=Camel
+id=971
+rarity=C
+[/card]
+[card]
+primitive=City in a Bottle
+id=904
+rarity=R
+[/card]
+[card]
+primitive=City of Brass
+id=985
+rarity=U
+[/card]
+[card]
+primitive=Cuombajj Witches
+id=914
+rarity=C
+[/card]
+[card]
+primitive=Cyclone
+id=942
+rarity=U
+[/card]
+[card]
+primitive=Dancing Scimitar
+id=905
+rarity=R
+[/card]
+[card]
+primitive=Dandan
+id=929
+rarity=C
+[/card]
+[card]
+primitive=Desert Nomads
+id=960
+rarity=C
+[/card]
+[card]
+primitive=Desert Twister
+id=943
+rarity=U
+[/card]
+[card]
+primitive=Desert
+id=986
+rarity=C
+[/card]
+[card]
+primitive=Diamond Valley
+id=987
+rarity=U
+[/card]
+[card]
+primitive=Drop of Honey
+id=944
+rarity=R
+[/card]
+[card]
+primitive=Ebony Horse
+id=906
+rarity=R
+[/card]
+[card]
+primitive=El-Hajjaj
+id=915
+rarity=R
+[/card]
+[card]
+primitive=Elephant Graveyard
+id=988
+rarity=R
+[/card]
+[card]
+primitive=Erg Raiders
+id=916
+rarity=C
+[/card]
+[card]
+primitive=Erg Raiders
+id=917
+rarity=C
+[/card]
+[card]
+primitive=Erhnam Djinn
+id=945
+rarity=R
+[/card]
+[card]
+primitive=Eye for an Eye
+id=972
+rarity=U
+[/card]
+[card]
+primitive=Fishliver Oil
+id=930
+rarity=C
+[/card]
+[card]
+primitive=Fishliver Oil
+id=931
+rarity=C
+[/card]
+[card]
+primitive=Flying Carpet
+id=907
+rarity=U
+[/card]
+[card]
+primitive=Flying Men
+id=932
+rarity=C
+[/card]
+[card]
+primitive=Ghazban Ogre
+id=946
+rarity=C
+[/card]
+[card]
+primitive=Giant Tortoise
+id=933
+rarity=C
+[/card]
+[card]
+primitive=Giant Tortoise
+id=934
+rarity=C
+[/card]
+[card]
+primitive=Guardian Beast
+id=918
+rarity=R
+[/card]
+[card]
+primitive=Hasran Ogress
+id=919
+rarity=C
+[/card]
+[card]
+primitive=Hasran Ogress
+id=920
+rarity=C
+[/card]
+[card]
+primitive=Hurr Jackal
+id=961
+rarity=C
+[/card]
+[card]
+primitive=Ifh-Biff Efreet
+id=947
+rarity=R
+[/card]
+[card]
+primitive=Island Fish Jasconius
+id=935
+rarity=R
+[/card]
+[card]
+primitive=Island of Wak-Wak
+id=989
+rarity=R
+[/card]
+[card]
+primitive=Jandor's Ring
+id=908
+rarity=R
+[/card]
+[card]
+primitive=Jandor's Saddlebags
+id=909
+rarity=R
+[/card]
+[card]
+primitive=Jeweled Bird
+id=910
+rarity=U
+[/card]
+[card]
+primitive=Jihad
+id=973
+rarity=R
+[/card]
+[card]
+primitive=Junun Efreet
+id=921
+rarity=R
+[/card]
+[card]
+primitive=Juzam Djinn
+id=922
+rarity=R
+[/card]
+[card]
+primitive=Khabal Ghoul
+id=923
+rarity=U
+[/card]
+[card]
+primitive=King Suleiman
+id=974
+rarity=R
+[/card]
+[card]
+primitive=Kird Ape
+id=962
+rarity=C
+[/card]
+[card]
+primitive=Library of Alexandria
+id=990
+rarity=U
+[/card]
+[card]
+primitive=Magnetic Mountain
+id=963
+rarity=U
+[/card]
+[card]
+primitive=Merchant Ship
+id=936
+rarity=U
+[/card]
+[card]
+primitive=Metamorphosis
+id=948
+rarity=C
+[/card]
+[card]
+primitive=Mijae Djinn
+id=964
+rarity=R
+[/card]
+[card]
+primitive=Moorish Cavalry
+id=975
+rarity=C
+[/card]
+[card]
+primitive=Moorish Cavalry
+id=976
+rarity=C
+[/card]
+[card]
+primitive=Mountain
+id=983
+rarity=L
+[/card]
+[card]
+primitive=Nafs Asp
+id=949
+rarity=C
+[/card]
+[card]
+primitive=Nafs Asp
+id=950
+rarity=C
+[/card]
+[card]
+primitive=Oasis
+id=991
+rarity=U
+[/card]
+[card]
+primitive=Old Man of the Sea
+id=937
+rarity=R
+[/card]
+[card]
+primitive=Oubliette
+id=924
+rarity=C
+[/card]
+[card]
+primitive=Oubliette
+id=925
+rarity=C
+[/card]
+[card]
+primitive=Piety
+id=977
+rarity=C
+[/card]
+[card]
+primitive=Piety
+id=978
+rarity=C
+[/card]
+[card]
+primitive=Pyramids
+id=911
+rarity=R
+[/card]
+[card]
+primitive=Repentant Blacksmith
+id=979
+rarity=R
+[/card]
+[card]
+primitive=Ring of Ma'ruf
+id=912
+rarity=R
+[/card]
+[card]
+primitive=Rukh Egg
+id=965
+rarity=C
+[/card]
+[card]
+primitive=Rukh Egg
+id=966
+rarity=C
+[/card]
+[card]
+primitive=Sandals of Abdallah
+id=913
+rarity=U
+[/card]
+[card]
+primitive=Sandstorm
+id=951
+rarity=C
+[/card]
+[card]
+primitive=Serendib Djinn
+id=938
+rarity=R
+[/card]
+[card]
+primitive=Serendib Efreet
+id=939
+rarity=R
+[/card]
+[card]
+primitive=Shahrazad
+id=980
+rarity=R
+[/card]
+[card]
+primitive=Sindbad
+id=940
+rarity=U
+[/card]
+[card]
+primitive=Singing Tree
+id=952
+rarity=R
+[/card]
+[card]
+primitive=Sorceress Queen
+id=926
+rarity=U
+[/card]
+[card]
+primitive=Stone-Throwing Devils
+id=927
+rarity=C
+[/card]
+[card]
+primitive=Stone-Throwing Devils
+id=928
+rarity=C
+[/card]
+[card]
+primitive=Unstable Mutation
+id=941
+rarity=C
+[/card]
+[card]
+primitive=War Elephant
+id=981
+rarity=C
+[/card]
+[card]
+primitive=War Elephant
+id=982
+rarity=C
+[/card]
+[card]
+primitive=Wyluli Wolf
+id=953
+rarity=C
+[/card]
+[card]
+primitive=Wyluli Wolf
+id=954
+rarity=C
+[/card]
+[card]
+primitive=Ydwen Efreet
+id=967
+rarity=R
+[/card]

@@ -1,0 +1,907 @@
+[meta]
+author=Wagic Team
+name=Portal Three Kingdoms
+orderindex=BEG-3.PTK
+year=1999-07-06
+total=180
+[/meta]
+[card]
+primitive=Alert Shu Infantry
+id=10487
+rarity=U
+[/card]
+[card]
+primitive=Ambition's Cost
+id=10493
+rarity=R
+[/card]
+[card]
+primitive=Balance of Power
+id=10580
+rarity=R
+[/card]
+[card]
+primitive=Barbarian General
+id=10574
+rarity=U
+[/card]
+[card]
+primitive=Barbarian Horde
+id=10578
+rarity=C
+[/card]
+[card]
+primitive=Blaze
+id=10507
+rarity=U
+[/card]
+[card]
+primitive=Borrowing 100,000 Arrows
+id=10620
+rarity=U
+[/card]
+[card]
+primitive=Borrowing the East Wind
+id=10549
+rarity=R
+[/card]
+[card]
+primitive=Brilliant Plan
+id=10623
+rarity=U
+[/card]
+[card]
+primitive=Broken Dam
+id=10621
+rarity=C
+[/card]
+[card]
+primitive=Burning Fields
+id=10555
+rarity=C
+[/card]
+[card]
+primitive=Burning of Xinye
+id=10637
+rarity=R
+[/card]
+[card]
+primitive=Cao Cao, Lord of Wei
+id=10548
+rarity=R
+[/card]
+[card]
+primitive=Cao Ren, Wei Commander
+id=10712
+rarity=R
+[/card]
+[card]
+primitive=Capture of Jingzhou
+id=10619
+rarity=R
+[/card]
+[card]
+primitive=Champion's Victory
+id=10593
+rarity=U
+[/card]
+[card]
+primitive=Coercion
+id=10514
+rarity=U
+[/card]
+[card]
+primitive=Control of the Court
+id=10538
+rarity=U
+[/card]
+[card]
+primitive=Corrupt Court Official
+id=10595
+rarity=U
+[/card]
+[card]
+primitive=Corrupt Eunuchs
+id=10734
+rarity=U
+[/card]
+[card]
+primitive=Council of Advisors
+id=10601
+rarity=U
+[/card]
+[card]
+primitive=Counterintelligence
+id=10628
+rarity=U
+[/card]
+[card]
+primitive=Cunning Advisor
+id=10533
+rarity=U
+[/card]
+[card]
+primitive=Deception
+id=10560
+rarity=C
+[/card]
+[card]
+primitive=Desert Sandstorm
+id=10626
+rarity=C
+[/card]
+[card]
+primitive=Desperate Charge
+id=10512
+rarity=U
+[/card]
+[card]
+primitive=Diaochan, Artful Beauty
+id=10544
+rarity=R
+[/card]
+[card]
+primitive=Dong Zhou, the Tyrant
+id=10730
+rarity=R
+[/card]
+[card]
+primitive=Eightfold Maze
+id=10553
+rarity=R
+[/card]
+[card]
+primitive=Empty City Ruse
+id=10504
+rarity=U
+[/card]
+[card]
+primitive=Eunuchs' Intrigues
+id=10543
+rarity=U
+[/card]
+[card]
+primitive=Exhaustion
+id=10527
+rarity=R
+[/card]
+[card]
+primitive=Extinguish
+id=10528
+rarity=C
+[/card]
+[card]
+primitive=False Defeat
+id=10509
+rarity=C
+[/card]
+[card]
+primitive=False Mourning
+id=10599
+rarity=U
+[/card]
+[card]
+primitive=Famine
+id=10518
+rarity=U
+[/card]
+[card]
+primitive=Fire Ambush
+id=10632
+rarity=C
+[/card]
+[card]
+primitive=Fire Bowman
+id=10535
+rarity=U
+[/card]
+[card]
+primitive=Flanking Troops
+id=10486
+rarity=U
+[/card]
+[card]
+primitive=Forced Retreat
+id=10622
+rarity=C
+[/card]
+[card]
+primitive=Forest Bear
+id=10505
+rarity=C
+[/card]
+[card]
+primitive=Forest
+id=10532
+rarity=L
+[/card]
+[card]
+primitive=Forest
+id=10639
+rarity=L
+[/card]
+[card]
+primitive=Forest
+id=10640
+rarity=L
+[/card]
+[card]
+primitive=Ghostly Visit
+id=10546
+rarity=C
+[/card]
+[card]
+primitive=Guan Yu's 1,000-Li March
+id=10597
+rarity=R
+[/card]
+[card]
+primitive=Guan Yu, Sainted Warrior
+id=10494
+rarity=R
+[/card]
+[card]
+primitive=Heavy Fog
+id=10523
+rarity=U
+[/card]
+[card]
+primitive=Hua Tuo, Honored Physician
+id=10570
+rarity=R
+[/card]
+[card]
+primitive=Huang Zhong, Shu General
+id=10714
+rarity=R
+[/card]
+[card]
+primitive=Hunting Cheetah
+id=10572
+rarity=U
+[/card]
+[card]
+primitive=Imperial Edict
+id=10515
+rarity=C
+[/card]
+[card]
+primitive=Imperial Recruiter
+id=10539
+rarity=U
+[/card]
+[card]
+primitive=Imperial Seal
+id=10728
+rarity=R
+[/card]
+[card]
+primitive=Independent Troops
+id=10541
+rarity=C
+[/card]
+[card]
+primitive=Island
+id=10551
+rarity=L
+[/card]
+[card]
+primitive=Island
+id=10641
+rarity=L
+[/card]
+[card]
+primitive=Island
+id=10642
+rarity=L
+[/card]
+[card]
+primitive=Kongming's Contraptions
+id=10495
+rarity=R
+[/card]
+[card]
+primitive=Kongming, "Sleeping Dragon"
+id=10490
+rarity=R
+[/card]
+[card]
+primitive=Lady Sun
+id=10721
+rarity=R
+[/card]
+[card]
+primitive=Lady Zhurong, Warrior Queen
+id=10609
+rarity=R
+[/card]
+[card]
+primitive=Liu Bei, Lord of Shu
+id=10499
+rarity=R
+[/card]
+[card]
+primitive=Lone Wolf
+id=10556
+rarity=U
+[/card]
+[card]
+primitive=Loyal Retainers
+id=10491
+rarity=U
+[/card]
+[card]
+primitive=Lu Bu, Master-at-Arms
+id=10536
+rarity=R
+[/card]
+[card]
+primitive=Lu Meng, Wu General
+id=10710
+rarity=R
+[/card]
+[card]
+primitive=Lu Su, Wu Advisor
+id=10614
+rarity=R
+[/card]
+[card]
+primitive=Lu Xun, Scholar General
+id=10616
+rarity=R
+[/card]
+[card]
+primitive=Ma Chao, Western Warrior
+id=10729
+rarity=R
+[/card]
+[card]
+primitive=Marshaling the Troops
+id=10547
+rarity=R
+[/card]
+[card]
+primitive=Meng Huo's Horde
+id=10503
+rarity=C
+[/card]
+[card]
+primitive=Meng Huo, Barbarian King
+id=10732
+rarity=R
+[/card]
+[card]
+primitive=Misfortune's Gain
+id=10579
+rarity=C
+[/card]
+[card]
+primitive=Mountain Bandit
+id=10585
+rarity=C
+[/card]
+[card]
+primitive=Mountain
+id=10563
+rarity=L
+[/card]
+[card]
+primitive=Mountain
+id=10643
+rarity=L
+[/card]
+[card]
+primitive=Mountain
+id=10644
+rarity=L
+[/card]
+[card]
+primitive=Mystic Denial
+id=10565
+rarity=U
+[/card]
+[card]
+primitive=Overwhelming Forces
+id=10521
+rarity=R
+[/card]
+[card]
+primitive=Pang Tong, "Young Phoenix"
+id=10713
+rarity=R
+[/card]
+[card]
+primitive=Peach Garden Oath
+id=10531
+rarity=U
+[/card]
+[card]
+primitive=Plains
+id=10581
+rarity=L
+[/card]
+[card]
+primitive=Plains
+id=10645
+rarity=L
+[/card]
+[card]
+primitive=Plains
+id=10646
+rarity=L
+[/card]
+[card]
+primitive=Poison Arrow
+id=10587
+rarity=U
+[/card]
+[card]
+primitive=Preemptive Strike
+id=10530
+rarity=C
+[/card]
+[card]
+primitive=Rally the Troops
+id=10589
+rarity=U
+[/card]
+[card]
+primitive=Ravages of War
+id=10500
+rarity=R
+[/card]
+[card]
+primitive=Ravaging Horde
+id=13805
+rarity=U
+[/card]
+[card]
+primitive=Red Cliffs Armada
+id=10501
+rarity=U
+[/card]
+[card]
+primitive=Relentless Assault
+id=10592
+rarity=R
+[/card]
+[card]
+primitive=Renegade Troops
+id=10576
+rarity=U
+[/card]
+[card]
+primitive=Return to Battle
+id=10588
+rarity=C
+[/card]
+[card]
+primitive=Riding Red Hare
+id=10496
+rarity=C
+[/card]
+[card]
+primitive=Riding the Dilu Horse
+id=10731
+rarity=R
+[/card]
+[card]
+primitive=Rockslide Ambush
+id=10603
+rarity=U
+[/card]
+[card]
+primitive=Rolling Earthquake
+id=10526
+rarity=R
+[/card]
+[card]
+primitive=Sage's Knowledge
+id=10524
+rarity=C
+[/card]
+[card]
+primitive=Shu Cavalry
+id=10635
+rarity=C
+[/card]
+[card]
+primitive=Shu Defender
+id=10624
+rarity=C
+[/card]
+[card]
+primitive=Shu Elite Companions
+id=10497
+rarity=U
+[/card]
+[card]
+primitive=Shu Elite Infantry
+id=10627
+rarity=C
+[/card]
+[card]
+primitive=Shu Farmer
+id=10618
+rarity=C
+[/card]
+[card]
+primitive=Shu Foot Soldiers
+id=10489
+rarity=C
+[/card]
+[card]
+primitive=Shu General
+id=10502
+rarity=U
+[/card]
+[card]
+primitive=Shu Grain Caravan
+id=10617
+rarity=C
+[/card]
+[card]
+primitive=Shu Soldier-Farmers
+id=10488
+rarity=U
+[/card]
+[card]
+primitive=Sima Yi, Wei Field Marshal
+id=10630
+rarity=R
+[/card]
+[card]
+primitive=Slashing Tiger
+id=10591
+rarity=R
+[/card]
+[card]
+primitive=Southern Elephant
+id=10545
+rarity=C
+[/card]
+[card]
+primitive=Spoils of Victory
+id=10629
+rarity=U
+[/card]
+[card]
+primitive=Spring of Eternal Peace
+id=10566
+rarity=C
+[/card]
+[card]
+primitive=Stalking Tiger
+id=10550
+rarity=C
+[/card]
+[card]
+primitive=Stolen Grain
+id=10554
+rarity=U
+[/card]
+[card]
+primitive=Stone Catapult
+id=10508
+rarity=R
+[/card]
+[card]
+primitive=Stone Rain
+id=10606
+rarity=C
+[/card]
+[card]
+primitive=Strategic Planning
+id=10602
+rarity=U
+[/card]
+[card]
+primitive=Straw Soldiers
+id=10613
+rarity=C
+[/card]
+[card]
+primitive=Sun Ce, Young Conquerer
+id=10709
+rarity=R
+[/card]
+[card]
+primitive=Sun Quan, Lord of Wu
+id=10513
+rarity=R
+[/card]
+[card]
+primitive=Swamp
+id=10607
+rarity=L
+[/card]
+[card]
+primitive=Swamp
+id=10647
+rarity=L
+[/card]
+[card]
+primitive=Swamp
+id=10648
+rarity=L
+[/card]
+[card]
+primitive=Taoist Hermit
+id=10569
+rarity=U
+[/card]
+[card]
+primitive=Taoist Mystic
+id=10733
+rarity=R
+[/card]
+[card]
+primitive=Taunting Challenge
+id=10492
+rarity=R
+[/card]
+[card]
+primitive=Three Visits
+id=10567
+rarity=C
+[/card]
+[card]
+primitive=Trained Cheetah
+id=10573
+rarity=U
+[/card]
+[card]
+primitive=Trained Jackal
+id=10571
+rarity=C
+[/card]
+[card]
+primitive=Trip Wire
+id=10625
+rarity=U
+[/card]
+[card]
+primitive=Vengeance
+id=10631
+rarity=U
+[/card]
+[card]
+primitive=Virtuous Charge
+id=10596
+rarity=C
+[/card]
+[card]
+primitive=Volunteer Militia
+id=10483
+rarity=C
+[/card]
+[card]
+primitive=Warrior's Oath
+id=10552
+rarity=R
+[/card]
+[card]
+primitive=Warrior's Stand
+id=10633
+rarity=U
+[/card]
+[card]
+primitive=Wei Ambush Force
+id=10557
+rarity=C
+[/card]
+[card]
+primitive=Wei Assassins
+id=10583
+rarity=U
+[/card]
+[card]
+primitive=Wei Elite Companions
+id=10511
+rarity=U
+[/card]
+[card]
+primitive=Wei Infantry
+id=10519
+rarity=C
+[/card]
+[card]
+primitive=Wei Night Raiders
+id=10484
+rarity=U
+[/card]
+[card]
+primitive=Wei Scout
+id=10517
+rarity=C
+[/card]
+[card]
+primitive=Wei Strike Force
+id=10561
+rarity=C
+[/card]
+[card]
+primitive=Wielding the Green Dragon
+id=10562
+rarity=C
+[/card]
+[card]
+primitive=Wolf Pack
+id=10522
+rarity=R
+[/card]
+[card]
+primitive=Wu Admiral
+id=10485
+rarity=U
+[/card]
+[card]
+primitive=Wu Elite Cavalry
+id=10611
+rarity=C
+[/card]
+[card]
+primitive=Wu Infantry
+id=10600
+rarity=C
+[/card]
+[card]
+primitive=Wu Light Cavalry
+id=10615
+rarity=C
+[/card]
+[card]
+primitive=Wu Longbowman
+id=10498
+rarity=U
+[/card]
+[card]
+primitive=Wu Scout
+id=10612
+rarity=C
+[/card]
+[card]
+primitive=Wu Spy
+id=10529
+rarity=U
+[/card]
+[card]
+primitive=Wu Warship
+id=10605
+rarity=C
+[/card]
+[card]
+primitive=Xiahou Dun, the One-Eyed
+id=10590
+rarity=R
+[/card]
+[card]
+primitive=Xun Yu, Wei Advisor
+id=13831
+rarity=R
+[/card]
+[card]
+primitive=Yellow Scarves Cavalry
+id=10537
+rarity=C
+[/card]
+[card]
+primitive=Yellow Scarves General
+id=10577
+rarity=R
+[/card]
+[card]
+primitive=Yellow Scarves Troops
+id=10542
+rarity=C
+[/card]
+[card]
+primitive=Young Wei Recruits
+id=10584
+rarity=C
+[/card]
+[card]
+primitive=Yuan Shao's Infantry
+id=10559
+rarity=U
+[/card]
+[card]
+primitive=Yuan Shao, the Indecisive
+id=10516
+rarity=R
+[/card]
+[card]
+primitive=Zhang Fei, Fierce Warrior
+id=10604
+rarity=R
+[/card]
+[card]
+primitive=Zhang He, Wei General
+id=10520
+rarity=R
+[/card]
+[card]
+primitive=Zhang Liao, Hero of Hefei
+id=10727
+rarity=R
+[/card]
+[card]
+primitive=Zhao Zilong, Tiger General
+id=10686
+rarity=R
+[/card]
+[card]
+primitive=Zhou Yu, Chief Commander
+id=10525
+rarity=R
+[/card]
+[card]
+primitive=Zhuge Jin, Wu Strategist
+id=10711
+rarity=R
+[/card]
+[card]
+primitive=Zodiac Dog
+id=10534
+rarity=C
+[/card]
+[card]
+primitive=Zodiac Dragon
+id=10510
+rarity=R
+[/card]
+[card]
+primitive=Zodiac Goat
+id=10540
+rarity=C
+[/card]
+[card]
+primitive=Zodiac Horse
+id=10598
+rarity=U
+[/card]
+[card]
+primitive=Zodiac Monkey
+id=10558
+rarity=C
+[/card]
+[card]
+primitive=Zodiac Ox
+id=10636
+rarity=U
+[/card]
+[card]
+primitive=Zodiac Pig
+id=10586
+rarity=U
+[/card]
+[card]
+primitive=Zodiac Rabbit
+id=10582
+rarity=C
+[/card]
+[card]
+primitive=Zodiac Rat
+id=10564
+rarity=C
+[/card]
+[card]
+primitive=Zodiac Rooster
+id=10506
+rarity=C
+[/card]
+[card]
+primitive=Zodiac Snake
+id=10608
+rarity=C
+[/card]
+[card]
+primitive=Zodiac Tiger
+id=10594
+rarity=U
+[/card]
+[card]
+primitive=Zuo Ci, the Mocking Sage
+id=10610
+rarity=R
+[/card]

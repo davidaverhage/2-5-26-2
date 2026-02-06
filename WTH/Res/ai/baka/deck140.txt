@@ -1,0 +1,28 @@
+#NAME:Wipe Them Out!
+#DESC:Modern RBW Control
+#HINT:castpriority(creature,enchantment,sorcery,artifact)
+#HINT:combo hold(Cruel Edict|myhand)^until(creature|opponentbattlefield)^cast(Cruel Edict|myhand)^totalmananeeded({1}{B})
+#HINT:combo hold(Pyroclasm|myhand)^cast(Pyroclasm|myhand)^restriction{type(creature[toughness<=2]|opponentbattlefield)~morethan~1}~totalmananeeded({1}{R})
+#HINT:combo hold(Wrath of God|myhand)^cast(Wrath of God|myhand)^restriction{type(creature|opponentbattlefield)~morethan~1}^totalmananeeded({2}{W}{W})
+#HINT:combo hold(Damnation|myhand)^cast(Damnation|myhand)^restriction{type(creature|opponentbattlefield)~morethan~1}^totalmananeeded({2}{B}{B})
+#HINT:alwaysattackwith(Blightsteel Colossus)
+Blightsteel Colossus * 2
+Cruel Edict (10E) * 4
+Pyroclasm *4
+Damnation * 4
+Wrath of God (10E) * 4
+Black Sun's Zenith * 2
+Rakdos's Return * 2
+Elixir of Immortality * 2
+Staff of Nin * 4
+Venser's Journal * 2
+Lightmine Field * 4
+Plateau (ME4) * 4
+Badlands (ME4) * 4
+Scrubland (ME4) * 4
+Akoum Refuge * 4
+Isolated Chapel * 4
+Clifftop Retreat * 2
+Urborg, Tomb of Yawgmoth * 1
+Plains (CHK) * 2
+Swamp (RTR) * 1

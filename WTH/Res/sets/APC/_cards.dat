@@ -1,0 +1,723 @@
+[meta]
+author=Wagic Team
+name=Apocalypse
+block=Invasion
+orderindex=EXP-O.APC
+year=2001-06-04
+total=143
+[/meta]
+[card]
+primitive=Aether Mutation
+id=28669
+rarity=U
+[/card]
+[card]
+primitive=Ana Disciple
+id=25856
+rarity=C
+[/card]
+[card]
+primitive=Ana Sanctuary
+id=26830
+rarity=U
+[/card]
+[card]
+primitive=Anavolver
+id=25951
+rarity=R
+[/card]
+[card]
+primitive=Angelfire Crusader
+id=21253
+rarity=C
+[/card]
+[card]
+primitive=Battlefield Forge
+id=23247
+rarity=R
+[/card]
+[card]
+primitive=Bloodfire Colossus
+id=28807
+rarity=R
+[/card]
+[card]
+primitive=Bloodfire Dwarf
+id=26806
+rarity=C
+[/card]
+[card]
+primitive=Bloodfire Infusion
+id=29303
+rarity=C
+[/card]
+[card]
+primitive=Bloodfire Kavu
+id=28806
+rarity=U
+[/card]
+[card]
+primitive=Bog Gnarr
+id=27153
+rarity=C
+[/card]
+[card]
+primitive=Brass Herald
+id=27761
+rarity=U
+[/card]
+[card]
+primitive=Captain's Maneuver
+id=25828
+rarity=U
+[/card]
+[card]
+primitive=Caves of Koilos
+id=23246
+rarity=R
+[/card]
+[card]
+primitive=Ceta Disciple
+id=25853
+rarity=C
+[/card]
+[card]
+primitive=Ceta Sanctuary
+id=27173
+rarity=U
+[/card]
+[card]
+primitive=Cetavolver
+id=25948
+rarity=R
+[/card]
+[card]
+primitive=Coalition Flag
+id=26791
+rarity=U
+[/card]
+[card]
+primitive=Coalition Honor Guard
+id=26371
+rarity=C
+[/card]
+[card]
+primitive=Coastal Drake
+id=28754
+rarity=C
+[/card]
+[card]
+primitive=Consume Strength
+id=19163
+rarity=C
+[/card]
+[card]
+primitive=Cromat
+id=28670
+rarity=R
+[/card]
+[card]
+primitive=Dead Ringers
+id=26848
+rarity=C
+[/card]
+[card]
+primitive=Death Grasp
+id=29415
+rarity=R
+[/card]
+[card]
+primitive=Death Mutation
+id=25833
+rarity=U
+[/card]
+[card]
+primitive=Dega Disciple
+id=25852
+rarity=C
+[/card]
+[card]
+primitive=Dega Sanctuary
+id=27178
+rarity=U
+[/card]
+[card]
+primitive=Degavolver
+id=25947
+rarity=R
+[/card]
+[card]
+primitive=Desolation Angel
+id=26259
+rarity=R
+[/card]
+[card]
+primitive=Desolation Giant
+id=29414
+rarity=R
+[/card]
+[card]
+primitive=Diversionary Tactics
+id=28810
+rarity=U
+[/card]
+[card]
+primitive=Divine Light
+id=27137
+rarity=C
+[/card]
+[card]
+primitive=Dodecapod
+id=26733
+rarity=U
+[/card]
+[card]
+primitive=Dragon Arch
+id=26734
+rarity=U
+[/card]
+[card]
+primitive=Dwarven Landslide
+id=26810
+rarity=C
+[/card]
+[card]
+primitive=Dwarven Patrol
+id=26672
+rarity=U
+[/card]
+[card]
+primitive=Ebony Treefolk
+id=29450
+rarity=U
+[/card]
+[card]
+primitive=Emblazoned Golem
+id=26264
+rarity=U
+[/card]
+[card]
+primitive=Enlistment Officer
+id=27657
+rarity=U
+[/card]
+[card]
+primitive=Evasive Action
+id=26261
+rarity=U
+[/card]
+[card]
+primitive=False Dawn
+id=27602
+rarity=R
+[/card]
+[card]
+primitive=Fervent Charge
+id=28011
+rarity=R
+[/card]
+[card]
+primitive=Fire // Ice
+id=27166
+rarity=U
+[/card]
+[card]
+primitive=Flowstone Charger
+id=19117
+rarity=U
+[/card]
+[card]
+primitive=Foul Presence
+id=28805
+rarity=U
+[/card]
+[card]
+primitive=Fungal Shambler
+id=26743
+rarity=R
+[/card]
+[card]
+primitive=Gaea's Balance
+id=28668
+rarity=U
+[/card]
+[card]
+primitive=Gaea's Skyfolk
+id=26757
+rarity=C
+[/card]
+[card]
+primitive=Gerrard Capashen
+id=26793
+rarity=R
+[/card]
+[card]
+primitive=Gerrard's Verdict
+id=29416
+rarity=U
+[/card]
+[card]
+primitive=Glade Gnarr
+id=27154
+rarity=C
+[/card]
+[card]
+primitive=Goblin Legionnaire
+id=26760
+rarity=C
+[/card]
+[card]
+primitive=Goblin Ringleader
+id=27664
+rarity=U
+[/card]
+[card]
+primitive=Goblin Trenches
+id=29417
+rarity=R
+[/card]
+[card]
+primitive=Grave Defiler
+id=27662
+rarity=U
+[/card]
+[card]
+primitive=Guided Passage
+id=27169
+rarity=R
+[/card]
+[card]
+primitive=Haunted Angel
+id=25910
+rarity=U
+[/card]
+[card]
+primitive=Helionaut
+id=26854
+rarity=C
+[/card]
+[card]
+primitive=Ice Cave
+id=26451
+rarity=R
+[/card]
+[card]
+primitive=Illuminate
+id=26447
+rarity=U
+[/card]
+[card]
+primitive=Illusion // Reality
+id=27164
+rarity=U
+[/card]
+[card]
+primitive=Index
+id=25969
+rarity=C
+[/card]
+[card]
+primitive=Jaded Response
+id=26673
+rarity=C
+[/card]
+[card]
+primitive=Jilt
+id=26797
+rarity=C
+[/card]
+[card]
+primitive=Jungle Barrier
+id=29304
+rarity=U
+[/card]
+[card]
+primitive=Kavu Glider
+id=26809
+rarity=C
+[/card]
+[card]
+primitive=Kavu Howler
+id=28750
+rarity=U
+[/card]
+[card]
+primitive=Kavu Mauler
+id=27760
+rarity=R
+[/card]
+[card]
+primitive=Last Caress
+id=27591
+rarity=C
+[/card]
+[card]
+primitive=Last Stand
+id=27231
+rarity=R
+[/card]
+[card]
+primitive=Lay of the Land
+id=26816
+rarity=C
+[/card]
+[card]
+primitive=Legacy Weapon
+id=26424
+rarity=R
+[/card]
+[card]
+primitive=Life // Death
+id=27162
+rarity=U
+[/card]
+[card]
+primitive=Lightning Angel
+id=27650
+rarity=R
+[/card]
+[card]
+primitive=Living Airship
+id=26795
+rarity=C
+[/card]
+[card]
+primitive=Llanowar Dead
+id=26759
+rarity=C
+[/card]
+[card]
+primitive=Llanowar Wastes
+id=23248
+rarity=R
+[/card]
+[card]
+primitive=Manacles of Decay
+id=26788
+rarity=C
+[/card]
+[card]
+primitive=Martyrs' Tomb
+id=25825
+rarity=U
+[/card]
+[card]
+primitive=Mask of Intolerance
+id=29677
+rarity=R
+[/card]
+[card]
+primitive=Mind Extraction
+id=27171
+rarity=C
+[/card]
+[card]
+primitive=Minotaur Illusionist
+id=28008
+rarity=U
+[/card]
+[card]
+primitive=Minotaur Tactician
+id=26849
+rarity=C
+[/card]
+[card]
+primitive=Mournful Zombie
+id=26800
+rarity=C
+[/card]
+[card]
+primitive=Mystic Snake
+id=26421
+rarity=R
+[/card]
+[card]
+primitive=Necra Disciple
+id=25854
+rarity=C
+[/card]
+[card]
+primitive=Necra Sanctuary
+id=27136
+rarity=U
+[/card]
+[card]
+primitive=Necravolver
+id=25949
+rarity=R
+[/card]
+[card]
+primitive=Night // Day
+id=26691
+rarity=U
+[/card]
+[card]
+primitive=Order // Chaos
+id=27168
+rarity=U
+[/card]
+[card]
+primitive=Orim's Thunder
+id=28751
+rarity=C
+[/card]
+[card]
+primitive=Overgrown Estate
+id=25816
+rarity=R
+[/card]
+[card]
+primitive=Penumbra Bobcat
+id=26815
+rarity=C
+[/card]
+[card]
+primitive=Penumbra Kavu
+id=25956
+rarity=U
+[/card]
+[card]
+primitive=Penumbra Wurm
+id=27669
+rarity=R
+[/card]
+[card]
+primitive=Pernicious Deed
+id=25953
+rarity=R
+[/card]
+[card]
+primitive=Phyrexian Arena
+id=27663
+rarity=R
+[/card]
+[card]
+primitive=Phyrexian Gargantua
+id=26699
+rarity=U
+[/card]
+[card]
+primitive=Phyrexian Rager
+id=27660
+rarity=C
+[/card]
+[card]
+primitive=Planar Despair
+id=25859
+rarity=R
+[/card]
+[card]
+primitive=Powerstone Minefield
+id=23198
+rarity=R
+[/card]
+[card]
+primitive=Prophetic Bolt
+id=27187
+rarity=R
+[/card]
+[card]
+primitive=Putrid Warrior
+id=26758
+rarity=C
+[/card]
+[card]
+primitive=Quagmire Druid
+id=27188
+rarity=C
+[/card]
+[card]
+primitive=Quicksilver Dagger
+id=26373
+rarity=C
+[/card]
+[card]
+primitive=Raka Disciple
+id=25855
+rarity=C
+[/card]
+[card]
+primitive=Raka Sanctuary
+id=27179
+rarity=U
+[/card]
+[card]
+primitive=Rakavolver
+id=25950
+rarity=R
+[/card]
+[card]
+primitive=Razorfin Hunter
+id=26756
+rarity=C
+[/card]
+[card]
+primitive=Reef Shaman
+id=27158
+rarity=C
+[/card]
+[card]
+primitive=Savage Gorilla
+id=25971
+rarity=C
+[/card]
+[card]
+primitive=Shield of Duty and Reason
+id=27674
+rarity=C
+[/card]
+[card]
+primitive=Shimmering Mirage
+id=28753
+rarity=C
+[/card]
+[card]
+primitive=Shivan Reef
+id=23250
+rarity=R
+[/card]
+[card]
+primitive=Smash
+id=29605
+rarity=C
+[/card]
+[card]
+primitive=Soul Link
+id=26822
+rarity=C
+[/card]
+[card]
+primitive=Spectral Lynx
+id=26663
+rarity=R
+[/card]
+[card]
+primitive=Spiritmonger
+id=28009
+rarity=R
+[/card]
+[card]
+primitive=Squee's Embrace
+id=26785
+rarity=C
+[/card]
+[card]
+primitive=Squee's Revenge
+id=26831
+rarity=U
+[/card]
+[card]
+primitive=Standard Bearer
+id=26783
+rarity=C
+[/card]
+[card]
+primitive=Strength of Night
+id=28007
+rarity=C
+[/card]
+[card]
+primitive=Suffocating Blast
+id=27583
+rarity=R
+[/card]
+[card]
+primitive=Suppress
+id=28749
+rarity=U
+[/card]
+[card]
+primitive=Sylvan Messenger
+id=27666
+rarity=U
+[/card]
+[card]
+primitive=Symbiotic Deployment
+id=27160
+rarity=R
+[/card]
+[card]
+primitive=Tahngarth's Glare
+id=27156
+rarity=C
+[/card]
+[card]
+primitive=Temporal Spring
+id=25832
+rarity=C
+[/card]
+[card]
+primitive=Tidal Courier
+id=27659
+rarity=U
+[/card]
+[card]
+primitive=Tranquil Path
+id=26720
+rarity=C
+[/card]
+[card]
+primitive=Tundra Kavu
+id=26805
+rarity=C
+[/card]
+[card]
+primitive=Unnatural Selection
+id=26776
+rarity=R
+[/card]
+[card]
+primitive=Urborg Elf
+id=26717
+rarity=C
+[/card]
+[card]
+primitive=Urborg Uprising
+id=26802
+rarity=C
+[/card]
+[card]
+primitive=Vindicate
+id=19135
+rarity=R
+[/card]
+[card]
+primitive=Vodalian Mystic
+id=26855
+rarity=U
+[/card]
+[card]
+primitive=Whirlpool Drake
+id=27671
+rarity=U
+[/card]
+[card]
+primitive=Whirlpool Rider
+id=27670
+rarity=C
+[/card]
+[card]
+primitive=Whirlpool Warrior
+id=27672
+rarity=R
+[/card]
+[card]
+primitive=Wild Research
+id=23056
+rarity=R
+[/card]
+[card]
+primitive=Yavimaya Coast
+id=23249
+rarity=R
+[/card]
+[card]
+primitive=Yavimaya's Embrace
+id=19132
+rarity=R
+[/card]
+[card]
+primitive=Zombie Boa
+id=26801
+rarity=C
+[/card]

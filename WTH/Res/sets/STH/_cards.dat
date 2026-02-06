@@ -1,0 +1,728 @@
+[meta]
+author=Wagic Team
+name=Stronghold
+block=Tempest
+orderindex=EXP-E.STH
+year=1998-03-02
+total=144
+[/meta]
+[card]
+primitive=Acidic Sliver
+id=5108
+rarity=U
+[/card]
+[card]
+primitive=Amok
+id=5109
+rarity=R
+[/card]
+[card]
+primitive=Awakening
+id=5110
+rarity=R
+[/card]
+[card]
+primitive=Bandage
+id=5111
+rarity=C
+[/card]
+[card]
+primitive=Bottomless Pit
+id=5113
+rarity=U
+[/card]
+[card]
+primitive=Brush with Death
+id=5114
+rarity=C
+[/card]
+[card]
+primitive=Bullwhip
+id=5115
+rarity=U
+[/card]
+[card]
+primitive=Burgeoning
+id=5116
+rarity=R
+[/card]
+[card]
+primitive=Calming Licid
+id=5117
+rarity=U
+[/card]
+[card]
+primitive=Cannibalize
+id=5118
+rarity=C
+[/card]
+[card]
+primitive=Carnassid
+id=5217
+rarity=R
+[/card]
+[card]
+primitive=Change of Heart
+id=5121
+rarity=C
+[/card]
+[card]
+primitive=Cloud Spirit
+id=5122
+rarity=C
+[/card]
+[card]
+primitive=Constant Mists
+id=5123
+rarity=U
+[/card]
+[card]
+primitive=Contemplation
+id=5125
+rarity=U
+[/card]
+[card]
+primitive=Contempt
+id=5126
+rarity=C
+[/card]
+[card]
+primitive=Conviction
+id=5127
+rarity=C
+[/card]
+[card]
+primitive=Convulsing Licid
+id=5129
+rarity=U
+[/card]
+[card]
+primitive=Corrupting Licid
+id=5128
+rarity=U
+[/card]
+[card]
+primitive=Craven Giant
+id=5130
+rarity=C
+[/card]
+[card]
+primitive=Crossbow Ambush
+id=5131
+rarity=C
+[/card]
+[card]
+primitive=Crovax the Cursed
+id=5106
+rarity=R
+[/card]
+[card]
+primitive=Crystalline Sliver
+id=5134
+rarity=U
+[/card]
+[card]
+primitive=Dauthi Trapper
+id=5135
+rarity=U
+[/card]
+[card]
+primitive=Death Stroke
+id=5137
+rarity=C
+[/card]
+[card]
+primitive=Dream Halls
+id=5105
+rarity=R
+[/card]
+[card]
+primitive=Dream Prowler
+id=5140
+rarity=C
+[/card]
+[card]
+primitive=Duct Crawler
+id=5141
+rarity=C
+[/card]
+[card]
+primitive=Dungeon Shade
+id=5142
+rarity=C
+[/card]
+[card]
+primitive=Elven Rite
+id=5144
+rarity=U
+[/card]
+[card]
+primitive=Endangered Armodon
+id=5145
+rarity=C
+[/card]
+[card]
+primitive=Ensnaring Bridge
+id=5124
+rarity=R
+[/card]
+[card]
+primitive=Evacuation
+id=5147
+rarity=R
+[/card]
+[card]
+primitive=Fanning the Flames
+id=5148
+rarity=U
+[/card]
+[card]
+primitive=Flame Wave
+id=5150
+rarity=U
+[/card]
+[card]
+primitive=Fling
+id=5151
+rarity=C
+[/card]
+[card]
+primitive=Flowstone Blade
+id=5152
+rarity=C
+[/card]
+[card]
+primitive=Flowstone Hellion
+id=5153
+rarity=U
+[/card]
+[card]
+primitive=Flowstone Mauler
+id=5154
+rarity=R
+[/card]
+[card]
+primitive=Flowstone Shambler
+id=5156
+rarity=C
+[/card]
+[card]
+primitive=Foul Imp
+id=5158
+rarity=C
+[/card]
+[card]
+primitive=Furnace Spirit
+id=5160
+rarity=C
+[/card]
+[card]
+primitive=Gliding Licid
+id=5162
+rarity=U
+[/card]
+[card]
+primitive=Grave Pact
+id=5136
+rarity=R
+[/card]
+[card]
+primitive=Hammerhead Shark
+id=5163
+rarity=C
+[/card]
+[card]
+primitive=Heartstone
+id=5164
+rarity=U
+[/card]
+[card]
+primitive=Heat of Battle
+id=5165
+rarity=U
+[/card]
+[card]
+primitive=Hermit Druid
+id=5166
+rarity=R
+[/card]
+[card]
+primitive=Hesitation
+id=5167
+rarity=U
+[/card]
+[card]
+primitive=Hibernation Sliver
+id=5168
+rarity=U
+[/card]
+[card]
+primitive=Hidden Retreat
+id=5169
+rarity=R
+[/card]
+[card]
+primitive=Honor Guard
+id=5170
+rarity=C
+[/card]
+[card]
+primitive=Horn of Greed
+id=5172
+rarity=R
+[/card]
+[card]
+primitive=Hornet
+id=-5173
+rarity=T
+[/card]
+[card]
+primitive=Hornet Cannon
+id=5173
+rarity=U
+[/card]
+[card]
+primitive=Intruder Alarm
+id=5174
+rarity=R
+[/card]
+[card]
+primitive=Invasion Plans
+id=5175
+rarity=R
+[/card]
+[card]
+primitive=Jinxed Ring
+id=5177
+rarity=R
+[/card]
+[card]
+primitive=Lab Rats
+id=5178
+rarity=C
+[/card]
+[card]
+primitive=Lancers en-Kor
+id=5179
+rarity=U
+[/card]
+[card]
+primitive=Leap
+id=5180
+rarity=C
+[/card]
+[card]
+primitive=Lowland Basilisk
+id=5181
+rarity=C
+[/card]
+[card]
+primitive=Mana Leak
+id=5182
+rarity=C
+[/card]
+[card]
+primitive=Mask of the Mimic
+id=5183
+rarity=U
+[/card]
+[card]
+primitive=Megrim
+id=5185
+rarity=U
+[/card]
+[card]
+primitive=Mind Games
+id=5186
+rarity=C
+[/card]
+[card]
+primitive=Mind Peel
+id=5187
+rarity=U
+[/card]
+[card]
+primitive=Mindwarper
+id=5188
+rarity=R
+[/card]
+[card]
+primitive=Mob Justice
+id=5101
+rarity=C
+[/card]
+[card]
+primitive=Mogg Bombers
+id=4980
+rarity=C
+[/card]
+[card]
+primitive=Mogg Flunkies
+id=5100
+rarity=C
+[/card]
+[card]
+primitive=Mogg Infestation
+id=5107
+rarity=R
+[/card]
+[card]
+primitive=Mogg Maniac
+id=5120
+rarity=U
+[/card]
+[card]
+primitive=Morgue Thrull
+id=5191
+rarity=C
+[/card]
+[card]
+primitive=Mortuary
+id=5192
+rarity=R
+[/card]
+[card]
+primitive=Mox Diamond
+id=5193
+rarity=R
+[/card]
+[card]
+primitive=Mulch
+id=5194
+rarity=C
+[/card]
+[card]
+primitive=Nomads en-Kor
+id=5196
+rarity=C
+[/card]
+[card]
+primitive=Overgrowth
+id=5198
+rarity=C
+[/card]
+[card]
+primitive=Portcullis
+id=5202
+rarity=R
+[/card]
+[card]
+primitive=Primal Rage
+id=5149
+rarity=U
+[/card]
+[card]
+primitive=Provoke
+id=5203
+rarity=C
+[/card]
+[card]
+primitive=Pursuit of Knowledge
+id=5204
+rarity=R
+[/card]
+[card]
+primitive=Rabid Rats
+id=5205
+rarity=C
+[/card]
+[card]
+primitive=Ransack
+id=5206
+rarity=U
+[/card]
+[card]
+primitive=Rebound
+id=5209
+rarity=U
+[/card]
+[card]
+primitive=Reins of Power
+id=5210
+rarity=R
+[/card]
+[card]
+primitive=Revenant
+id=5211
+rarity=R
+[/card]
+[card]
+primitive=Rolling Stones
+id=5212
+rarity=R
+[/card]
+[card]
+primitive=Ruination
+id=5213
+rarity=R
+[/card]
+[card]
+primitive=Sacred Ground
+id=5214
+rarity=R
+[/card]
+[card]
+primitive=Samite Blessing
+id=5215
+rarity=C
+[/card]
+[card]
+primitive=Scapegoat
+id=5138
+rarity=U
+[/card]
+[card]
+primitive=Seething Anger
+id=5218
+rarity=C
+[/card]
+[card]
+primitive=Serpent Warrior
+id=5219
+rarity=C
+[/card]
+[card]
+primitive=Shaman en-Kor
+id=5220
+rarity=R
+[/card]
+[card]
+primitive=Shard Phoenix
+id=5155
+rarity=R
+[/card]
+[card]
+primitive=Shifting Wall
+id=5222
+rarity=U
+[/card]
+[card]
+primitive=Shock
+id=5143
+rarity=C
+[/card]
+[card]
+primitive=Sift
+id=5223
+rarity=C
+[/card]
+[card]
+primitive=Silver Wyvern
+id=5103
+rarity=R
+[/card]
+[card]
+primitive=Skeleton Scavengers
+id=5226
+rarity=R
+[/card]
+[card]
+primitive=Skyshroud Archer
+id=5228
+rarity=C
+[/card]
+[card]
+primitive=Skyshroud Falcon
+id=5224
+rarity=C
+[/card]
+[card]
+primitive=Skyshroud Troopers
+id=5230
+rarity=C
+[/card]
+[card]
+primitive=Sliver Queen
+id=5233
+rarity=R
+[/card]
+[card]
+primitive=Smite
+id=5234
+rarity=C
+[/card]
+[card]
+primitive=Soltari Champion
+id=5235
+rarity=R
+[/card]
+[card]
+primitive=Spike Breeder
+id=5237
+rarity=R
+[/card]
+[card]
+primitive=Spike Colony
+id=5238
+rarity=C
+[/card]
+[card]
+primitive=Spike Feeder
+id=5239
+rarity=U
+[/card]
+[card]
+primitive=Spike Soldier
+id=5241
+rarity=U
+[/card]
+[card]
+primitive=Spike Worker
+id=5242
+rarity=C
+[/card]
+[card]
+primitive=Spindrift Drake
+id=5243
+rarity=C
+[/card]
+[card]
+primitive=Spined Sliver
+id=5190
+rarity=U
+[/card]
+[card]
+primitive=Spined Wurm
+id=5245
+rarity=C
+[/card]
+[card]
+primitive=Spirit en-Kor
+id=5236
+rarity=C
+[/card]
+[card]
+primitive=Spitting Hydra
+id=5246
+rarity=R
+[/card]
+[card]
+primitive=Stronghold Assassin
+id=5247
+rarity=R
+[/card]
+[card]
+primitive=Stronghold Taskmaster
+id=5249
+rarity=U
+[/card]
+[card]
+primitive=Sword of the Chosen
+id=5250
+rarity=R
+[/card]
+[card]
+primitive=Temper
+id=5251
+rarity=U
+[/card]
+[card]
+primitive=Tempting Licid
+id=5252
+rarity=U
+[/card]
+[card]
+primitive=Thalakos Deceiver
+id=5253
+rarity=R
+[/card]
+[card]
+primitive=Tidal Surge
+id=5255
+rarity=C
+[/card]
+[card]
+primitive=Tidal Warrior
+id=5256
+rarity=C
+[/card]
+[card]
+primitive=Torment
+id=5257
+rarity=C
+[/card]
+[card]
+primitive=Tortured Existence
+id=5195
+rarity=C
+[/card]
+[card]
+primitive=Venerable Monk
+id=5258
+rarity=C
+[/card]
+[card]
+primitive=Verdant Touch
+id=5259
+rarity=R
+[/card]
+[card]
+primitive=Victual Sliver
+id=5197
+rarity=U
+[/card]
+[card]
+primitive=Volrath's Gardens
+id=5260
+rarity=R
+[/card]
+[card]
+primitive=Volrath's Laboratory
+id=5261
+rarity=R
+[/card]
+[card]
+primitive=Volrath's Shapeshifter
+id=5262
+rarity=R
+[/card]
+[card]
+primitive=Volrath's Stronghold
+id=5263
+rarity=R
+[/card]
+[card]
+primitive=Walking Dream
+id=5264
+rarity=U
+[/card]
+[card]
+primitive=Wall of Blossoms
+id=5265
+rarity=U
+[/card]
+[card]
+primitive=Wall of Essence
+id=5267
+rarity=U
+[/card]
+[card]
+primitive=Wall of Razors
+id=5268
+rarity=U
+[/card]
+[card]
+primitive=Wall of Souls
+id=5269
+rarity=U
+[/card]
+[card]
+primitive=Wall of Tears
+id=5270
+rarity=U
+[/card]
+[card]
+primitive=Warrior Angel
+id=5271
+rarity=R
+[/card]
+[card]
+primitive=Warrior en-Kor
+id=5272
+rarity=U
+[/card]
+[card]
+primitive=Youthful Knight
+id=5274
+rarity=C
+[/card]

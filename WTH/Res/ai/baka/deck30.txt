@@ -1,0 +1,31 @@
+#NAME:Imperious Vanguard
+#DESC:An endless stream
+#DESC:of elvish warriors
+#DESC:will overwhelm you,
+#DESC:powered by an unceasing
+#DESC:supply of mana.
+#DESC:
+#DESC:Flee!
+#DESC:
+#DESC:You have no chance!
+
+# Land(s)
+Forest (M12) * 20
+Gaea's Cradle (PRM) * 1
+Pendelhaven (A25) * 1
+
+# Creature(s)
+Drove of Elves (SHM) * 1
+Elvish Archdruid (M10) * 4
+Elvish Hexhunter (SHM) * 4
+Elvish Vanguard (EMA) * 4
+Elvish Visionary (ALA) * 4
+Heedless One (PSAL) * 3
+Imperious Perfect (LRW) * 4
+Llanowar Elves (9ED) * 4
+Wellwisher (C14) * 4
+
+# Sorcery(s)
+Elvish Promenade (LRW) * 4
+Overrun (10E) * 2
+

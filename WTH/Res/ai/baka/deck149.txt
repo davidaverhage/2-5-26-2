@@ -1,0 +1,26 @@
+#NAME:Shocking Minotaurs
+#DESC:Deck for Wagic by Bob
+#HINT:combo hold(Raise Dead|myhand)^cast(Raise Dead|myhand)^restriction{type(creature[toughness>=2]|mygraveyard)~morethan~0}~totalmananeeded({B})
+Badlands (*) * 1
+Blackcleave Cliffs (*) * 2
+Bloodrage Brawler (*) * 4
+Dragonskull Summit  (*) * 2
+Fanatic of Mogis (*) * 1
+Felhide Petrifier (*) * 2
+Gnarled Scarhide (*) * 2
+Kragma Warcaller (*) * 4
+Lightning Bolt (*) * 4
+Mogis, God of Slaughter (*) * 2
+Moraug, Fury of Akoum (*) * 1
+Mountain (DSK) (*) * 4
+Mountain (MKM) (*) * 3
+Mountain (WOE) (*) * 4
+Neheb, the Eternal (*) * 1
+Neheb, the Worthy (*) * 3
+Rageblood Shaman (*) * 4
+Ragemonger (*) * 4
+Raise Dead (9ED) (*) * 2
+Shock (*) * 2
+Swamp (DSK) (*) * 4
+Swamp (WOE) (*) * 2
+Terminate (NCC) (*) * 2

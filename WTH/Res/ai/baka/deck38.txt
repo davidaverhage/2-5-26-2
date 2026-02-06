@@ -1,0 +1,26 @@
+#NAME:Bad Dreams
+#DESC:If you ever thought
+#DESC:  that YOU had bad dreams ...
+#DESC:Wait until you meet these.
+# Land(s)
+Mountain (M10) * 8
+Swamp (M10) * 16
+
+# Artifact(s)
+Black Vise (V10) * 1
+Font of Mythos (CFX) * 2
+Howling Mine (8ED) * 4
+
+# Enchantment(s)
+Spiteful Visions (SHM) * 4
+Underworld Dreams (8ED) * 4
+
+# Instant(s)
+Lightning Bolt (M10) * 4
+Sudden Impact (8ED) * 4
+Terminate (ARB) * 4
+
+# Sorcery(s)
+Damnation (PLC) * 4
+Infest (ALA) * 4
+Wheel of Fortune (VMA) * 1

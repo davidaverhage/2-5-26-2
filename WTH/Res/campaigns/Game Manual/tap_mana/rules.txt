@@ -1,0 +1,7 @@
+include mtg.txt
+[INIT]
+mode=mtg
+[PLAYER1]
+inplay:forest
+auto=@tapped(land|myinplay):wingame controller
+auto=@next combatbegins:wingame opponent

@@ -1,0 +1,20 @@
+#NAME:Racked Mind
+#DESC:Notch by notch
+#DESC:I turn the wheel
+#DESC:stretching your bonded limbs.
+#DESC:
+#DESC:There is nothing you can do.
+#DESC:You might as well surrender
+#DESC:right away.
+The Rack (RV)                * 4 #
+Bad Moon (RV)                * 4 #
+Dark Ritual (RV)             * 4 #
+Mind Twist (RV)              * 1 #
+Hymn to Tourach (FEM)        * 4 #
+Death Stroke (STH)           * 4 #
+Mindslicer (ODY)             * 4 #
+Restless Apparition (EVE)    * 4 #
+Vampire Nighthawk (ZEN)      * 3 #
+Sign in Blood (M10)          * 4 #
+Hypnotic Specter (M10)       * 2 #
+Swamp (ZEN)                  *22 #
