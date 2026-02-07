@@ -92,7 +92,10 @@ export function createMultiUserRouter(config: MultiUserConfig): {
 }
 
 // Standalone server support
-if (process.argv[1]?.endsWith("index.js")) {
+const isMainModule =
+  import.meta.url === new URL(process.argv[1] ?? "", "file:").href;
+
+if (isMainModule) {
   const port = parseInt(process.env["PORT"] ?? "3000", 10);
   const dbPath = process.env["DB_PATH"] ?? "./multi_user.db";
   const sessionSecret = process.env["SESSION_SECRET"] ?? "change-me-in-production";
