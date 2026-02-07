@@ -45,6 +45,8 @@ export function createMultiUserApp(config: MultiUserConfig): express.Express {
 
   const app = express();
   app.use(express.json());
+
+  const isProduction = process.env["NODE_ENV"] === "production";
   app.use(
     session({
       secret: config.sessionSecret,
@@ -53,7 +55,8 @@ export function createMultiUserApp(config: MultiUserConfig): express.Express {
       cookie: {
         maxAge: config.sessionMaxAge ?? 24 * 60 * 60 * 1000,
         httpOnly: true,
-        sameSite: "lax",
+        secure: isProduction,
+        sameSite: "strict",
       },
     })
   );

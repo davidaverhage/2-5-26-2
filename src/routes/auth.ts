@@ -1,5 +1,15 @@
 import { Router } from "express";
+import rateLimit from "express-rate-limit";
 import type { UserService } from "../services/user_service.js";
+
+/** Rate limiter for login attempts: max 10 per 15 minutes per IP */
+const loginLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  max: 10,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: "Too many login attempts, please try again later" },
+});
 
 /**
  * Create authentication routes (login/logout).
@@ -9,7 +19,7 @@ export function createAuthRoutes(userService: UserService): Router {
   const router = Router();
 
   /** POST /api/auth/login - Authenticate user */
-  router.post("/login", (req, res) => {
+  router.post("/login", loginLimiter, (req, res) => {
     const { username, password } = req.body as { username?: string; password?: string };
 
     if (!username || !password) {
